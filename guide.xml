@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PRO TV">
+    <display-name lang="ro">PRO TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <programme start="20200304070000 +0200" stop="20200304103000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200304103000 +0200" stop="20200304130000 +0200" channel="PRO TV">
+    <title lang="ro">Vorbeşte lumea</title>
+    <desc lang="ro">Carisma, senzualitatea, umorul si onestitatea se intalnesc in cea mai noua emisiune de lifestyle si stiri mondene, Vorbeste lumea, din 13 iulie, numai la PRO TV. Nadine, Sore, Vica Blochina si Razvan Fodor vor prezenta fata nevazuta a lumii mondene si le(n)</desc>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20200304130000 +0200" stop="20200304140000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200304140000 +0200" stop="20200304150000 +0200" channel="PRO TV">
+    <title lang="ro">Lecţii de viaţă</title>
+    <desc lang="ro">„Lecții de viață” este o emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnit(n)</desc>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20200304150000 +0200" stop="20200304170000 +0200" channel="PRO TV">
+    <title lang="ro">La Maruţă</title>
+    <desc lang="ro">Stăpânul aMăruţelor, pus pe şotii şi atent la tot ce se întâmplă în lumea mondenă a României, e pregătit să dea iama în showbizul autohton şi promite în fiecare zi multe exclusivităţi şi distracţie cât curpinde(n)</desc>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20200304170000 +0200" stop="20200304180000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200304180000 +0200" stop="20200304190000 +0200" channel="PRO TV">
+    <title lang="ro">Ce spun românii</title>
+    <desc lang="ro">Telespectatorii sunt invitati sa se distreze alaturi de Cabral si sa afle "Ce spun romanii", de luni pana vineri, incepand cu ora 18:00, numai la Pro TV!(n)</desc>
+  </programme>
+  <programme start="20200304190000 +0200" stop="20200305070000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+</tv>
