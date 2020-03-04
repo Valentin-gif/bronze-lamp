@@ -12,6 +12,10 @@
     <display-name lang="ro">Digi Sport 1</display-name>
     <url>http://www.digiromania.ro</url>
   </channel>
+  <channel id="Digi Sport 2">
+    <display-name lang="ro">Digi Sport 2</display-name>
+    <url>http://www.digiromania.ro</url>
+  </channel>
   <programme start="20200304070000 +0200" stop="20200304103000 +0200" channel="PRO TV">
     <title lang="ro">Ştirile Pro Tv</title>
   </programme>
@@ -186,5 +190,26 @@
   </programme>
   <programme start="20200304234500 +0200" stop="20200305000000 +0200" channel="Digi Sport 1">
     <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304070000 +0200" stop="20200304130000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Tenis</title>
+  </programme>
+  <programme start="20200304130000 +0200" stop="20200304150000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Tenis: Viktoriya TOMOVA &amp;lpar;BUL&amp;rpar; - Alison VAN UYTVANCK &amp;lpar;BEL&amp;rpar;</title>
+  </programme>
+  <programme start="20200304150000 +0200" stop="20200304170000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Tenis: Camila GIORGI &amp;lpar;ITA&amp;rpar; - Aliz� CORNET &amp;lpar;FRA&amp;rpar;</title>
+  </programme>
+  <programme start="20200304170000 +0200" stop="20200304193000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Tenis: Sofia KENIN &amp;lpar;USA&amp;rpar; - Vitalia DIATCHENKO &amp;lpar;RUS&amp;rpar;</title>
+  </programme>
+  <programme start="20200304193000 +0200" stop="20200304210000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Tenis: Caroline GARCIA &amp;lpar;FRA&amp;rpar; - Ysaline BONAVENTURE &amp;lpar;BEL&amp;rpar;</title>
+  </programme>
+  <programme start="20200304210000 +0200" stop="20200304230000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Tenis: Mandy MINELLA &amp;lpar;LUX&amp;rpar; - Oceane DODIN &amp;lpar;FRA&amp;rpar;</title>
+  </programme>
+  <programme start="20200304230000 +0200" stop="20200305010000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Tenis: WTA Monterey - Anna Karolina SCHMIEDLOVA &amp;lpar;SVK&amp;rpar; - Marie BOUZKOVA &amp;lpar;CZE&amp;rpar;</title>
   </programme>
 </tv>
