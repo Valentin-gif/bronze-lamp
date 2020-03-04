@@ -16,6 +16,14 @@
     <display-name lang="ro">Digi Sport 2</display-name>
     <url>http://www.digiromania.ro</url>
   </channel>
+  <channel id="Digi Sport 3">
+    <display-name lang="ro">Digi Sport 3</display-name>
+    <url>http://www.digiromania.ro</url>
+  </channel>
+  <channel id="Digi24">
+    <display-name lang="ro">Digi24</display-name>
+    <url>http://www.digiromania.ro</url>
+  </channel>
   <programme start="20200304070000 +0200" stop="20200304103000 +0200" channel="PRO TV">
     <title lang="ro">Ştirile Pro Tv</title>
   </programme>
@@ -211,5 +219,257 @@
   </programme>
   <programme start="20200304230000 +0200" stop="20200305010000 +0200" channel="Digi Sport 2">
     <title lang="ro">Tenis: WTA Monterey - Anna Karolina SCHMIEDLOVA &amp;lpar;SVK&amp;rpar; - Marie BOUZKOVA &amp;lpar;CZE&amp;rpar;</title>
+  </programme>
+  <programme start="20200304063000 +0200" stop="20200304065900 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304065900 +0200" stop="20200304080000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Rezumat Germania Bundesliga</title>
+  </programme>
+  <programme start="20200304080000 +0200" stop="20200304084500 +0200" channel="Digi Sport 3">
+    <title lang="ro">Rezumatele Etapei Liga 1</title>
+  </programme>
+  <programme start="20200304084500 +0200" stop="20200304091500 +0200" channel="Digi Sport 3">
+    <title lang="ro">UCL Magazin</title>
+  </programme>
+  <programme start="20200304091500 +0200" stop="20200304101500 +0200" channel="Digi Sport 3">
+    <title lang="ro">Rezumat Spania La Liga</title>
+  </programme>
+  <programme start="20200304101500 +0200" stop="20200304110000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304110000 +0200" stop="20200304111500 +0200" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20200304111500 +0200" stop="20200304120000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304120000 +0200" stop="20200304121500 +0200" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20200304121500 +0200" stop="20200304130000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304130000 +0200" stop="20200304131500 +0200" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20200304131500 +0200" stop="20200304140000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304140000 +0200" stop="20200304141500 +0200" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20200304141500 +0200" stop="20200304150000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304150000 +0200" stop="20200304151500 +0200" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20200304151500 +0200" stop="20200304160000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304160000 +0200" stop="20200304163000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Rezumat EHF Champions League M</title>
+  </programme>
+  <programme start="20200304163000 +0200" stop="20200304170000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304170000 +0200" stop="20200304173000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Serie A: Full Impact</title>
+  </programme>
+  <programme start="20200304173000 +0200" stop="20200304180000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304180000 +0200" stop="20200304183000 +0200" channel="Digi Sport 3">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200304183000 +0200" stop="20200304190000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304190000 +0200" stop="20200304210000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Tenis: WTA Monterey - Kateryna BONDARENKO &amp;lpar;UKR&amp;rpar; - Rebecca PETERSON &amp;lpar;SWE&amp;rpar;</title>
+  </programme>
+  <programme start="20200304210000 +0200" stop="20200304213000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304213000 +0200" stop="20200304220000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304220000 +0200" stop="20200304223000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304223000 +0200" stop="20200304230000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304230000 +0200" stop="20200304234500 +0200" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304234500 +0200" stop="20200305000000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20200304062000 +0200" stop="20200304062500 +0200" channel="Digi24">
+    <title lang="ro">BREAKER  -</title>
+  </programme>
+  <programme start="20200304062500 +0200" stop="20200304064500 +0200" channel="Digi24">
+    <title lang="ro">DIGIMATINAL</title>
+  </programme>
+  <programme start="20200304064500 +0200" stop="20200304065500 +0200" channel="Digi24">
+    <title lang="ro">DIGIMATINAL</title>
+  </programme>
+  <programme start="20200304065500 +0200" stop="20200304072500 +0200" channel="Digi24">
+    <title lang="ro">DIGIMATINAL</title>
+  </programme>
+  <programme start="20200304072500 +0200" stop="20200304074500 +0200" channel="Digi24">
+    <title lang="ro">DIGIMATINAL</title>
+  </programme>
+  <programme start="20200304074500 +0200" stop="20200304075500 +0200" channel="Digi24">
+    <title lang="ro">DIGIMATINAL</title>
+  </programme>
+  <programme start="20200304075500 +0200" stop="20200304081500 +0200" channel="Digi24">
+    <title lang="ro">DIGIMATINAL</title>
+  </programme>
+  <programme start="20200304081500 +0200" stop="20200304082500 +0200" channel="Digi24">
+    <title lang="ro">PASTILA &amp;semi;SANATATEA IN BUCATE&amp;semi;</title>
+  </programme>
+  <programme start="20200304082500 +0200" stop="20200304084500 +0200" channel="Digi24">
+    <title lang="ro">DIGIMATINAL</title>
+  </programme>
+  <programme start="20200304084500 +0200" stop="20200304085500 +0200" channel="Digi24">
+    <title lang="ro">DIGIMATINAL</title>
+  </programme>
+  <programme start="20200304085500 +0200" stop="20200304092500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304092500 +0200" stop="20200304094500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304094500 +0200" stop="20200304095500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304095500 +0200" stop="20200304102500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304102500 +0200" stop="20200304104500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304104500 +0200" stop="20200304105500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304105500 +0200" stop="20200304112500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304112500 +0200" stop="20200304114500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304114500 +0200" stop="20200304120000 +0200" channel="Digi24">
+    <title lang="ro">SPORT</title>
+  </programme>
+  <programme start="20200304120000 +0200" stop="20200304122500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304122500 +0200" stop="20200304124500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304124500 +0200" stop="20200304125500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304125500 +0200" stop="20200304133000 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304133000 +0200" stop="20200304134500 +0200" channel="Digi24">
+    <title lang="ro">BANII IN MISCARE</title>
+  </programme>
+  <programme start="20200304134500 +0200" stop="20200304140000 +0200" channel="Digi24">
+    <title lang="ro">BANII IN MISCARE</title>
+  </programme>
+  <programme start="20200304140000 +0200" stop="20200304142500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304142500 +0200" stop="20200304144500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304144500 +0200" stop="20200304150000 +0200" channel="Digi24">
+    <title lang="ro">SPORT</title>
+  </programme>
+  <programme start="20200304150000 +0200" stop="20200304152500 +0200" channel="Digi24">
+    <title lang="ro">STUDIO POLITIC</title>
+  </programme>
+  <programme start="20200304152500 +0200" stop="20200304155500 +0200" channel="Digi24">
+    <title lang="ro">STUDIO POLITIC</title>
+  </programme>
+  <programme start="20200304155500 +0200" stop="20200304160000 +0200" channel="Digi24">
+    <title lang="ro">STUDIO POLITIC</title>
+  </programme>
+  <programme start="20200304160000 +0200" stop="20200304162500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304162500 +0200" stop="20200304164500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304164500 +0200" stop="20200304165500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304165500 +0200" stop="20200304172500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304172500 +0200" stop="20200304174500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304174500 +0200" stop="20200304180000 +0200" channel="Digi24">
+    <title lang="ro">SPORT</title>
+  </programme>
+  <programme start="20200304180000 +0200" stop="20200304182500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304182500 +0200" stop="20200304184500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304184500 +0200" stop="20200304190000 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304190000 +0200" stop="20200304192500 +0200" channel="Digi24">
+    <title lang="ro">BUSINESS CLUB</title>
+  </programme>
+  <programme start="20200304192500 +0200" stop="20200304194000 +0200" channel="Digi24">
+    <title lang="ro">BUSINESS CLUB</title>
+  </programme>
+  <programme start="20200304194000 +0200" stop="20200304194500 +0200" channel="Digi24">
+    <title lang="ro">BUSINESS CLUB</title>
+  </programme>
+  <programme start="20200304194500 +0200" stop="20200304195500 +0200" channel="Digi24">
+    <title lang="ro">SPORT</title>
+  </programme>
+  <programme start="20200304195500 +0200" stop="20200304200000 +0200" channel="Digi24">
+    <title lang="ro">SPORT</title>
+  </programme>
+  <programme start="20200304200000 +0200" stop="20200304203000 +0200" channel="Digi24">
+    <title lang="ro">JURNALUL DE SEARA</title>
+  </programme>
+  <programme start="20200304203000 +0200" stop="20200304203500 +0200" channel="Digi24">
+    <title lang="ro">BREAKER  -</title>
+  </programme>
+  <programme start="20200304203500 +0200" stop="20200304210000 +0200" channel="Digi24">
+    <title lang="ro">JURNALUL DE SEARA</title>
+  </programme>
+  <programme start="20200304210000 +0200" stop="20200304213500 +0200" channel="Digi24">
+    <title lang="ro">JURNALUL DE SEARA</title>
+  </programme>
+  <programme start="20200304213500 +0200" stop="20200304220000 +0200" channel="Digi24">
+    <title lang="ro">JURNALUL DE SEARA</title>
+  </programme>
+  <programme start="20200304220000 +0200" stop="20200304223500 +0200" channel="Digi24">
+    <title lang="ro">JURNALUL DE SEARA</title>
+  </programme>
+  <programme start="20200304223500 +0200" stop="20200304230000 +0200" channel="Digi24">
+    <title lang="ro">JURNALUL DE SEARA</title>
+  </programme>
+  <programme start="20200304230000 +0200" stop="20200304232500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304232500 +0200" stop="20200304234500 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
+  </programme>
+  <programme start="20200304234500 +0200" stop="20200305000000 +0200" channel="Digi24">
+    <title lang="ro">STIRI</title>
   </programme>
 </tv>
