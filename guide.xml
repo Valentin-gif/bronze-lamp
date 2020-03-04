@@ -1,27 +1,190 @@
-﻿<?xml version="1.0"?>
-<settings>
-   
-  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-   
-  <filename>guide.xml</filename>
-  <mode></mode>
-  <postprocess grab="y" run="n">mdb</postprocess>
-  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
-  <logging>on</logging>
-  <retry time-out="5">4</retry>
-  <timespan>0</timespan>
-  <update>f</update>
- 
-  <!--
-            Replace the next dummy channel entry with the channels you want.
-			You can look into the installed siteini.pack folder on your computer
-  
-            For the latest version,
-            see http://webgrabplus.com/epg-channels for the available sites/channels
-  -->
-  
-  <channel site="cinemagia.ro" site_id="pro-tv" update="i" xmltv_id="PRO TV">PRO TV</channel>
-  <channel site="cinemagia.ro" site_id="antena-1" update="i" xmltv_id="Antena 1">Antena 1</channel>
-  <channel site="digiromania.ro" site_id="449" update="i" xmltv_id="Digi Sport 1">Digi Sport 1</channel>
- 
-</settings>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PRO TV">
+    <display-name lang="ro">PRO TV</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Antena 1">
+    <display-name lang="ro">Antena 1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 1">
+    <display-name lang="ro">Digi Sport 1</display-name>
+    <url>http://www.digiromania.ro</url>
+  </channel>
+  <programme start="20200304070000 +0200" stop="20200304103000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200304103000 +0200" stop="20200304130000 +0200" channel="PRO TV">
+    <title lang="ro">Vorbeşte lumea</title>
+    <desc lang="ro">Carisma, senzualitatea, umorul si onestitatea se intalnesc in cea mai noua emisiune de lifestyle si stiri mondene, Vorbeste lumea, din 13 iulie, numai la PRO TV. Nadine, Sore, Vica Blochina si Razvan Fodor vor prezenta fata nevazuta a lumii mondene si le(n)</desc>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20200304130000 +0200" stop="20200304140000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200304140000 +0200" stop="20200304150000 +0200" channel="PRO TV">
+    <title lang="ro">Lecţii de viaţă</title>
+    <desc lang="ro">„Lecții de viață” este o emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnit(n)</desc>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20200304150000 +0200" stop="20200304170000 +0200" channel="PRO TV">
+    <title lang="ro">La Maruţă</title>
+    <desc lang="ro">Stăpânul aMăruţelor, pus pe şotii şi atent la tot ce se întâmplă în lumea mondenă a României, e pregătit să dea iama în showbizul autohton şi promite în fiecare zi multe exclusivităţi şi distracţie cât curpinde(n)</desc>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20200304170000 +0200" stop="20200304180000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200304180000 +0200" stop="20200304190000 +0200" channel="PRO TV">
+    <title lang="ro">Ce spun românii</title>
+    <desc lang="ro">Telespectatorii sunt invitati sa se distreze alaturi de Cabral si sa afle "Ce spun romanii", de luni pana vineri, incepand cu ora 18:00, numai la Pro TV!(n)</desc>
+  </programme>
+  <programme start="20200304190000 +0200" stop="20200305070000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200304070000 +0200" stop="20200304080000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20200304080000 +0200" stop="20200304120000 +0200" channel="Antena 1">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
+    <desc lang="ro">De luni până vineri, timp de trei ore, pe lângă invitaţii din studio şi reţetele lui Vladut, Răzvan şi Dani găzduiesc transmisiuni in direct de la staţiile locale ale Antenei 1, în care telespectatorii sunt puşi la curent cu cele mai interesante sau haioa(n)</desc>
+  </programme>
+  <programme start="20200304120000 +0200" stop="20200304140000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20200304140000 +0200" stop="20200304160000 +0200" channel="Antena 1">
+    <title lang="ro">Dragoste de tată</title>
+    <title lang="en">Benim Tatli Yalanim</title>
+    <desc lang="ro">Părăsit de soție, Nejat își minte fiica ca să nu o supere. Dar cum Kayra crește, minciunile devin insuportabile. Nejat nu mai știe cum să se descurce și crede că minciuna va fi descoperită, însă, destinul i-o scoate în cale pe Suna care le va schimba viețile, atât lui cât și fiicei sale. Cum se vor descurca Suna și Nejat în acest joc al dragostei?(n)</desc>
+    <credits>
+      <director>Baris Ercetin</director>
+      <actor>Furkan Palali</actor>
+      <actor>Ahmet Saraçoglu</actor>
+      <actor>Seda Turkmen</actor>
+      <actor>Feyza Isik</actor>
+      <actor>Ege KÃ¶kenli</actor>
+      <producer>Onur Güvenatam</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/db/movie/28/61/991/benim-tatli-yalanim-712945l.jpg" />
+    <star-rating>
+      <value>IMDB: 5.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20200304160000 +0200" stop="20200304170000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20200304170000 +0200" stop="20200304190000 +0200" channel="Antena 1">
+    <title lang="ro">Acces direct</title>
+    <desc lang="ro">O emisiune moderată de Mirela Vaida, ce reuşeşte să aducă zilnic în atenţia publicului subiecte inedite şi de actualitate(n)</desc>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20200304190000 +0200" stop="20200305070000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!(n)</desc>
+  </programme>
+  <programme start="20200304070000 +0200" stop="20200304073000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304073000 +0200" stop="20200304080000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304080000 +0200" stop="20200304083000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304083000 +0200" stop="20200304090000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304090000 +0200" stop="20200304093000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304093000 +0200" stop="20200304100000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304100000 +0200" stop="20200304101500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304101500 +0200" stop="20200304110000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Matinal</title>
+  </programme>
+  <programme start="20200304110000 +0200" stop="20200304111500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304111500 +0200" stop="20200304120000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Matinal</title>
+  </programme>
+  <programme start="20200304120000 +0200" stop="20200304121500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304121500 +0200" stop="20200304130000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Special</title>
+  </programme>
+  <programme start="20200304130000 +0200" stop="20200304131500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304131500 +0200" stop="20200304140000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Special</title>
+  </programme>
+  <programme start="20200304140000 +0200" stop="20200304141500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304141500 +0200" stop="20200304150000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Matinal</title>
+  </programme>
+  <programme start="20200304150000 +0200" stop="20200304151500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304151500 +0200" stop="20200304160000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Matinal</title>
+  </programme>
+  <programme start="20200304160000 +0200" stop="20200304163000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304163000 +0200" stop="20200304170000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Rezumatele Etapei Liga 2</title>
+  </programme>
+  <programme start="20200304170000 +0200" stop="20200304173000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304173000 +0200" stop="20200304181500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Cupa Romaniei: Petrolul - Sepsi Sfantu Gheorghe</title>
+  </programme>
+  <programme start="20200304181500 +0200" stop="20200304183000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20200304183000 +0200" stop="20200304193000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Cupa Romaniei: Petrolul - Sepsi Sfantu Gheorghe</title>
+  </programme>
+  <programme start="20200304193000 +0200" stop="20200304203000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Special</title>
+  </programme>
+  <programme start="20200304203000 +0200" stop="20200304211500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Cupa Romaniei: Politehnica Iasi - Universitatea Craiova</title>
+  </programme>
+  <programme start="20200304211500 +0200" stop="20200304213000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Special</title>
+  </programme>
+  <programme start="20200304213000 +0200" stop="20200304223000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Cupa Romaniei: Politehnica Iasi - Universitatea Craiova</title>
+  </programme>
+  <programme start="20200304223000 +0200" stop="20200304234500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Special</title>
+  </programme>
+  <programme start="20200304234500 +0200" stop="20200305000000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+</tv>
