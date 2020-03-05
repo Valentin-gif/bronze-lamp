@@ -24,6 +24,14 @@
     <display-name lang="ro">Pro TV HD</display-name>
     <url>http://www.program24.ro</url>
   </channel>
+  <channel id="Kanal D HD">
+    <display-name lang="ro">Kanal D HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Kanal D">
+    <display-name lang="ro">Kanal D</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
   <programme start="20200305120000 +0200" stop="20200305140000 +0200" channel="Antena 1">
     <title lang="ro">Observator</title>
   </programme>
@@ -998,5 +1006,266 @@
   </programme>
   <programme start="20200307230000 +0200" stop="20200308004500 +0200" channel="PRO TV HD">
     <title lang="ro">Fii pe fază și raportează!</title>
+  </programme>
+  <programme start="20200305130000 +0200" stop="20200305150000 +0200" channel="Kanal D HD">
+    <title lang="ro">În căutarea adevărului</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305170000 +0200" channel="Kanal D HD">
+    <title lang="ro">Teo Show</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305190000 +0200" channel="Kanal D HD">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305200000 +0200" channel="Kanal D HD">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305220000 +0200" channel="Kanal D HD">
+    <title lang="ro">Mă numesc Zuleyha</title>
+  </programme>
+  <programme start="20200305220000 +0200" stop="20200306000000 +0200" channel="Kanal D HD">
+    <title lang="ro">Bravo, ai stil!</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306010000 +0200" channel="Kanal D HD">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306043000 +0200" channel="Kanal D HD">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200306043000 +0200" stop="20200306060000 +0200" channel="Kanal D HD">
+    <title lang="ro">În căutarea adevărului</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306063000 +0200" channel="Kanal D HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306063000 +0200" stop="20200306064500 +0200" channel="Kanal D HD">
+    <title lang="ro">Pastila de râs</title>
+  </programme>
+  <programme start="20200306064500 +0200" stop="20200306073000 +0200" channel="Kanal D HD">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306081500 +0200" channel="Kanal D HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306081500 +0200" stop="20200306084500 +0200" channel="Kanal D HD">
+    <title lang="ro">Pastila de râs</title>
+  </programme>
+  <programme start="20200306084500 +0200" stop="20200306091500 +0200" channel="Kanal D HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306091500 +0200" stop="20200306110000 +0200" channel="Kanal D HD">
+    <title lang="ro">Dragoste și ură</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306120000 +0200" channel="Kanal D HD">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306130000 +0200" channel="Kanal D HD">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306150000 +0200" channel="Kanal D HD">
+    <title lang="ro">În căutarea adevărului</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306170000 +0200" channel="Kanal D HD">
+    <title lang="ro">Teo Show</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306190000 +0200" channel="Kanal D HD">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306200000 +0200" channel="Kanal D HD">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306220000 +0200" channel="Kanal D HD">
+    <title lang="ro">Mă numesc Zuleyha</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200307000000 +0200" channel="Kanal D HD">
+    <title lang="ro">Bravo, ai stil!</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307010000 +0200" channel="Kanal D HD">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307043000 +0200" channel="Kanal D HD">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200307043000 +0200" stop="20200307060000 +0200" channel="Kanal D HD">
+    <title lang="ro">În căutarea adevărului</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307063000 +0200" channel="Kanal D HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307063000 +0200" stop="20200307064500 +0200" channel="Kanal D HD">
+    <title lang="ro">Pastila de râs</title>
+  </programme>
+  <programme start="20200307064500 +0200" stop="20200307073000 +0200" channel="Kanal D HD">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307080000 +0200" channel="Kanal D HD">
+    <title lang="ro">Pastila de râs</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307084500 +0200" channel="Kanal D HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307084500 +0200" stop="20200307110000 +0200" channel="Kanal D HD">
+    <title lang="ro">Teo Show</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307113000 +0200" channel="Kanal D HD">
+    <title lang="ro">Sport, dietă şi o vedetă</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307120000 +0200" channel="Kanal D HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307130000 +0200" channel="Kanal D HD">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307150000 +0200" channel="Kanal D HD">
+    <title lang="ro">În căutarea adevărului</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307160000 +0200" channel="Kanal D HD">
+    <title lang="ro">ROventura</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307180000 +0200" channel="Kanal D HD">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200307180000 +0200" stop="20200307190000 +0200" channel="Kanal D HD">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307200000 +0200" channel="Kanal D HD">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307230000 +0200" channel="Kanal D HD">
+    <title lang="ro">Survivor Romania</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200308010000 +0200" channel="Kanal D HD">
+    <title lang="ro">Bravo, ai stil!</title>
+  </programme>
+  <programme start="20200305120000 +0200" stop="20200305130000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200305130000 +0200" stop="20200305150000 +0200" channel="Kanal D">
+    <title lang="ro">În căutarea adevărului</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305170000 +0200" channel="Kanal D">
+    <title lang="ro">Teo Show</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305190000 +0200" channel="Kanal D">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305200000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305220000 +0200" channel="Kanal D">
+    <title lang="ro">Mă numesc Zuleyha</title>
+  </programme>
+  <programme start="20200305220000 +0200" stop="20200306000000 +0200" channel="Kanal D">
+    <title lang="ro">Bravo, ai stil!</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306010000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306043000 +0200" channel="Kanal D">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200306043000 +0200" stop="20200306060000 +0200" channel="Kanal D">
+    <title lang="ro">În căutarea adevărului</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306063000 +0200" channel="Kanal D">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306063000 +0200" stop="20200306064500 +0200" channel="Kanal D">
+    <title lang="ro">Pastila de râs</title>
+  </programme>
+  <programme start="20200306064500 +0200" stop="20200306073000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306081500 +0200" channel="Kanal D">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306081500 +0200" stop="20200306084500 +0200" channel="Kanal D">
+    <title lang="ro">Pastila de râs</title>
+  </programme>
+  <programme start="20200306084500 +0200" stop="20200306091500 +0200" channel="Kanal D">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306091500 +0200" stop="20200306110000 +0200" channel="Kanal D">
+    <title lang="ro">Dragoste și ură</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306120000 +0200" channel="Kanal D">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306130000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306150000 +0200" channel="Kanal D">
+    <title lang="ro">În căutarea adevărului</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306170000 +0200" channel="Kanal D">
+    <title lang="ro">Teo Show</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306190000 +0200" channel="Kanal D">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306200000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306220000 +0200" channel="Kanal D">
+    <title lang="ro">Mă numesc Zuleyha</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200307000000 +0200" channel="Kanal D">
+    <title lang="ro">Bravo, ai stil!</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307010000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307043000 +0200" channel="Kanal D">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200307043000 +0200" stop="20200307060000 +0200" channel="Kanal D">
+    <title lang="ro">În căutarea adevărului</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307063000 +0200" channel="Kanal D">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307063000 +0200" stop="20200307064500 +0200" channel="Kanal D">
+    <title lang="ro">Pastila de râs</title>
+  </programme>
+  <programme start="20200307064500 +0200" stop="20200307073000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307080000 +0200" channel="Kanal D">
+    <title lang="ro">Pastila de râs</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307084500 +0200" channel="Kanal D">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307084500 +0200" stop="20200307110000 +0200" channel="Kanal D">
+    <title lang="ro">Teo Show</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307113000 +0200" channel="Kanal D">
+    <title lang="ro">Sport, dietă şi o vedetă</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307120000 +0200" channel="Kanal D">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307130000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307150000 +0200" channel="Kanal D">
+    <title lang="ro">În căutarea adevărului</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307160000 +0200" channel="Kanal D">
+    <title lang="ro">ROventura</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307180000 +0200" channel="Kanal D">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200307180000 +0200" stop="20200307190000 +0200" channel="Kanal D">
+    <title lang="ro">Știrile Kanal D</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307200000 +0200" channel="Kanal D">
+    <title lang="ro">Puterea dragostei</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307230000 +0200" channel="Kanal D">
+    <title lang="ro">Survivor Romania</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200308010000 +0200" channel="Kanal D">
+    <title lang="ro">Bravo, ai stil!</title>
   </programme>
 </tv>
