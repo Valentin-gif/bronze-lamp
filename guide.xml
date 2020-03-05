@@ -168,6 +168,46 @@
     <display-name lang="ro">LOOK PLUS HD</display-name>
     <url>http://www.program24.ro</url>
   </channel>
+  <channel id="HBO">
+    <display-name lang="ro">HBO</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="ro">HBO 2</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="ro">HBO 2 HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="HBO 3">
+    <display-name lang="ro">HBO 3</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="HBO 3 HD">
+    <display-name lang="ro">HBO 3 HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="ro">HBO HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="TDC">
+    <display-name lang="ro">TDC</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Film Now">
+    <display-name lang="ro">Film Now</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Film Now HD">
+    <display-name lang="ro">Film Now HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="ro">Comedy Central</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
   <programme start="20200305140000 +0200" stop="20200305160000 +0200" channel="Antena 1">
     <title lang="ro">Dragoste de tată</title>
   </programme>
@@ -3603,9 +3643,6 @@
   <programme start="20200310231500 +0200" stop="20200311011500 +0200" channel="National TV">
     <title lang="ro">Cu pretul sangelui</title>
   </programme>
-  <programme start="20200305151500 +0200" stop="20200305153000 +0200" channel="National 24 Plus">
-    <title lang="ro">Clipuri</title>
-  </programme>
   <programme start="20200305153000 +0200" stop="20200305154500 +0200" channel="National 24 Plus">
     <title lang="ro">Teleshopping</title>
   </programme>
@@ -6336,9 +6373,6 @@
   <programme start="20200310210000 +0200" stop="20200311000000 +0200" channel="Antena 3 HD">
     <title lang="ro">Sinteza zilei</title>
   </programme>
-  <programme start="20200305150000 +0200" stop="20200305153000 +0200" channel="Profit.ro">
-    <title lang="ro">Teleshopping</title>
-  </programme>
   <programme start="20200305153000 +0200" stop="20200305163000 +0200" channel="Profit.ro">
     <title lang="ro">Inside Profit</title>
   </programme>
@@ -6809,9 +6843,6 @@
   </programme>
   <programme start="20200310233000 +0200" stop="20200311000000 +0200" channel="Profit.ro">
     <title lang="ro">Profit News</title>
-  </programme>
-  <programme start="20200305133000 +0200" stop="20200305153000 +0200" channel="Agro TV">
-    <title lang="ro">Agricultura la raport</title>
   </programme>
   <programme start="20200305153000 +0200" stop="20200305154500 +0200" channel="Agro TV">
     <title lang="ro">România Frumoasă</title>
@@ -10674,9 +10705,6 @@
   <programme start="20200310233000 +0200" stop="20200311000000 +0200" channel="Digi Sport 3 HD">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20200305134500 +0200" stop="20200305153000 +0200" channel="Digi Sport 4">
-    <title lang="ro">Cupa Romaniei: Petrolul - Sepsi Sfantu Gheorghe Cupa Romaniei</title>
-  </programme>
   <programme start="20200305153000 +0200" stop="20200305171500 +0200" channel="Digi Sport 4">
     <title lang="ro">Cupa Romaniei: Politehnica Iasi - Universitatea Craiova Cupa Romaniei</title>
   </programme>
@@ -11408,9 +11436,6 @@
   </programme>
   <programme start="20200309020000 +0200" stop="20200309040000 +0200" channel="Telekom Sport 3">
     <title lang="ro">Fotbal Liga 2: Csikszereda - Petrolul</title>
-  </programme>
-  <programme start="20200305133000 +0200" stop="20200305153000 +0200" channel="Telekom Sport 4">
-    <title lang="ro">Fotbal Liga 2: Fc Arges - Mioveni</title>
   </programme>
   <programme start="20200305153000 +0200" stop="20200305163000 +0200" channel="Telekom Sport 4">
     <title lang="ro">Teleshopping</title>
@@ -12474,9 +12499,6 @@
   <programme start="20200310232000 +0200" stop="20200311001500 +0200" channel="Eurosport HD">
     <title lang="ro">Schi fond: Cupa Mondială, la Oslo, în  Norvegia</title>
   </programme>
-  <programme start="20200305140000 +0200" stop="20200305153000 +0200" channel="Eurosport 2">
-    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
-  </programme>
   <programme start="20200305153000 +0200" stop="20200305173000 +0200" channel="Eurosport 2">
     <title lang="ro">Snooker: Campionatul PLAYERS</title>
   </programme>
@@ -12947,9 +12969,6 @@
   </programme>
   <programme start="20200310225500 +0200" stop="20200311000000 +0200" channel="Eurosport 2">
     <title lang="ro">Scrimă: Circuitul Grand Prix, la Budapesta, în  Ungaria</title>
-  </programme>
-  <programme start="20200305140000 +0200" stop="20200305153000 +0200" channel="Eurosport 2 HD">
-    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
   </programme>
   <programme start="20200305153000 +0200" stop="20200305173000 +0200" channel="Eurosport 2 HD">
     <title lang="ro">Snooker: Campionatul PLAYERS</title>
@@ -14049,9 +14068,6 @@
   <programme start="20200309035000 +0200" stop="20200309054500 +0200" channel="LOOK SPORT 3">
     <title lang="ro">Fotbal La Liga: Barcelona – Real Sociedad</title>
   </programme>
-  <programme start="20200305133000 +0200" stop="20200305153000 +0200" channel="LOOK PLUS">
-    <title lang="ro">Fotbal Cupa României: Petrolul Ploiești – ACS Sepsi OSK Sf. Gheorghe</title>
-  </programme>
   <programme start="20200305153000 +0200" stop="20200305160000 +0200" channel="LOOK PLUS">
     <title lang="ro">Teleshopping</title>
   </programme>
@@ -14331,9 +14347,6 @@
   <programme start="20200309053000 +0200" stop="20200309063000 +0200" channel="LOOK PLUS">
     <title lang="ro">Protestul etapei</title>
   </programme>
-  <programme start="20200305133000 +0200" stop="20200305153000 +0200" channel="LOOK PLUS HD">
-    <title lang="ro">Fotbal Cupa României: Petrolul Ploiești – ACS Sepsi OSK Sf. Gheorghe</title>
-  </programme>
   <programme start="20200305153000 +0200" stop="20200305160000 +0200" channel="LOOK PLUS HD">
     <title lang="ro">Teleshopping</title>
   </programme>
@@ -14612,5 +14625,3368 @@
   </programme>
   <programme start="20200309053000 +0200" stop="20200309063000 +0200" channel="LOOK PLUS HD">
     <title lang="ro">Protestul etapei</title>
+  </programme>
+  <programme start="20200305151500 +0200" stop="20200305172000 +0200" channel="HBO">
+    <title lang="ro">Copilul care ar putea fi rege</title>
+  </programme>
+  <programme start="20200305172000 +0200" stop="20200305185500 +0200" channel="HBO">
+    <title lang="ro">Stockholm</title>
+  </programme>
+  <programme start="20200305185500 +0200" stop="20200305200000 +0200" channel="HBO">
+    <title lang="ro">Noul papă</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305213000 +0200" channel="HBO">
+    <title lang="ro">Misterele rebusului: un puzzle mortal</title>
+  </programme>
+  <programme start="20200305213000 +0200" stop="20200305223000 +0200" channel="HBO">
+    <title lang="ro">McMillions</title>
+  </programme>
+  <programme start="20200305223000 +0200" stop="20200306000000 +0200" channel="HBO">
+    <title lang="ro">Focviu</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306014000 +0200" channel="HBO">
+    <title lang="ro">Jocul de-a detectivii</title>
+  </programme>
+  <programme start="20200306014000 +0200" stop="20200306041000 +0200" channel="HBO">
+    <title lang="ro">Armageddon - Sfârșitul lumii?</title>
+  </programme>
+  <programme start="20200306041000 +0200" stop="20200306060000 +0200" channel="HBO">
+    <title lang="ro">O.G.</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306073500 +0200" channel="HBO">
+    <title lang="ro">Romeo și Julieta: dincolo de cuvinte</title>
+  </programme>
+  <programme start="20200306073500 +0200" stop="20200306093500 +0200" channel="HBO">
+    <title lang="ro">Copilul care ar putea fi rege</title>
+  </programme>
+  <programme start="20200306093500 +0200" stop="20200306110500 +0200" channel="HBO">
+    <title lang="ro">Stockholm</title>
+  </programme>
+  <programme start="20200306110500 +0200" stop="20200306123500 +0200" channel="HBO">
+    <title lang="ro">Misterele rebusului: un puzzle mortal</title>
+  </programme>
+  <programme start="20200306123500 +0200" stop="20200306134000 +0200" channel="HBO">
+    <title lang="ro">Dumbo</title>
+  </programme>
+  <programme start="20200306134000 +0200" stop="20200306152000 +0200" channel="HBO">
+    <title lang="ro">Fata de aur</title>
+  </programme>
+  <programme start="20200306152000 +0200" stop="20200306174000 +0200" channel="HBO">
+    <title lang="ro">Ready Player One: Să înceapă jocul</title>
+  </programme>
+  <programme start="20200306174000 +0200" stop="20200306181500 +0200" channel="HBO">
+    <title lang="ro">Pe platourile de filmare</title>
+  </programme>
+  <programme start="20200306181500 +0200" stop="20200306200000 +0200" channel="HBO">
+    <title lang="ro">Cartea Junglei</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306205000 +0200" channel="HBO">
+    <title lang="ro">Britannia</title>
+  </programme>
+  <programme start="20200306205000 +0200" stop="20200306214500 +0200" channel="HBO">
+    <title lang="ro">Fosse/Verdon</title>
+  </programme>
+  <programme start="20200306214500 +0200" stop="20200307000000 +0200" channel="HBO">
+    <title lang="ro">Foxcatcher</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307014500 +0200" channel="HBO">
+    <title lang="ro">O.G.</title>
+  </programme>
+  <programme start="20200307014500 +0200" stop="20200307034500 +0200" channel="HBO">
+    <title lang="ro">Frida</title>
+  </programme>
+  <programme start="20200307034500 +0200" stop="20200307060000 +0200" channel="HBO">
+    <title lang="ro">Foxcatcher</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307082000 +0200" channel="HBO">
+    <title lang="ro">Ready Player One: Să înceapă jocul</title>
+  </programme>
+  <programme start="20200307082000 +0200" stop="20200307101500 +0200" channel="HBO">
+    <title lang="ro">Omul-Păianjen: În lumea păianjenului</title>
+  </programme>
+  <programme start="20200307101500 +0200" stop="20200307115500 +0200" channel="HBO">
+    <title lang="ro">TAG: Dă-o mai departe</title>
+  </programme>
+  <programme start="20200307115500 +0200" stop="20200307131000 +0200" channel="HBO">
+    <title lang="ro">Daphne și Velma</title>
+  </programme>
+  <programme start="20200307131000 +0200" stop="20200307150000 +0200" channel="HBO">
+    <title lang="ro">O noapte la muzeu</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307164000 +0200" channel="HBO">
+    <title lang="ro">Regatul de gheață</title>
+  </programme>
+  <programme start="20200307164000 +0200" stop="20200307185000 +0200" channel="HBO">
+    <title lang="ro">Frumoasa și bestia</title>
+  </programme>
+  <programme start="20200307185000 +0200" stop="20200307200000 +0200" channel="HBO">
+    <title lang="ro">Lilo și Stitch 2: Stitch are o problemă</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307214500 +0200" channel="HBO">
+    <title lang="ro">Whiplash</title>
+  </programme>
+  <programme start="20200307214500 +0200" stop="20200307232500 +0200" channel="HBO">
+    <title lang="ro">TAG: Dă-o mai departe</title>
+  </programme>
+  <programme start="20200307232500 +0200" stop="20200308010000 +0200" channel="HBO">
+    <title lang="ro">Pe aripile vulturilor</title>
+  </programme>
+  <programme start="20200308010000 +0200" stop="20200308024500 +0200" channel="HBO">
+    <title lang="ro">Sper să mori data viitoare :)</title>
+  </programme>
+  <programme start="20200308024500 +0200" stop="20200308042500 +0200" channel="HBO">
+    <title lang="ro">Cimitirul animalelor</title>
+  </programme>
+  <programme start="20200308042500 +0200" stop="20200308060000 +0200" channel="HBO">
+    <title lang="ro">Versuri pocite</title>
+  </programme>
+  <programme start="20200308060000 +0200" stop="20200308075000 +0200" channel="HBO">
+    <title lang="ro">Miss Agent Secret</title>
+  </programme>
+  <programme start="20200308075000 +0200" stop="20200308090000 +0200" channel="HBO">
+    <title lang="ro">Lilo și Stitch 2: Stitch are o problemă</title>
+  </programme>
+  <programme start="20200308090000 +0200" stop="20200308105500 +0200" channel="HBO">
+    <title lang="ro">Regele Leu</title>
+  </programme>
+  <programme start="20200308105500 +0200" stop="20200308124500 +0200" channel="HBO">
+    <title lang="ro">După război</title>
+  </programme>
+  <programme start="20200308124500 +0200" stop="20200308143000 +0200" channel="HBO">
+    <title lang="ro">O noapte la muzeu 2</title>
+  </programme>
+  <programme start="20200308143000 +0200" stop="20200308162000 +0200" channel="HBO">
+    <title lang="ro">Moromeții 2</title>
+  </programme>
+  <programme start="20200308162000 +0200" stop="20200308180500 +0200" channel="HBO">
+    <title lang="ro">Cenușăreasa</title>
+  </programme>
+  <programme start="20200308180500 +0200" stop="20200308200000 +0200" channel="HBO">
+    <title lang="ro">Bărbați în Negru Internațional</title>
+  </programme>
+  <programme start="20200308200000 +0200" stop="20200308220000 +0200" channel="HBO">
+    <title lang="ro">Regele Leu</title>
+  </programme>
+  <programme start="20200308220000 +0200" stop="20200308225500 +0200" channel="HBO">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200308225500 +0200" stop="20200309003500 +0200" channel="HBO">
+    <title lang="ro">Cimitirul animalelor</title>
+  </programme>
+  <programme start="20200309003500 +0200" stop="20200309021000 +0200" channel="HBO">
+    <title lang="ro">Stan și Ollie</title>
+  </programme>
+  <programme start="20200309021000 +0200" stop="20200309040000 +0200" channel="HBO">
+    <title lang="ro">Overlord</title>
+  </programme>
+  <programme start="20200309040000 +0200" stop="20200309050000 +0200" channel="HBO">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200309050000 +0200" stop="20200309060000 +0200" channel="HBO">
+    <title lang="ro">Șeriful</title>
+  </programme>
+  <programme start="20200309060000 +0200" stop="20200309074000 +0200" channel="HBO">
+    <title lang="ro">Drumul unui câine către casă</title>
+  </programme>
+  <programme start="20200309074000 +0200" stop="20200309080500 +0200" channel="HBO">
+    <title lang="ro">O familie modernă</title>
+  </programme>
+  <programme start="20200309080500 +0200" stop="20200309095000 +0200" channel="HBO">
+    <title lang="ro">Cenușăreasa</title>
+  </programme>
+  <programme start="20200309095000 +0200" stop="20200309114500 +0200" channel="HBO">
+    <title lang="ro">Bărbați în Negru Internațional</title>
+  </programme>
+  <programme start="20200309114500 +0200" stop="20200309134500 +0200" channel="HBO">
+    <title lang="ro">Regele Leu</title>
+  </programme>
+  <programme start="20200309134500 +0200" stop="20200309154000 +0200" channel="HBO">
+    <title lang="ro">Incredibilii</title>
+  </programme>
+  <programme start="20200309154000 +0200" stop="20200309174000 +0200" channel="HBO">
+    <title lang="ro">Frații Grimm</title>
+  </programme>
+  <programme start="20200309174000 +0200" stop="20200309191500 +0200" channel="HBO">
+    <title lang="ro">Gemeni</title>
+  </programme>
+  <programme start="20200309191500 +0200" stop="20200309200000 +0200" channel="HBO">
+    <title lang="ro">Batwoman</title>
+  </programme>
+  <programme start="20200309200000 +0200" stop="20200309210000 +0200" channel="HBO">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200309210000 +0200" stop="20200309213000 +0200" channel="HBO">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200309213000 +0200" stop="20200309221000 +0200" channel="HBO">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200309221000 +0200" stop="20200310001000 +0200" channel="HBO">
+    <title lang="ro">Rocketman</title>
+  </programme>
+  <programme start="20200310001000 +0200" stop="20200310015000 +0200" channel="HBO">
+    <title lang="ro">Brexit</title>
+  </programme>
+  <programme start="20200310015000 +0200" stop="20200310025000 +0200" channel="HBO">
+    <title lang="ro">Pete Holmes: curat murdar</title>
+  </programme>
+  <programme start="20200310025000 +0200" stop="20200310043000 +0200" channel="HBO">
+    <title lang="ro">Jocul de-a detectivii</title>
+  </programme>
+  <programme start="20200310043000 +0200" stop="20200310060000 +0200" channel="HBO">
+    <title lang="ro">Secretele femeilor</title>
+  </programme>
+  <programme start="20200310060000 +0200" stop="20200310080500 +0200" channel="HBO">
+    <title lang="ro">Rocketman</title>
+  </programme>
+  <programme start="20200310080500 +0200" stop="20200310104000 +0200" channel="HBO">
+    <title lang="ro">Harry Potter și Piatra Filozofală</title>
+  </programme>
+  <programme start="20200310104000 +0200" stop="20200310132500 +0200" channel="HBO">
+    <title lang="ro">Harry Potter și Camera Secretelor</title>
+  </programme>
+  <programme start="20200310132500 +0200" stop="20200310155000 +0200" channel="HBO">
+    <title lang="ro">Harry Potter și Prizonierul din Azkaban</title>
+  </programme>
+  <programme start="20200310155000 +0200" stop="20200310182500 +0200" channel="HBO">
+    <title lang="ro">Harry Potter și Pocalul de Foc</title>
+  </programme>
+  <programme start="20200310182500 +0200" stop="20200310190500 +0200" channel="HBO">
+    <title lang="ro">Știrile săptămânii cu John Oliver</title>
+  </programme>
+  <programme start="20200310190500 +0200" stop="20200310200000 +0200" channel="HBO">
+    <title lang="ro">Moșteniri</title>
+  </programme>
+  <programme start="20200310200000 +0200" stop="20200310211000 +0200" channel="HBO">
+    <title lang="ro">Noul papă</title>
+  </programme>
+  <programme start="20200310211000 +0200" stop="20200310220000 +0200" channel="HBO">
+    <title lang="ro">Ray Donovan</title>
+  </programme>
+  <programme start="20200310220000 +0200" stop="20200310234000 +0200" channel="HBO">
+    <title lang="ro">Jocul de-a detectivii</title>
+  </programme>
+  <programme start="20200310234000 +0200" stop="20200311012000 +0200" channel="HBO">
+    <title lang="ro">Fahrenheit 451</title>
+  </programme>
+  <programme start="20200305141500 +0200" stop="20200305161000 +0200" channel="HBO 2">
+    <title lang="ro">Candidatul</title>
+  </programme>
+  <programme start="20200305161000 +0200" stop="20200305174500 +0200" channel="HBO 2">
+    <title lang="ro">Aladdin</title>
+  </programme>
+  <programme start="20200305174500 +0200" stop="20200305193000 +0200" channel="HBO 2">
+    <title lang="ro">Povestea jucăriilor 3</title>
+  </programme>
+  <programme start="20200305193000 +0200" stop="20200305200000 +0200" channel="HBO 2">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305203000 +0200" channel="HBO 2">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200305203000 +0200" stop="20200305222000 +0200" channel="HBO 2">
+    <title lang="ro">Ocean's 8: Jaf cu clasă</title>
+  </programme>
+  <programme start="20200305222000 +0200" stop="20200306000500 +0200" channel="HBO 2">
+    <title lang="ro">Siberia</title>
+  </programme>
+  <programme start="20200306000500 +0200" stop="20200306015000 +0200" channel="HBO 2">
+    <title lang="ro">X-Men de la Origini: Wolverine</title>
+  </programme>
+  <programme start="20200306015000 +0200" stop="20200306033500 +0200" channel="HBO 2">
+    <title lang="ro">Tu, din nou!!</title>
+  </programme>
+  <programme start="20200306033500 +0200" stop="20200306050500 +0200" channel="HBO 2">
+    <title lang="ro">Nebunia unei mame</title>
+  </programme>
+  <programme start="20200306050500 +0200" stop="20200306070000 +0200" channel="HBO 2">
+    <title lang="ro">Viața lui Ralph Lauren</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306073000 +0200" channel="HBO 2">
+    <title lang="ro">Masha si Ursul</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306074500 +0200" channel="HBO 2">
+    <title lang="ro">Angry Birds: serialul</title>
+  </programme>
+  <programme start="20200306074500 +0200" stop="20200306082000 +0200" channel="HBO 2">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200306082000 +0200" stop="20200306104000 +0200" channel="HBO 2">
+    <title lang="ro">Vârsta inocenței</title>
+  </programme>
+  <programme start="20200306104000 +0200" stop="20200306120500 +0200" channel="HBO 2">
+    <title lang="ro">Încă un pic de dragoste</title>
+  </programme>
+  <programme start="20200306120500 +0200" stop="20200306130000 +0200" channel="HBO 2">
+    <title lang="ro">McMillions</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306135500 +0200" channel="HBO 2">
+    <title lang="ro">Prințesa spaniolă</title>
+  </programme>
+  <programme start="20200306135500 +0200" stop="20200306143000 +0200" channel="HBO 2">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200306143000 +0200" stop="20200306162500 +0200" channel="HBO 2">
+    <title lang="ro">Echipa Sfarmă-Tot</title>
+  </programme>
+  <programme start="20200306162500 +0200" stop="20200306181500 +0200" channel="HBO 2">
+    <title lang="ro">Fetele din calendar</title>
+  </programme>
+  <programme start="20200306181500 +0200" stop="20200306194500 +0200" channel="HBO 2">
+    <title lang="ro">Holmes și Watson</title>
+  </programme>
+  <programme start="20200306194500 +0200" stop="20200306201000 +0200" channel="HBO 2">
+    <title lang="ro">O familie modernă</title>
+  </programme>
+  <programme start="20200306201000 +0200" stop="20200306203000 +0200" channel="HBO 2">
+    <title lang="ro">Tânărul Sheldon</title>
+  </programme>
+  <programme start="20200306203000 +0200" stop="20200306221000 +0200" channel="HBO 2">
+    <title lang="ro">În căutarea lui Nemo</title>
+  </programme>
+  <programme start="20200306221000 +0200" stop="20200307002500 +0200" channel="HBO 2">
+    <title lang="ro">S-a născut o stea</title>
+  </programme>
+  <programme start="20200307002500 +0200" stop="20200307022500 +0200" channel="HBO 2">
+    <title lang="ro">Operaţiunea Hunter Killer</title>
+  </programme>
+  <programme start="20200307022500 +0200" stop="20200307050500 +0200" channel="HBO 2">
+    <title lang="ro">De cealaltă parte a justiției</title>
+  </programme>
+  <programme start="20200307050500 +0200" stop="20200307070000 +0200" channel="HBO 2">
+    <title lang="ro">Povestea delfinului</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307081000 +0200" channel="HBO 2">
+    <title lang="ro">Dumbo</title>
+  </programme>
+  <programme start="20200307081000 +0200" stop="20200307100000 +0200" channel="HBO 2">
+    <title lang="ro">Fetele din calendar</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307113000 +0200" channel="HBO 2">
+    <title lang="ro">Holmes și Watson</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307134000 +0200" channel="HBO 2">
+    <title lang="ro">Aladdin</title>
+  </programme>
+  <programme start="20200307134000 +0200" stop="20200307150500 +0200" channel="HBO 2">
+    <title lang="ro">Misterul lui Hailey Dean: mort la datorie</title>
+  </programme>
+  <programme start="20200307150500 +0200" stop="20200307170000 +0200" channel="HBO 2">
+    <title lang="ro">Furtună Extremă</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307184500 +0200" channel="HBO 2">
+    <title lang="ro">Un artist numit dezastru</title>
+  </programme>
+  <programme start="20200307184500 +0200" stop="20200307203000 +0200" channel="HBO 2">
+    <title lang="ro">Puzzle</title>
+  </programme>
+  <programme start="20200307203000 +0200" stop="20200307221000 +0200" channel="HBO 2">
+    <title lang="ro">Jocul de-a detectivii</title>
+  </programme>
+  <programme start="20200307221000 +0200" stop="20200307225500 +0200" channel="HBO 2">
+    <title lang="ro">Ray Donovan</title>
+  </programme>
+  <programme start="20200307225500 +0200" stop="20200307235500 +0200" channel="HBO 2">
+    <title lang="ro">Noul papă</title>
+  </programme>
+  <programme start="20200307235500 +0200" stop="20200308010000 +0200" channel="HBO 2">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200308010000 +0200" stop="20200308025500 +0200" channel="HBO 2">
+    <title lang="ro">Povestea</title>
+  </programme>
+  <programme start="20200308025500 +0200" stop="20200308050000 +0200" channel="HBO 2">
+    <title lang="ro">Sin City</title>
+  </programme>
+  <programme start="20200308050000 +0200" stop="20200308070000 +0200" channel="HBO 2">
+    <title lang="ro">Rugină și oase</title>
+  </programme>
+  <programme start="20200308070000 +0200" stop="20200308073000 +0200" channel="HBO 2">
+    <title lang="ro">Scurtmetraje Disney</title>
+  </programme>
+  <programme start="20200308073000 +0200" stop="20200308074500 +0200" channel="HBO 2">
+    <title lang="ro">Angry Birds: serialul</title>
+  </programme>
+  <programme start="20200308074500 +0200" stop="20200308075500 +0200" channel="HBO 2">
+    <title lang="ro">Angry Birds: serialul</title>
+  </programme>
+  <programme start="20200308075500 +0200" stop="20200308091500 +0200" channel="HBO 2">
+    <title lang="ro">Alexander și cea mai oribilă zi</title>
+  </programme>
+  <programme start="20200308091500 +0200" stop="20200308104500 +0200" channel="HBO 2">
+    <title lang="ro">Goosebumps 2: Halloween bântuit</title>
+  </programme>
+  <programme start="20200308104500 +0200" stop="20200308123000 +0200" channel="HBO 2">
+    <title lang="ro">Puzzle</title>
+  </programme>
+  <programme start="20200308123000 +0200" stop="20200308141500 +0200" channel="HBO 2">
+    <title lang="ro">X-Men de la Origini: Wolverine</title>
+  </programme>
+  <programme start="20200308141500 +0200" stop="20200308162500 +0200" channel="HBO 2">
+    <title lang="ro">X-Men: Cei dintâi</title>
+  </programme>
+  <programme start="20200308162500 +0200" stop="20200308183500 +0200" channel="HBO 2">
+    <title lang="ro">X-Men: Viitorul este trecut</title>
+  </programme>
+  <programme start="20200308183500 +0200" stop="20200308203000 +0200" channel="HBO 2">
+    <title lang="ro">X-Men: Dark Phoenix</title>
+  </programme>
+  <programme start="20200308203000 +0200" stop="20200308220000 +0200" channel="HBO 2">
+    <title lang="ro">Focviu</title>
+  </programme>
+  <programme start="20200308220000 +0200" stop="20200308235000 +0200" channel="HBO 2">
+    <title lang="ro">Tolkien: Dincolo de poveste</title>
+  </programme>
+  <programme start="20200308235000 +0200" stop="20200309002500 +0200" channel="HBO 2">
+    <title lang="ro">Știrile săptămânii cu John Oliver</title>
+  </programme>
+  <programme start="20200309002500 +0200" stop="20200309021000 +0200" channel="HBO 2">
+    <title lang="ro">Înrudiți</title>
+  </programme>
+  <programme start="20200309021000 +0200" stop="20200309034000 +0200" channel="HBO 2">
+    <title lang="ro">Diavolul în carne și oase</title>
+  </programme>
+  <programme start="20200309034000 +0200" stop="20200309051000 +0200" channel="HBO 2">
+    <title lang="ro">Focviu</title>
+  </programme>
+  <programme start="20200309051000 +0200" stop="20200309070000 +0200" channel="HBO 2">
+    <title lang="ro">Tolkien: Dincolo de poveste</title>
+  </programme>
+  <programme start="20200309070000 +0200" stop="20200309073000 +0200" channel="HBO 2">
+    <title lang="ro">Masha si Ursul</title>
+  </programme>
+  <programme start="20200309073000 +0200" stop="20200309074500 +0200" channel="HBO 2">
+    <title lang="ro">Angry Birds: serialul</title>
+  </programme>
+  <programme start="20200309074500 +0200" stop="20200309081500 +0200" channel="HBO 2">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200309081500 +0200" stop="20200309101000 +0200" channel="HBO 2">
+    <title lang="ro">Echipa Sfarmă-Tot</title>
+  </programme>
+  <programme start="20200309101000 +0200" stop="20200309122000 +0200" channel="HBO 2">
+    <title lang="ro">Omul care l-a ucis pe Don Quijote</title>
+  </programme>
+  <programme start="20200309122000 +0200" stop="20200309132000 +0200" channel="HBO 2">
+    <title lang="ro">Prințesa spaniolă</title>
+  </programme>
+  <programme start="20200309132000 +0200" stop="20200309135000 +0200" channel="HBO 2">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200309135000 +0200" stop="20200309155000 +0200" channel="HBO 2">
+    <title lang="ro">În inima pădurii</title>
+  </programme>
+  <programme start="20200309155000 +0200" stop="20200309175500 +0200" channel="HBO 2">
+    <title lang="ro">Good Will Hunting</title>
+  </programme>
+  <programme start="20200309175500 +0200" stop="20200309200000 +0200" channel="HBO 2">
+    <title lang="ro">Ea</title>
+  </programme>
+  <programme start="20200309200000 +0200" stop="20200309203000 +0200" channel="HBO 2">
+    <title lang="ro">Pas cu pas</title>
+  </programme>
+  <programme start="20200309203000 +0200" stop="20200309211500 +0200" channel="HBO 2">
+    <title lang="ro">Creatura din mlaștină</title>
+  </programme>
+  <programme start="20200309211500 +0200" stop="20200309233500 +0200" channel="HBO 2">
+    <title lang="ro">Aquaman</title>
+  </programme>
+  <programme start="20200309233500 +0200" stop="20200310002000 +0200" channel="HBO 2">
+    <title lang="ro">Ray Donovan</title>
+  </programme>
+  <programme start="20200310002000 +0200" stop="20200310020500 +0200" channel="HBO 2">
+    <title lang="ro">Siberia</title>
+  </programme>
+  <programme start="20200310020500 +0200" stop="20200310035500 +0200" channel="HBO 2">
+    <title lang="ro">Confesiunile unei minți periculoase</title>
+  </programme>
+  <programme start="20200310035500 +0200" stop="20200310052000 +0200" channel="HBO 2">
+    <title lang="ro">Un gigolo de doi bani</title>
+  </programme>
+  <programme start="20200310052000 +0200" stop="20200310070000 +0200" channel="HBO 2">
+    <title lang="ro">Alpha</title>
+  </programme>
+  <programme start="20200310070000 +0200" stop="20200310073000 +0200" channel="HBO 2">
+    <title lang="ro">Masha si Ursul</title>
+  </programme>
+  <programme start="20200310073000 +0200" stop="20200310074500 +0200" channel="HBO 2">
+    <title lang="ro">Angry Birds: serialul</title>
+  </programme>
+  <programme start="20200310074500 +0200" stop="20200310081500 +0200" channel="HBO 2">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200310081500 +0200" stop="20200310102000 +0200" channel="HBO 2">
+    <title lang="ro">În inima pădurii</title>
+  </programme>
+  <programme start="20200310102000 +0200" stop="20200310132500 +0200" channel="HBO 2">
+    <title lang="ro">Pearl Harbor</title>
+  </programme>
+  <programme start="20200310132500 +0200" stop="20200310142500 +0200" channel="HBO 2">
+    <title lang="ro">Prințesa spaniolă</title>
+  </programme>
+  <programme start="20200310142500 +0200" stop="20200310150000 +0200" channel="HBO 2">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200310150000 +0200" stop="20200310165500 +0200" channel="HBO 2">
+    <title lang="ro">Cronicile din Narnia: Călătorie pe mare cu Zori-de-Zi</title>
+  </programme>
+  <programme start="20200310165500 +0200" stop="20200310185500 +0200" channel="HBO 2">
+    <title lang="ro">Captain Marvel</title>
+  </programme>
+  <programme start="20200310185500 +0200" stop="20200310203000 +0200" channel="HBO 2">
+    <title lang="ro">Aladdin</title>
+  </programme>
+  <programme start="20200310203000 +0200" stop="20200310223500 +0200" channel="HBO 2">
+    <title lang="ro">Frumoasa și bestia</title>
+  </programme>
+  <programme start="20200310223500 +0200" stop="20200311001000 +0200" channel="HBO 2">
+    <title lang="ro">Călugărița: Misterul de la mănăstire</title>
+  </programme>
+  <programme start="20200305141500 +0200" stop="20200305161000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Candidatul</title>
+  </programme>
+  <programme start="20200305161000 +0200" stop="20200305174500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Aladdin</title>
+  </programme>
+  <programme start="20200305174500 +0200" stop="20200305193000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Povestea jucăriilor 3</title>
+  </programme>
+  <programme start="20200305193000 +0200" stop="20200305200000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305203000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200305203000 +0200" stop="20200305222000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Ocean's 8: Jaf cu clasă</title>
+  </programme>
+  <programme start="20200305222000 +0200" stop="20200306000500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Siberia</title>
+  </programme>
+  <programme start="20200306000500 +0200" stop="20200306015000 +0200" channel="HBO 2 HD">
+    <title lang="ro">X-Men de la Origini: Wolverine</title>
+  </programme>
+  <programme start="20200306015000 +0200" stop="20200306033500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Tu, din nou!!</title>
+  </programme>
+  <programme start="20200306033500 +0200" stop="20200306050500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Nebunia unei mame</title>
+  </programme>
+  <programme start="20200306050500 +0200" stop="20200306070000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Viața lui Ralph Lauren</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306073000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Masha si Ursul</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306074500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Angry Birds: serialul</title>
+  </programme>
+  <programme start="20200306074500 +0200" stop="20200306082000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200306082000 +0200" stop="20200306104000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Vârsta inocenței</title>
+  </programme>
+  <programme start="20200306104000 +0200" stop="20200306120500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Încă un pic de dragoste</title>
+  </programme>
+  <programme start="20200306120500 +0200" stop="20200306130000 +0200" channel="HBO 2 HD">
+    <title lang="ro">McMillions</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306135500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Prințesa spaniolă</title>
+  </programme>
+  <programme start="20200306135500 +0200" stop="20200306143000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200306143000 +0200" stop="20200306162500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Echipa Sfarmă-Tot</title>
+  </programme>
+  <programme start="20200306162500 +0200" stop="20200306181500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Fetele din calendar</title>
+  </programme>
+  <programme start="20200306181500 +0200" stop="20200306194500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Holmes și Watson</title>
+  </programme>
+  <programme start="20200306194500 +0200" stop="20200306201000 +0200" channel="HBO 2 HD">
+    <title lang="ro">O familie modernă</title>
+  </programme>
+  <programme start="20200306201000 +0200" stop="20200306203000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Tânărul Sheldon</title>
+  </programme>
+  <programme start="20200306203000 +0200" stop="20200306221000 +0200" channel="HBO 2 HD">
+    <title lang="ro">În căutarea lui Nemo</title>
+  </programme>
+  <programme start="20200306221000 +0200" stop="20200307002500 +0200" channel="HBO 2 HD">
+    <title lang="ro">S-a născut o stea</title>
+  </programme>
+  <programme start="20200307002500 +0200" stop="20200307022500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Operaţiunea Hunter Killer</title>
+  </programme>
+  <programme start="20200307022500 +0200" stop="20200307050500 +0200" channel="HBO 2 HD">
+    <title lang="ro">De cealaltă parte a justiției</title>
+  </programme>
+  <programme start="20200307050500 +0200" stop="20200307070000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Povestea delfinului</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307081000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Dumbo</title>
+  </programme>
+  <programme start="20200307081000 +0200" stop="20200307100000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Fetele din calendar</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307113000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Holmes și Watson</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307134000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Aladdin</title>
+  </programme>
+  <programme start="20200307134000 +0200" stop="20200307150500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Misterul lui Hailey Dean: mort la datorie</title>
+  </programme>
+  <programme start="20200307150500 +0200" stop="20200307170000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Furtună Extremă</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307184500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Un artist numit dezastru</title>
+  </programme>
+  <programme start="20200307184500 +0200" stop="20200307203000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Puzzle</title>
+  </programme>
+  <programme start="20200307203000 +0200" stop="20200307221000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Jocul de-a detectivii</title>
+  </programme>
+  <programme start="20200307221000 +0200" stop="20200307225500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Ray Donovan</title>
+  </programme>
+  <programme start="20200307225500 +0200" stop="20200307235500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Noul papă</title>
+  </programme>
+  <programme start="20200307235500 +0200" stop="20200308010000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200308010000 +0200" stop="20200308025500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Povestea</title>
+  </programme>
+  <programme start="20200308025500 +0200" stop="20200308050000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Sin City</title>
+  </programme>
+  <programme start="20200308050000 +0200" stop="20200308070000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Rugină și oase</title>
+  </programme>
+  <programme start="20200308070000 +0200" stop="20200308073000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Scurtmetraje Disney</title>
+  </programme>
+  <programme start="20200308073000 +0200" stop="20200308074500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Angry Birds: serialul</title>
+  </programme>
+  <programme start="20200308074500 +0200" stop="20200308075500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Angry Birds: serialul</title>
+  </programme>
+  <programme start="20200308075500 +0200" stop="20200308091500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Alexander și cea mai oribilă zi</title>
+  </programme>
+  <programme start="20200308091500 +0200" stop="20200308104500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Goosebumps 2: Halloween bântuit</title>
+  </programme>
+  <programme start="20200308104500 +0200" stop="20200308123000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Puzzle</title>
+  </programme>
+  <programme start="20200308123000 +0200" stop="20200308141500 +0200" channel="HBO 2 HD">
+    <title lang="ro">X-Men de la Origini: Wolverine</title>
+  </programme>
+  <programme start="20200308141500 +0200" stop="20200308162500 +0200" channel="HBO 2 HD">
+    <title lang="ro">X-Men: Cei dintâi</title>
+  </programme>
+  <programme start="20200308162500 +0200" stop="20200308183500 +0200" channel="HBO 2 HD">
+    <title lang="ro">X-Men: Viitorul este trecut</title>
+  </programme>
+  <programme start="20200308183500 +0200" stop="20200308203000 +0200" channel="HBO 2 HD">
+    <title lang="ro">X-Men: Dark Phoenix</title>
+  </programme>
+  <programme start="20200308203000 +0200" stop="20200308220000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Focviu</title>
+  </programme>
+  <programme start="20200308220000 +0200" stop="20200308235000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Tolkien: Dincolo de poveste</title>
+  </programme>
+  <programme start="20200308235000 +0200" stop="20200309002500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Știrile săptămânii cu John Oliver</title>
+  </programme>
+  <programme start="20200309002500 +0200" stop="20200309021000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Înrudiți</title>
+  </programme>
+  <programme start="20200309021000 +0200" stop="20200309034000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Diavolul în carne și oase</title>
+  </programme>
+  <programme start="20200309034000 +0200" stop="20200309051000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Focviu</title>
+  </programme>
+  <programme start="20200309051000 +0200" stop="20200309070000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Tolkien: Dincolo de poveste</title>
+  </programme>
+  <programme start="20200309070000 +0200" stop="20200309073000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Masha si Ursul</title>
+  </programme>
+  <programme start="20200309073000 +0200" stop="20200309074500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Angry Birds: serialul</title>
+  </programme>
+  <programme start="20200309074500 +0200" stop="20200309081500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200309081500 +0200" stop="20200309101000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Echipa Sfarmă-Tot</title>
+  </programme>
+  <programme start="20200309101000 +0200" stop="20200309122000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Omul care l-a ucis pe Don Quijote</title>
+  </programme>
+  <programme start="20200309122000 +0200" stop="20200309132000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Prințesa spaniolă</title>
+  </programme>
+  <programme start="20200309132000 +0200" stop="20200309135000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200309135000 +0200" stop="20200309155000 +0200" channel="HBO 2 HD">
+    <title lang="ro">În inima pădurii</title>
+  </programme>
+  <programme start="20200309155000 +0200" stop="20200309175500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Good Will Hunting</title>
+  </programme>
+  <programme start="20200309175500 +0200" stop="20200309200000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Ea</title>
+  </programme>
+  <programme start="20200309200000 +0200" stop="20200309203000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Pas cu pas</title>
+  </programme>
+  <programme start="20200309203000 +0200" stop="20200309211500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Creatura din mlaștină</title>
+  </programme>
+  <programme start="20200309211500 +0200" stop="20200309233500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Aquaman</title>
+  </programme>
+  <programme start="20200309233500 +0200" stop="20200310002000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Ray Donovan</title>
+  </programme>
+  <programme start="20200310002000 +0200" stop="20200310020500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Siberia</title>
+  </programme>
+  <programme start="20200310020500 +0200" stop="20200310035500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Confesiunile unei minți periculoase</title>
+  </programme>
+  <programme start="20200310035500 +0200" stop="20200310052000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Un gigolo de doi bani</title>
+  </programme>
+  <programme start="20200310052000 +0200" stop="20200310070000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Alpha</title>
+  </programme>
+  <programme start="20200310070000 +0200" stop="20200310073000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Masha si Ursul</title>
+  </programme>
+  <programme start="20200310073000 +0200" stop="20200310074500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Angry Birds: serialul</title>
+  </programme>
+  <programme start="20200310074500 +0200" stop="20200310081500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200310081500 +0200" stop="20200310102000 +0200" channel="HBO 2 HD">
+    <title lang="ro">În inima pădurii</title>
+  </programme>
+  <programme start="20200310102000 +0200" stop="20200310132500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Pearl Harbor</title>
+  </programme>
+  <programme start="20200310132500 +0200" stop="20200310142500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Prințesa spaniolă</title>
+  </programme>
+  <programme start="20200310142500 +0200" stop="20200310150000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Silicon Valley</title>
+  </programme>
+  <programme start="20200310150000 +0200" stop="20200310165500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Cronicile din Narnia: Călătorie pe mare cu Zori-de-Zi</title>
+  </programme>
+  <programme start="20200310165500 +0200" stop="20200310185500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Captain Marvel</title>
+  </programme>
+  <programme start="20200310185500 +0200" stop="20200310203000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Aladdin</title>
+  </programme>
+  <programme start="20200310203000 +0200" stop="20200310223500 +0200" channel="HBO 2 HD">
+    <title lang="ro">Frumoasa și bestia</title>
+  </programme>
+  <programme start="20200310223500 +0200" stop="20200311001000 +0200" channel="HBO 2 HD">
+    <title lang="ro">Călugărița: Misterul de la mănăstire</title>
+  </programme>
+  <programme start="20200305152000 +0200" stop="20200305160500 +0200" channel="HBO 3">
+    <title lang="ro">Britannia</title>
+  </programme>
+  <programme start="20200305160500 +0200" stop="20200305163000 +0200" channel="HBO 3">
+    <title lang="ro">Pe platourile de filmare</title>
+  </programme>
+  <programme start="20200305163000 +0200" stop="20200305182000 +0200" channel="HBO 3">
+    <title lang="ro">Mă simt frumoasă</title>
+  </programme>
+  <programme start="20200305182000 +0200" stop="20200305190500 +0200" channel="HBO 3">
+    <title lang="ro">Creatura din mlaștină</title>
+  </programme>
+  <programme start="20200305190500 +0200" stop="20200305200000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305210000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200305215500 +0200" channel="HBO 3">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200305215500 +0200" stop="20200305224500 +0200" channel="HBO 3">
+    <title lang="ro">Războinicul</title>
+  </programme>
+  <programme start="20200305224500 +0200" stop="20200305234000 +0200" channel="HBO 3">
+    <title lang="ro">Babylon Berlin</title>
+  </programme>
+  <programme start="20200305234000 +0200" stop="20200306004500 +0200" channel="HBO 3">
+    <title lang="ro">Babylon Berlin</title>
+  </programme>
+  <programme start="20200306004500 +0200" stop="20200306022500 +0200" channel="HBO 3">
+    <title lang="ro">Cimitirul animalelor</title>
+  </programme>
+  <programme start="20200306022500 +0200" stop="20200306040500 +0200" channel="HBO 3">
+    <title lang="ro">Mă dau în vânt după cumpărături</title>
+  </programme>
+  <programme start="20200306040500 +0200" stop="20200306060000 +0200" channel="HBO 3">
+    <title lang="ro">Ce-şi doresc bărbaţii</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306083000 +0200" channel="HBO 3">
+    <title lang="ro">Harry Potter și Piatra Filozofală</title>
+  </programme>
+  <programme start="20200306083000 +0200" stop="20200306111000 +0200" channel="HBO 3">
+    <title lang="ro">Harry Potter și Camera Secretelor</title>
+  </programme>
+  <programme start="20200306111000 +0200" stop="20200306120500 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200306120500 +0200" stop="20200306131000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200306131000 +0200" stop="20200306145000 +0200" channel="HBO 3">
+    <title lang="ro">Drumul unui câine către casă</title>
+  </programme>
+  <programme start="20200306145000 +0200" stop="20200306153500 +0200" channel="HBO 3">
+    <title lang="ro">Moșteniri</title>
+  </programme>
+  <programme start="20200306153500 +0200" stop="20200306162000 +0200" channel="HBO 3">
+    <title lang="ro">Spencer</title>
+  </programme>
+  <programme start="20200306162000 +0200" stop="20200306183000 +0200" channel="HBO 3">
+    <title lang="ro">Povestea unui cavaler</title>
+  </programme>
+  <programme start="20200306183000 +0200" stop="20200306193000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200306193000 +0200" stop="20200306210000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306213000 +0200" channel="HBO 3">
+    <title lang="ro">Știrile săptămânii cu John Oliver</title>
+  </programme>
+  <programme start="20200306213000 +0200" stop="20200306220000 +0200" channel="HBO 3">
+    <title lang="ro">Conversații la frizerie</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200306223000 +0200" channel="HBO 3">
+    <title lang="ro">Pas cu pas</title>
+  </programme>
+  <programme start="20200306223000 +0200" stop="20200306232000 +0200" channel="HBO 3">
+    <title lang="ro">Britannia</title>
+  </programme>
+  <programme start="20200306232000 +0200" stop="20200307012500 +0200" channel="HBO 3">
+    <title lang="ro">Văduve</title>
+  </programme>
+  <programme start="20200307012500 +0200" stop="20200307015500 +0200" channel="HBO 3">
+    <title lang="ro">Pe platourile de filmare</title>
+  </programme>
+  <programme start="20200307015500 +0200" stop="20200307023000 +0200" channel="HBO 3">
+    <title lang="ro">Conversații la frizerie</title>
+  </programme>
+  <programme start="20200307023000 +0200" stop="20200307031000 +0200" channel="HBO 3">
+    <title lang="ro">Pas cu pas</title>
+  </programme>
+  <programme start="20200307031000 +0200" stop="20200307043500 +0200" channel="HBO 3">
+    <title lang="ro">Întoarcere în Christmas Creek</title>
+  </programme>
+  <programme start="20200307043500 +0200" stop="20200307060000 +0200" channel="HBO 3">
+    <title lang="ro">United Skates</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307082000 +0200" channel="HBO 3">
+    <title lang="ro">Harry Potter și Prizonierul din Azkaban</title>
+  </programme>
+  <programme start="20200307082000 +0200" stop="20200307105500 +0200" channel="HBO 3">
+    <title lang="ro">Harry Potter și Pocalul de Foc</title>
+  </programme>
+  <programme start="20200307105500 +0200" stop="20200307131000 +0200" channel="HBO 3">
+    <title lang="ro">Harry Potter și Ordinul Phoenix</title>
+  </programme>
+  <programme start="20200307131000 +0200" stop="20200307134500 +0200" channel="HBO 3">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200307134500 +0200" stop="20200307142500 +0200" channel="HBO 3">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200307142500 +0200" stop="20200307144500 +0200" channel="HBO 3">
+    <title lang="ro">Tânărul Sheldon</title>
+  </programme>
+  <programme start="20200307144500 +0200" stop="20200307151500 +0200" channel="HBO 3">
+    <title lang="ro">Conversații la frizerie</title>
+  </programme>
+  <programme start="20200307151500 +0200" stop="20200307160000 +0200" channel="HBO 3">
+    <title lang="ro">Batwoman</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307172500 +0200" channel="HBO 3">
+    <title lang="ro">Câini și pisici</title>
+  </programme>
+  <programme start="20200307172500 +0200" stop="20200307181500 +0200" channel="HBO 3">
+    <title lang="ro">Fosse/Verdon</title>
+  </programme>
+  <programme start="20200307181500 +0200" stop="20200307190000 +0200" channel="HBO 3">
+    <title lang="ro">Moșteniri</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307200500 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200307200500 +0200" stop="20200307210500 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200307210500 +0200" stop="20200307220000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200307230000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200307235500 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200307235500 +0200" stop="20200308005000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200308005000 +0200" stop="20200308014500 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200308014500 +0200" stop="20200308024000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200308024000 +0200" stop="20200308033500 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200308033500 +0200" stop="20200308050500 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200308050500 +0200" stop="20200308060000 +0200" channel="HBO 3">
+    <title lang="ro">Drew Michael</title>
+  </programme>
+  <programme start="20200308060000 +0200" stop="20200308083000 +0200" channel="HBO 3">
+    <title lang="ro">Harry Potter și Prințul Semipur</title>
+  </programme>
+  <programme start="20200308083000 +0200" stop="20200308105500 +0200" channel="HBO 3">
+    <title lang="ro">Harry Potter și Talismanele Morții: Partea I</title>
+  </programme>
+  <programme start="20200308105500 +0200" stop="20200308130000 +0200" channel="HBO 3">
+    <title lang="ro">Harry Potter și Talismanele Morții: Partea 2</title>
+  </programme>
+  <programme start="20200308130000 +0200" stop="20200308134500 +0200" channel="HBO 3">
+    <title lang="ro">Moșteniri</title>
+  </programme>
+  <programme start="20200308134500 +0200" stop="20200308141000 +0200" channel="HBO 3">
+    <title lang="ro">O familie modernă</title>
+  </programme>
+  <programme start="20200308141000 +0200" stop="20200308153500 +0200" channel="HBO 3">
+    <title lang="ro">Frumoasa și bestia</title>
+  </programme>
+  <programme start="20200308153500 +0200" stop="20200308170000 +0200" channel="HBO 3">
+    <title lang="ro">Bine ai venit la Trouilly!</title>
+  </programme>
+  <programme start="20200308170000 +0200" stop="20200308174000 +0200" channel="HBO 3">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200308174000 +0200" stop="20200308181500 +0200" channel="HBO 3">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200308181500 +0200" stop="20200308190000 +0200" channel="HBO 3">
+    <title lang="ro">Ray Donovan</title>
+  </programme>
+  <programme start="20200308190000 +0200" stop="20200308200000 +0200" channel="HBO 3">
+    <title lang="ro">Noul papă</title>
+  </programme>
+  <programme start="20200308200000 +0200" stop="20200308210000 +0200" channel="HBO 3">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200308210000 +0200" stop="20200308214500 +0200" channel="HBO 3">
+    <title lang="ro">Batwoman</title>
+  </programme>
+  <programme start="20200308214500 +0200" stop="20200308223000 +0200" channel="HBO 3">
+    <title lang="ro">Creatura din mlaștină</title>
+  </programme>
+  <programme start="20200308223000 +0200" stop="20200309010000 +0200" channel="HBO 3">
+    <title lang="ro">Pulp Fiction</title>
+  </programme>
+  <programme start="20200309010000 +0200" stop="20200309014500 +0200" channel="HBO 3">
+    <title lang="ro">Batwoman</title>
+  </programme>
+  <programme start="20200309014500 +0200" stop="20200309023000 +0200" channel="HBO 3">
+    <title lang="ro">Creatura din mlaștină</title>
+  </programme>
+  <programme start="20200309023000 +0200" stop="20200309043000 +0200" channel="HBO 3">
+    <title lang="ro">Scream 2</title>
+  </programme>
+  <programme start="20200309043000 +0200" stop="20200309060000 +0200" channel="HBO 3">
+    <title lang="ro">Moonlight Sonata</title>
+  </programme>
+  <programme start="20200309060000 +0200" stop="20200309075500 +0200" channel="HBO 3">
+    <title lang="ro">Revelația</title>
+  </programme>
+  <programme start="20200309075500 +0200" stop="20200309093000 +0200" channel="HBO 3">
+    <title lang="ro">Break - puterea dansului</title>
+  </programme>
+  <programme start="20200309093000 +0200" stop="20200309110000 +0200" channel="HBO 3">
+    <title lang="ro">Cursă fără frâne</title>
+  </programme>
+  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200309120000 +0200" stop="20200309133000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200309133000 +0200" stop="20200309140500 +0200" channel="HBO 3">
+    <title lang="ro">Știrile săptămânii cu John Oliver</title>
+  </programme>
+  <programme start="20200309140500 +0200" stop="20200309161000 +0200" channel="HBO 3">
+    <title lang="ro">Corbul alb</title>
+  </programme>
+  <programme start="20200309161000 +0200" stop="20200309180000 +0200" channel="HBO 3">
+    <title lang="ro">Știri de acasă</title>
+  </programme>
+  <programme start="20200309180000 +0200" stop="20200309185000 +0200" channel="HBO 3">
+    <title lang="ro">Fosse/Verdon</title>
+  </programme>
+  <programme start="20200309185000 +0200" stop="20200309200000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200309200000 +0200" stop="20200309210000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200309210000 +0200" stop="20200309220000 +0200" channel="HBO 3">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200309220000 +0200" stop="20200309223000 +0200" channel="HBO 3">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200309223000 +0200" stop="20200309231000 +0200" channel="HBO 3">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200309231000 +0200" stop="20200310020500 +0200" channel="HBO 3">
+    <title lang="ro">Răzbunătorii: Sfârşitul jocului</title>
+  </programme>
+  <programme start="20200310020500 +0200" stop="20200310030000 +0200" channel="HBO 3">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200310030000 +0200" stop="20200310033000 +0200" channel="HBO 3">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200310033000 +0200" stop="20200310041000 +0200" channel="HBO 3">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200310041000 +0200" stop="20200310060000 +0200" channel="HBO 3">
+    <title lang="ro">Demon pe două roți</title>
+  </programme>
+  <programme start="20200310060000 +0200" stop="20200310071500 +0200" channel="HBO 3">
+    <title lang="ro">Clopoțica și Legenda Bestiei de Nicăieri</title>
+  </programme>
+  <programme start="20200310071500 +0200" stop="20200310085500 +0200" channel="HBO 3">
+    <title lang="ro">Mă dau în vânt după cumpărături</title>
+  </programme>
+  <programme start="20200310085500 +0200" stop="20200310104500 +0200" channel="HBO 3">
+    <title lang="ro">Știri de acasă</title>
+  </programme>
+  <programme start="20200310104500 +0200" stop="20200310115500 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200310115500 +0200" stop="20200310125500 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200310125500 +0200" stop="20200310132000 +0200" channel="HBO 3">
+    <title lang="ro">O familie modernă</title>
+  </programme>
+  <programme start="20200310132000 +0200" stop="20200310134000 +0200" channel="HBO 3">
+    <title lang="ro">Tânărul Sheldon</title>
+  </programme>
+  <programme start="20200310134000 +0200" stop="20200310143000 +0200" channel="HBO 3">
+    <title lang="ro">Spencer</title>
+  </programme>
+  <programme start="20200310143000 +0200" stop="20200310162000 +0200" channel="HBO 3">
+    <title lang="ro">Dumbo</title>
+  </programme>
+  <programme start="20200310162000 +0200" stop="20200310171000 +0200" channel="HBO 3">
+    <title lang="ro">Drew Michael</title>
+  </programme>
+  <programme start="20200310171000 +0200" stop="20200310185000 +0200" channel="HBO 3">
+    <title lang="ro">Hotel Grand Budapest</title>
+  </programme>
+  <programme start="20200310185000 +0200" stop="20200310195000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200310195000 +0200" stop="20200310210000 +0200" channel="HBO 3">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200310210000 +0200" stop="20200310220500 +0200" channel="HBO 3">
+    <title lang="ro">Noul papă</title>
+  </programme>
+  <programme start="20200310220500 +0200" stop="20200310225500 +0200" channel="HBO 3">
+    <title lang="ro">Ray Donovan</title>
+  </programme>
+  <programme start="20200310225500 +0200" stop="20200310234500 +0200" channel="HBO 3">
+    <title lang="ro">Creatura din mlaștină</title>
+  </programme>
+  <programme start="20200310234500 +0200" stop="20200311015000 +0200" channel="HBO 3">
+    <title lang="ro">Aladdin</title>
+  </programme>
+  <programme start="20200305152000 +0200" stop="20200305160500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Britannia</title>
+  </programme>
+  <programme start="20200305160500 +0200" stop="20200305163000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Pe platourile de filmare</title>
+  </programme>
+  <programme start="20200305163000 +0200" stop="20200305182000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Mă simt frumoasă</title>
+  </programme>
+  <programme start="20200305182000 +0200" stop="20200305190500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Creatura din mlaștină</title>
+  </programme>
+  <programme start="20200305190500 +0200" stop="20200305200000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305210000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200305215500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200305215500 +0200" stop="20200305224500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Războinicul</title>
+  </programme>
+  <programme start="20200305224500 +0200" stop="20200305234000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Babylon Berlin</title>
+  </programme>
+  <programme start="20200305234000 +0200" stop="20200306004500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Babylon Berlin</title>
+  </programme>
+  <programme start="20200306004500 +0200" stop="20200306022500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Cimitirul animalelor</title>
+  </programme>
+  <programme start="20200306022500 +0200" stop="20200306040500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Mă dau în vânt după cumpărături</title>
+  </programme>
+  <programme start="20200306040500 +0200" stop="20200306060000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Ce-şi doresc bărbaţii</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306083000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Harry Potter și Piatra Filozofală</title>
+  </programme>
+  <programme start="20200306083000 +0200" stop="20200306111000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Harry Potter și Camera Secretelor</title>
+  </programme>
+  <programme start="20200306111000 +0200" stop="20200306120500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200306120500 +0200" stop="20200306131000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200306131000 +0200" stop="20200306145000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Drumul unui câine către casă</title>
+  </programme>
+  <programme start="20200306145000 +0200" stop="20200306153500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Moșteniri</title>
+  </programme>
+  <programme start="20200306153500 +0200" stop="20200306162000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Spencer</title>
+  </programme>
+  <programme start="20200306162000 +0200" stop="20200306183000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Povestea unui cavaler</title>
+  </programme>
+  <programme start="20200306183000 +0200" stop="20200306193000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200306193000 +0200" stop="20200306210000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306213000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Știrile săptămânii cu John Oliver</title>
+  </programme>
+  <programme start="20200306213000 +0200" stop="20200306220000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Conversații la frizerie</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200306223000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Pas cu pas</title>
+  </programme>
+  <programme start="20200306223000 +0200" stop="20200306232000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Britannia</title>
+  </programme>
+  <programme start="20200306232000 +0200" stop="20200307012500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Văduve</title>
+  </programme>
+  <programme start="20200307012500 +0200" stop="20200307015500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Pe platourile de filmare</title>
+  </programme>
+  <programme start="20200307015500 +0200" stop="20200307023000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Conversații la frizerie</title>
+  </programme>
+  <programme start="20200307023000 +0200" stop="20200307031000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Pas cu pas</title>
+  </programme>
+  <programme start="20200307031000 +0200" stop="20200307043500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Întoarcere în Christmas Creek</title>
+  </programme>
+  <programme start="20200307043500 +0200" stop="20200307060000 +0200" channel="HBO 3 HD">
+    <title lang="ro">United Skates</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307082000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Harry Potter și Prizonierul din Azkaban</title>
+  </programme>
+  <programme start="20200307082000 +0200" stop="20200307105500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Harry Potter și Pocalul de Foc</title>
+  </programme>
+  <programme start="20200307105500 +0200" stop="20200307131000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Harry Potter și Ordinul Phoenix</title>
+  </programme>
+  <programme start="20200307131000 +0200" stop="20200307134500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200307134500 +0200" stop="20200307142500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200307142500 +0200" stop="20200307144500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Tânărul Sheldon</title>
+  </programme>
+  <programme start="20200307144500 +0200" stop="20200307151500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Conversații la frizerie</title>
+  </programme>
+  <programme start="20200307151500 +0200" stop="20200307160000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Batwoman</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307172500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Câini și pisici</title>
+  </programme>
+  <programme start="20200307172500 +0200" stop="20200307181500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Fosse/Verdon</title>
+  </programme>
+  <programme start="20200307181500 +0200" stop="20200307190000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Moșteniri</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307200500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200307200500 +0200" stop="20200307210500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200307210500 +0200" stop="20200307220000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200307230000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200307235500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200307235500 +0200" stop="20200308005000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200308005000 +0200" stop="20200308014500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200308014500 +0200" stop="20200308024000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200308024000 +0200" stop="20200308033500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200308033500 +0200" stop="20200308050500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200308050500 +0200" stop="20200308060000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Drew Michael</title>
+  </programme>
+  <programme start="20200308060000 +0200" stop="20200308083000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Harry Potter și Prințul Semipur</title>
+  </programme>
+  <programme start="20200308083000 +0200" stop="20200308105500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Harry Potter și Talismanele Morții: Partea I</title>
+  </programme>
+  <programme start="20200308105500 +0200" stop="20200308130000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Harry Potter și Talismanele Morții: Partea 2</title>
+  </programme>
+  <programme start="20200308130000 +0200" stop="20200308134500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Moșteniri</title>
+  </programme>
+  <programme start="20200308134500 +0200" stop="20200308141000 +0200" channel="HBO 3 HD">
+    <title lang="ro">O familie modernă</title>
+  </programme>
+  <programme start="20200308141000 +0200" stop="20200308153500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Frumoasa și bestia</title>
+  </programme>
+  <programme start="20200308153500 +0200" stop="20200308170000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Bine ai venit la Trouilly!</title>
+  </programme>
+  <programme start="20200308170000 +0200" stop="20200308174000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200308174000 +0200" stop="20200308181500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200308181500 +0200" stop="20200308190000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Ray Donovan</title>
+  </programme>
+  <programme start="20200308190000 +0200" stop="20200308200000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Noul papă</title>
+  </programme>
+  <programme start="20200308200000 +0200" stop="20200308210000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200308210000 +0200" stop="20200308214500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Batwoman</title>
+  </programme>
+  <programme start="20200308214500 +0200" stop="20200308223000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Creatura din mlaștină</title>
+  </programme>
+  <programme start="20200308223000 +0200" stop="20200309010000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Pulp Fiction</title>
+  </programme>
+  <programme start="20200309010000 +0200" stop="20200309014500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Batwoman</title>
+  </programme>
+  <programme start="20200309014500 +0200" stop="20200309023000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Creatura din mlaștină</title>
+  </programme>
+  <programme start="20200309023000 +0200" stop="20200309043000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Scream 2</title>
+  </programme>
+  <programme start="20200309043000 +0200" stop="20200309060000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Moonlight Sonata</title>
+  </programme>
+  <programme start="20200309060000 +0200" stop="20200309075500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Revelația</title>
+  </programme>
+  <programme start="20200309075500 +0200" stop="20200309093000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Break - puterea dansului</title>
+  </programme>
+  <programme start="20200309093000 +0200" stop="20200309110000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Cursă fără frâne</title>
+  </programme>
+  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200309120000 +0200" stop="20200309133000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200309133000 +0200" stop="20200309140500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Știrile săptămânii cu John Oliver</title>
+  </programme>
+  <programme start="20200309140500 +0200" stop="20200309161000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Corbul alb</title>
+  </programme>
+  <programme start="20200309161000 +0200" stop="20200309180000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Știri de acasă</title>
+  </programme>
+  <programme start="20200309180000 +0200" stop="20200309185000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Fosse/Verdon</title>
+  </programme>
+  <programme start="20200309185000 +0200" stop="20200309200000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200309200000 +0200" stop="20200309210000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200309210000 +0200" stop="20200309220000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200309220000 +0200" stop="20200309223000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200309223000 +0200" stop="20200309231000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200309231000 +0200" stop="20200310020500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Răzbunătorii: Sfârşitul jocului</title>
+  </programme>
+  <programme start="20200310020500 +0200" stop="20200310030000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200310030000 +0200" stop="20200310033000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200310033000 +0200" stop="20200310041000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200310041000 +0200" stop="20200310060000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Demon pe două roți</title>
+  </programme>
+  <programme start="20200310060000 +0200" stop="20200310071500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Clopoțica și Legenda Bestiei de Nicăieri</title>
+  </programme>
+  <programme start="20200310071500 +0200" stop="20200310085500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Mă dau în vânt după cumpărături</title>
+  </programme>
+  <programme start="20200310085500 +0200" stop="20200310104500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Știri de acasă</title>
+  </programme>
+  <programme start="20200310104500 +0200" stop="20200310115500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200310115500 +0200" stop="20200310125500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200310125500 +0200" stop="20200310132000 +0200" channel="HBO 3 HD">
+    <title lang="ro">O familie modernă</title>
+  </programme>
+  <programme start="20200310132000 +0200" stop="20200310134000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Tânărul Sheldon</title>
+  </programme>
+  <programme start="20200310134000 +0200" stop="20200310143000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Spencer</title>
+  </programme>
+  <programme start="20200310143000 +0200" stop="20200310162000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Dumbo</title>
+  </programme>
+  <programme start="20200310162000 +0200" stop="20200310171000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Drew Michael</title>
+  </programme>
+  <programme start="20200310171000 +0200" stop="20200310185000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Hotel Grand Budapest</title>
+  </programme>
+  <programme start="20200310185000 +0200" stop="20200310195000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200310195000 +0200" stop="20200310210000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Westworld</title>
+  </programme>
+  <programme start="20200310210000 +0200" stop="20200310220500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Noul papă</title>
+  </programme>
+  <programme start="20200310220500 +0200" stop="20200310225500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Ray Donovan</title>
+  </programme>
+  <programme start="20200310225500 +0200" stop="20200310234500 +0200" channel="HBO 3 HD">
+    <title lang="ro">Creatura din mlaștină</title>
+  </programme>
+  <programme start="20200310234500 +0200" stop="20200311015000 +0200" channel="HBO 3 HD">
+    <title lang="ro">Aladdin</title>
+  </programme>
+  <programme start="20200305151500 +0200" stop="20200305172000 +0200" channel="HBO HD">
+    <title lang="ro">Copilul care ar putea fi rege</title>
+  </programme>
+  <programme start="20200305172000 +0200" stop="20200305185500 +0200" channel="HBO HD">
+    <title lang="ro">Stockholm</title>
+  </programme>
+  <programme start="20200305185500 +0200" stop="20200305200000 +0200" channel="HBO HD">
+    <title lang="ro">Noul papă</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305213000 +0200" channel="HBO HD">
+    <title lang="ro">Misterele rebusului: un puzzle mortal</title>
+  </programme>
+  <programme start="20200305213000 +0200" stop="20200305223000 +0200" channel="HBO HD">
+    <title lang="ro">McMillions</title>
+  </programme>
+  <programme start="20200305223000 +0200" stop="20200306000000 +0200" channel="HBO HD">
+    <title lang="ro">Focviu</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306014000 +0200" channel="HBO HD">
+    <title lang="ro">Jocul de-a detectivii</title>
+  </programme>
+  <programme start="20200306014000 +0200" stop="20200306041000 +0200" channel="HBO HD">
+    <title lang="ro">Armageddon - Sfârșitul lumii?</title>
+  </programme>
+  <programme start="20200306041000 +0200" stop="20200306060000 +0200" channel="HBO HD">
+    <title lang="ro">O.G.</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306073500 +0200" channel="HBO HD">
+    <title lang="ro">Romeo și Julieta: dincolo de cuvinte</title>
+  </programme>
+  <programme start="20200306073500 +0200" stop="20200306093500 +0200" channel="HBO HD">
+    <title lang="ro">Copilul care ar putea fi rege</title>
+  </programme>
+  <programme start="20200306093500 +0200" stop="20200306110500 +0200" channel="HBO HD">
+    <title lang="ro">Stockholm</title>
+  </programme>
+  <programme start="20200306110500 +0200" stop="20200306123500 +0200" channel="HBO HD">
+    <title lang="ro">Misterele rebusului: un puzzle mortal</title>
+  </programme>
+  <programme start="20200306123500 +0200" stop="20200306134000 +0200" channel="HBO HD">
+    <title lang="ro">Dumbo</title>
+  </programme>
+  <programme start="20200306134000 +0200" stop="20200306152000 +0200" channel="HBO HD">
+    <title lang="ro">Fata de aur</title>
+  </programme>
+  <programme start="20200306152000 +0200" stop="20200306174000 +0200" channel="HBO HD">
+    <title lang="ro">Ready Player One: Să înceapă jocul</title>
+  </programme>
+  <programme start="20200306174000 +0200" stop="20200306181500 +0200" channel="HBO HD">
+    <title lang="ro">Pe platourile de filmare</title>
+  </programme>
+  <programme start="20200306181500 +0200" stop="20200306200000 +0200" channel="HBO HD">
+    <title lang="ro">Cartea Junglei</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306205000 +0200" channel="HBO HD">
+    <title lang="ro">Britannia</title>
+  </programme>
+  <programme start="20200306205000 +0200" stop="20200306214500 +0200" channel="HBO HD">
+    <title lang="ro">Fosse/Verdon</title>
+  </programme>
+  <programme start="20200306214500 +0200" stop="20200307000000 +0200" channel="HBO HD">
+    <title lang="ro">Foxcatcher</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307014500 +0200" channel="HBO HD">
+    <title lang="ro">O.G.</title>
+  </programme>
+  <programme start="20200307014500 +0200" stop="20200307034500 +0200" channel="HBO HD">
+    <title lang="ro">Frida</title>
+  </programme>
+  <programme start="20200307034500 +0200" stop="20200307060000 +0200" channel="HBO HD">
+    <title lang="ro">Foxcatcher</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307082000 +0200" channel="HBO HD">
+    <title lang="ro">Ready Player One: Să înceapă jocul</title>
+  </programme>
+  <programme start="20200307082000 +0200" stop="20200307101500 +0200" channel="HBO HD">
+    <title lang="ro">Omul-Păianjen: În lumea păianjenului</title>
+  </programme>
+  <programme start="20200307101500 +0200" stop="20200307115500 +0200" channel="HBO HD">
+    <title lang="ro">TAG: Dă-o mai departe</title>
+  </programme>
+  <programme start="20200307115500 +0200" stop="20200307131000 +0200" channel="HBO HD">
+    <title lang="ro">Daphne și Velma</title>
+  </programme>
+  <programme start="20200307131000 +0200" stop="20200307150000 +0200" channel="HBO HD">
+    <title lang="ro">O noapte la muzeu</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307164000 +0200" channel="HBO HD">
+    <title lang="ro">Regatul de gheață</title>
+  </programme>
+  <programme start="20200307164000 +0200" stop="20200307185000 +0200" channel="HBO HD">
+    <title lang="ro">Frumoasa și bestia</title>
+  </programme>
+  <programme start="20200307185000 +0200" stop="20200307200000 +0200" channel="HBO HD">
+    <title lang="ro">Lilo și Stitch 2: Stitch are o problemă</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307214500 +0200" channel="HBO HD">
+    <title lang="ro">Whiplash</title>
+  </programme>
+  <programme start="20200307214500 +0200" stop="20200307232500 +0200" channel="HBO HD">
+    <title lang="ro">TAG: Dă-o mai departe</title>
+  </programme>
+  <programme start="20200307232500 +0200" stop="20200308010000 +0200" channel="HBO HD">
+    <title lang="ro">Pe aripile vulturilor</title>
+  </programme>
+  <programme start="20200308010000 +0200" stop="20200308024500 +0200" channel="HBO HD">
+    <title lang="ro">Sper să mori data viitoare :)</title>
+  </programme>
+  <programme start="20200308024500 +0200" stop="20200308042500 +0200" channel="HBO HD">
+    <title lang="ro">Cimitirul animalelor</title>
+  </programme>
+  <programme start="20200308042500 +0200" stop="20200308060000 +0200" channel="HBO HD">
+    <title lang="ro">Versuri pocite</title>
+  </programme>
+  <programme start="20200308060000 +0200" stop="20200308075000 +0200" channel="HBO HD">
+    <title lang="ro">Miss Agent Secret</title>
+  </programme>
+  <programme start="20200308075000 +0200" stop="20200308090000 +0200" channel="HBO HD">
+    <title lang="ro">Lilo și Stitch 2: Stitch are o problemă</title>
+  </programme>
+  <programme start="20200308090000 +0200" stop="20200308105500 +0200" channel="HBO HD">
+    <title lang="ro">Regele Leu</title>
+  </programme>
+  <programme start="20200308105500 +0200" stop="20200308124500 +0200" channel="HBO HD">
+    <title lang="ro">După război</title>
+  </programme>
+  <programme start="20200308124500 +0200" stop="20200308143000 +0200" channel="HBO HD">
+    <title lang="ro">O noapte la muzeu 2</title>
+  </programme>
+  <programme start="20200308143000 +0200" stop="20200308162000 +0200" channel="HBO HD">
+    <title lang="ro">Moromeții 2</title>
+  </programme>
+  <programme start="20200308162000 +0200" stop="20200308180500 +0200" channel="HBO HD">
+    <title lang="ro">Cenușăreasa</title>
+  </programme>
+  <programme start="20200308180500 +0200" stop="20200308200000 +0200" channel="HBO HD">
+    <title lang="ro">Bărbați în Negru Internațional</title>
+  </programme>
+  <programme start="20200308200000 +0200" stop="20200308220000 +0200" channel="HBO HD">
+    <title lang="ro">Regele Leu</title>
+  </programme>
+  <programme start="20200308220000 +0200" stop="20200308225500 +0200" channel="HBO HD">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200308225500 +0200" stop="20200309003500 +0200" channel="HBO HD">
+    <title lang="ro">Cimitirul animalelor</title>
+  </programme>
+  <programme start="20200309003500 +0200" stop="20200309021000 +0200" channel="HBO HD">
+    <title lang="ro">Stan și Ollie</title>
+  </programme>
+  <programme start="20200309021000 +0200" stop="20200309040000 +0200" channel="HBO HD">
+    <title lang="ro">Overlord</title>
+  </programme>
+  <programme start="20200309040000 +0200" stop="20200309050000 +0200" channel="HBO HD">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200309050000 +0200" stop="20200309060000 +0200" channel="HBO HD">
+    <title lang="ro">Șeriful</title>
+  </programme>
+  <programme start="20200309060000 +0200" stop="20200309074000 +0200" channel="HBO HD">
+    <title lang="ro">Drumul unui câine către casă</title>
+  </programme>
+  <programme start="20200309074000 +0200" stop="20200309080500 +0200" channel="HBO HD">
+    <title lang="ro">O familie modernă</title>
+  </programme>
+  <programme start="20200309080500 +0200" stop="20200309095000 +0200" channel="HBO HD">
+    <title lang="ro">Cenușăreasa</title>
+  </programme>
+  <programme start="20200309095000 +0200" stop="20200309114500 +0200" channel="HBO HD">
+    <title lang="ro">Bărbați în Negru Internațional</title>
+  </programme>
+  <programme start="20200309114500 +0200" stop="20200309134500 +0200" channel="HBO HD">
+    <title lang="ro">Regele Leu</title>
+  </programme>
+  <programme start="20200309134500 +0200" stop="20200309154000 +0200" channel="HBO HD">
+    <title lang="ro">Incredibilii</title>
+  </programme>
+  <programme start="20200309154000 +0200" stop="20200309174000 +0200" channel="HBO HD">
+    <title lang="ro">Frații Grimm</title>
+  </programme>
+  <programme start="20200309174000 +0200" stop="20200309191500 +0200" channel="HBO HD">
+    <title lang="ro">Gemeni</title>
+  </programme>
+  <programme start="20200309191500 +0200" stop="20200309200000 +0200" channel="HBO HD">
+    <title lang="ro">Batwoman</title>
+  </programme>
+  <programme start="20200309200000 +0200" stop="20200309210000 +0200" channel="HBO HD">
+    <title lang="ro">Outsider</title>
+  </programme>
+  <programme start="20200309210000 +0200" stop="20200309213000 +0200" channel="HBO HD">
+    <title lang="ro">Avenue 5</title>
+  </programme>
+  <programme start="20200309213000 +0200" stop="20200309221000 +0200" channel="HBO HD">
+    <title lang="ro">Larry David, inamicul public nr. 1</title>
+  </programme>
+  <programme start="20200309221000 +0200" stop="20200310001000 +0200" channel="HBO HD">
+    <title lang="ro">Rocketman</title>
+  </programme>
+  <programme start="20200310001000 +0200" stop="20200310015000 +0200" channel="HBO HD">
+    <title lang="ro">Brexit</title>
+  </programme>
+  <programme start="20200310015000 +0200" stop="20200310025000 +0200" channel="HBO HD">
+    <title lang="ro">Pete Holmes: curat murdar</title>
+  </programme>
+  <programme start="20200310025000 +0200" stop="20200310043000 +0200" channel="HBO HD">
+    <title lang="ro">Jocul de-a detectivii</title>
+  </programme>
+  <programme start="20200310043000 +0200" stop="20200310060000 +0200" channel="HBO HD">
+    <title lang="ro">Secretele femeilor</title>
+  </programme>
+  <programme start="20200310060000 +0200" stop="20200310080500 +0200" channel="HBO HD">
+    <title lang="ro">Rocketman</title>
+  </programme>
+  <programme start="20200310080500 +0200" stop="20200310104000 +0200" channel="HBO HD">
+    <title lang="ro">Harry Potter și Piatra Filozofală</title>
+  </programme>
+  <programme start="20200310104000 +0200" stop="20200310132500 +0200" channel="HBO HD">
+    <title lang="ro">Harry Potter și Camera Secretelor</title>
+  </programme>
+  <programme start="20200310132500 +0200" stop="20200310155000 +0200" channel="HBO HD">
+    <title lang="ro">Harry Potter și Prizonierul din Azkaban</title>
+  </programme>
+  <programme start="20200310155000 +0200" stop="20200310182500 +0200" channel="HBO HD">
+    <title lang="ro">Harry Potter și Pocalul de Foc</title>
+  </programme>
+  <programme start="20200310182500 +0200" stop="20200310190500 +0200" channel="HBO HD">
+    <title lang="ro">Știrile săptămânii cu John Oliver</title>
+  </programme>
+  <programme start="20200310190500 +0200" stop="20200310200000 +0200" channel="HBO HD">
+    <title lang="ro">Moșteniri</title>
+  </programme>
+  <programme start="20200310200000 +0200" stop="20200310211000 +0200" channel="HBO HD">
+    <title lang="ro">Noul papă</title>
+  </programme>
+  <programme start="20200310211000 +0200" stop="20200310220000 +0200" channel="HBO HD">
+    <title lang="ro">Ray Donovan</title>
+  </programme>
+  <programme start="20200310220000 +0200" stop="20200310234000 +0200" channel="HBO HD">
+    <title lang="ro">Jocul de-a detectivii</title>
+  </programme>
+  <programme start="20200310234000 +0200" stop="20200311012000 +0200" channel="HBO HD">
+    <title lang="ro">Fahrenheit 451</title>
+  </programme>
+  <programme start="20200305153000 +0200" stop="20200305161500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200305161500 +0200" stop="20200305170500 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200305170500 +0200" stop="20200305180000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305184500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200305184500 +0200" stop="20200305194000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200305194000 +0200" stop="20200305203000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200305203000 +0200" stop="20200305212000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200305212000 +0200" stop="20200305221000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200305221000 +0200" stop="20200305230000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200305230000 +0200" stop="20200305235000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200305235000 +0200" stop="20200306004500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200306004500 +0200" stop="20200306013000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200306013000 +0200" stop="20200306021500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200306021500 +0200" stop="20200306030000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200306030000 +0200" stop="20200306035000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200306035000 +0200" stop="20200306044000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200306044000 +0200" stop="20200306053000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200306053000 +0200" stop="20200306062000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200306062000 +0200" stop="20200306071000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200306071000 +0200" stop="20200306080000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306085000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200306085000 +0200" stop="20200306094000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200306094000 +0200" stop="20200306103500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200306103500 +0200" stop="20200306112500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200306112500 +0200" stop="20200306121500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200306121500 +0200" stop="20200306130000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306135500 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200306135500 +0200" stop="20200306144500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200306144500 +0200" stop="20200306153500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200306153500 +0200" stop="20200306162000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200306162000 +0200" stop="20200306171500 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200306171500 +0200" stop="20200306180000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306185000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200306185000 +0200" stop="20200306194500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200306194500 +0200" stop="20200306203000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200306203000 +0200" stop="20200306212000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200306212000 +0200" stop="20200306221000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200306221000 +0200" stop="20200306230500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200306230500 +0200" stop="20200306235000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200306235000 +0200" stop="20200307004000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200307004000 +0200" stop="20200307013000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200307013000 +0200" stop="20200307021500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200307021500 +0200" stop="20200307040000 +0200" channel="TDC">
+    <title lang="ro">Figurantul</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307054500 +0200" channel="TDC">
+    <title lang="ro">Ia-mă cu tine</title>
+  </programme>
+  <programme start="20200307054500 +0200" stop="20200307063500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200307063500 +0200" stop="20200307072000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200307072000 +0200" stop="20200307081500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200307081500 +0200" stop="20200307090500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200307090500 +0200" stop="20200307095000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200307095000 +0200" stop="20200307114000 +0200" channel="TDC">
+    <title lang="ro">Vaca în exil</title>
+  </programme>
+  <programme start="20200307114000 +0200" stop="20200307131000 +0200" channel="TDC">
+    <title lang="ro">O zi din viitor</title>
+  </programme>
+  <programme start="20200307131000 +0200" stop="20200307144500 +0200" channel="TDC">
+    <title lang="ro">Şi acum?</title>
+  </programme>
+  <programme start="20200307144500 +0200" stop="20200307152500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200307152500 +0200" stop="20200307161000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200307161000 +0200" stop="20200307170000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307174000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200307174000 +0200" stop="20200307182500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200307182500 +0200" stop="20200307191500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200307191500 +0200" stop="20200307200000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307204500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200307204500 +0200" stop="20200307213000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200307213000 +0200" stop="20200307221500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200307221500 +0200" stop="20200307230000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200307235000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200307235000 +0200" stop="20200308003500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200308003500 +0200" stop="20200308012000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200308012000 +0200" stop="20200308021000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200308021000 +0200" stop="20200308025500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200308025500 +0200" stop="20200308034000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200308034000 +0200" stop="20200308043000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200308043000 +0200" stop="20200308051500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200308051500 +0200" stop="20200308060000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200308060000 +0200" stop="20200308072500 +0200" channel="TDC">
+    <title lang="ro">Scenaristul</title>
+  </programme>
+  <programme start="20200308072500 +0200" stop="20200308081500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200308081500 +0200" stop="20200308090000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200308090000 +0200" stop="20200308095000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200308095000 +0200" stop="20200308103500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200308103500 +0200" stop="20200308112500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200308112500 +0200" stop="20200308130500 +0200" channel="TDC">
+    <title lang="ro">Ia-mă cu tine</title>
+  </programme>
+  <programme start="20200308130500 +0200" stop="20200308135000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200308135000 +0200" stop="20200308143500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200308143500 +0200" stop="20200308152500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200308152500 +0200" stop="20200308160500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200308160500 +0200" stop="20200308165500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200308165500 +0200" stop="20200308174000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200308174000 +0200" stop="20200308182500 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200308182500 +0200" stop="20200308192000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200308192000 +0200" stop="20200308200500 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200308200500 +0200" stop="20200308204500 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200308204500 +0200" stop="20200308213500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200308213500 +0200" stop="20200308222500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200308222500 +0200" stop="20200308232000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200308232000 +0200" stop="20200309001000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200309001000 +0200" stop="20200309010000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200309010000 +0200" stop="20200309015000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200309015000 +0200" stop="20200309024000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200309024000 +0200" stop="20200309033500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200309033500 +0200" stop="20200309042000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200309042000 +0200" stop="20200309051500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200309051500 +0200" stop="20200309060500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200309060500 +0200" stop="20200309070000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200309070000 +0200" stop="20200309075000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200309075000 +0200" stop="20200309084000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200309084000 +0200" stop="20200309093500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200309093500 +0200" stop="20200309102000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200309102000 +0200" stop="20200309111500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200309111500 +0200" stop="20200309120500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200309120500 +0200" stop="20200309125500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200309125500 +0200" stop="20200309134500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200309134500 +0200" stop="20200309143500 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200309143500 +0200" stop="20200309153000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200309153000 +0200" stop="20200309163000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200309163000 +0200" stop="20200309172000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200309172000 +0200" stop="20200309180500 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200309180500 +0200" stop="20200309185000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200309185000 +0200" stop="20200309194500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200309194500 +0200" stop="20200309203500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200309203500 +0200" stop="20200309212000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200309212000 +0200" stop="20200309221500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200309221500 +0200" stop="20200309230000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200309230000 +0200" stop="20200309235500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200309235500 +0200" stop="20200310004500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200310004500 +0200" stop="20200310013000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200310013000 +0200" stop="20200310022000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200310022000 +0200" stop="20200310030500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200310030500 +0200" stop="20200310035000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200310035000 +0200" stop="20200310044000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200310044000 +0200" stop="20200310052000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200310052000 +0200" stop="20200310060500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200310060500 +0200" stop="20200310065500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200310065500 +0200" stop="20200310074000 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200310074000 +0200" stop="20200310082500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200310082500 +0200" stop="20200310090500 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200310090500 +0200" stop="20200310095000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200310095000 +0200" stop="20200310104000 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200310104000 +0200" stop="20200310112500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200310112500 +0200" stop="20200310121000 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200310121000 +0200" stop="20200310130000 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200310130000 +0200" stop="20200310135000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200310135000 +0200" stop="20200310144500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200310144500 +0200" stop="20200310153500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200310153500 +0200" stop="20200310162500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200310162500 +0200" stop="20200310171500 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200310171500 +0200" stop="20200310180500 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200310180500 +0200" stop="20200310185500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200310185500 +0200" stop="20200310194500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200310194500 +0200" stop="20200310203500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200310203500 +0200" stop="20200310212500 +0200" channel="TDC">
+    <title lang="ro">Unchiul Kara</title>
+  </programme>
+  <programme start="20200310212500 +0200" stop="20200310221000 +0200" channel="TDC">
+    <title lang="ro">Eşarfa roşie</title>
+  </programme>
+  <programme start="20200310221000 +0200" stop="20200310230500 +0200" channel="TDC">
+    <title lang="ro">20 de minute</title>
+  </programme>
+  <programme start="20200310230500 +0200" stop="20200310235500 +0200" channel="TDC">
+    <title lang="ro">Dragoste de contrabandă</title>
+  </programme>
+  <programme start="20200310235500 +0200" stop="20200311004500 +0200" channel="TDC">
+    <title lang="ro">Cinci fraţi</title>
+  </programme>
+  <programme start="20200305144500 +0200" stop="20200305162000 +0200" channel="Film Now">
+    <title lang="ro">Abandon</title>
+  </programme>
+  <programme start="20200305162000 +0200" stop="20200305175500 +0200" channel="Film Now">
+    <title lang="ro">Frați în mijlocul naturii</title>
+  </programme>
+  <programme start="20200305175500 +0200" stop="20200305200000 +0200" channel="Film Now">
+    <title lang="ro">Din Raiul meu</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305215000 +0200" channel="Film Now">
+    <title lang="ro">Loserii de la seral</title>
+  </programme>
+  <programme start="20200305215000 +0200" stop="20200305233000 +0200" channel="Film Now">
+    <title lang="ro">District 13: Ultimatum</title>
+  </programme>
+  <programme start="20200305233000 +0200" stop="20200306011000 +0200" channel="Film Now">
+    <title lang="ro">Insidious: Ultima cheie</title>
+  </programme>
+  <programme start="20200306011000 +0200" stop="20200306034000 +0200" channel="Film Now">
+    <title lang="ro">Pulp Fiction</title>
+  </programme>
+  <programme start="20200306034000 +0200" stop="20200306052000 +0200" channel="Film Now">
+    <title lang="ro">District 13: Ultimatum</title>
+  </programme>
+  <programme start="20200306052000 +0200" stop="20200306065000 +0200" channel="Film Now">
+    <title lang="ro">Păcătoasa</title>
+  </programme>
+  <programme start="20200306065000 +0200" stop="20200306082000 +0200" channel="Film Now">
+    <title lang="ro">Wall-E</title>
+  </programme>
+  <programme start="20200306082000 +0200" stop="20200306100500 +0200" channel="Film Now">
+    <title lang="ro">Loserii de la seral</title>
+  </programme>
+  <programme start="20200306100500 +0200" stop="20200306121000 +0200" channel="Film Now">
+    <title lang="ro">Din Raiul meu</title>
+  </programme>
+  <programme start="20200306121000 +0200" stop="20200306135500 +0200" channel="Film Now">
+    <title lang="ro">Nu te pune cu Zohan</title>
+  </programme>
+  <programme start="20200306135500 +0200" stop="20200306155000 +0200" channel="Film Now">
+    <title lang="ro">Cowboys &amp; Extratereștri</title>
+  </programme>
+  <programme start="20200306155000 +0200" stop="20200306173000 +0200" channel="Film Now">
+    <title lang="ro">Yes Man - Un cuvânt poate schimba totul</title>
+  </programme>
+  <programme start="20200306173000 +0200" stop="20200306181500 +0200" channel="Film Now">
+    <title lang="ro">Destinația</title>
+  </programme>
+  <programme start="20200306181500 +0200" stop="20200306200000 +0200" channel="Film Now">
+    <title lang="ro">Proiectul Almanac</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306214000 +0200" channel="Film Now">
+    <title lang="ro">Spărgătorul de Nuci şi Cele Patru Tărâmuri</title>
+  </programme>
+  <programme start="20200306214000 +0200" stop="20200306233500 +0200" channel="Film Now">
+    <title lang="ro">Extrem de pervers, șocant de violent și diabolic</title>
+  </programme>
+  <programme start="20200306233500 +0200" stop="20200307011000 +0200" channel="Film Now">
+    <title lang="ro">Destinație finală</title>
+  </programme>
+  <programme start="20200307011000 +0200" stop="20200307030000 +0200" channel="Film Now">
+    <title lang="ro">Băiatu' tatii</title>
+  </programme>
+  <programme start="20200307030000 +0200" stop="20200307052000 +0200" channel="Film Now">
+    <title lang="ro">În sălbăticie</title>
+  </programme>
+  <programme start="20200307052000 +0200" stop="20200307071500 +0200" channel="Film Now">
+    <title lang="ro">Cowboys &amp; Extratereștri</title>
+  </programme>
+  <programme start="20200307071500 +0200" stop="20200307085500 +0200" channel="Film Now">
+    <title lang="ro">Spărgătorul de Nuci şi Cele Patru Tărâmuri</title>
+  </programme>
+  <programme start="20200307085500 +0200" stop="20200307102500 +0200" channel="Film Now">
+    <title lang="ro">Cinci eroi de legendă</title>
+  </programme>
+  <programme start="20200307102500 +0200" stop="20200307121000 +0200" channel="Film Now">
+    <title lang="ro">Proiectul Almanac</title>
+  </programme>
+  <programme start="20200307121000 +0200" stop="20200307140500 +0200" channel="Film Now">
+    <title lang="ro">Zâmbet de Mona Lisa</title>
+  </programme>
+  <programme start="20200307140500 +0200" stop="20200307162000 +0200" channel="Film Now">
+    <title lang="ro">Transformers - Războiul lor în lumea noastră</title>
+  </programme>
+  <programme start="20200307162000 +0200" stop="20200307180500 +0200" channel="Film Now">
+    <title lang="ro">Câinele, adevăratul meu prieten 2</title>
+  </programme>
+  <programme start="20200307180500 +0200" stop="20200307200000 +0200" channel="Film Now">
+    <title lang="ro">Kate și Leopold</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307221000 +0200" channel="Film Now">
+    <title lang="ro">Grozavul și puternicul Oz</title>
+  </programme>
+  <programme start="20200307221000 +0200" stop="20200307235000 +0200" channel="Film Now">
+    <title lang="ro">Pasager în trenul terorii</title>
+  </programme>
+  <programme start="20200307235000 +0200" stop="20200308013000 +0200" channel="Film Now">
+    <title lang="ro">Faster: Iute ca glonțul</title>
+  </programme>
+  <programme start="20200308013000 +0200" stop="20200308030500 +0200" channel="Film Now">
+    <title lang="ro">Înscenarea</title>
+  </programme>
+  <programme start="20200308030500 +0200" stop="20200308052000 +0200" channel="Film Now">
+    <title lang="ro">Transformers - Războiul lor în lumea noastră</title>
+  </programme>
+  <programme start="20200308052000 +0200" stop="20200308070500 +0200" channel="Film Now">
+    <title lang="ro">Câinele, adevăratul meu prieten 2</title>
+  </programme>
+  <programme start="20200308070500 +0200" stop="20200308092000 +0200" channel="Film Now">
+    <title lang="ro">Grozavul și puternicul Oz</title>
+  </programme>
+  <programme start="20200308092000 +0200" stop="20200308111500 +0200" channel="Film Now">
+    <title lang="ro">Incredibilii 2</title>
+  </programme>
+  <programme start="20200308111500 +0200" stop="20200308125500 +0200" channel="Film Now">
+    <title lang="ro">Pasager în trenul terorii</title>
+  </programme>
+  <programme start="20200308125500 +0200" stop="20200308150500 +0200" channel="Film Now">
+    <title lang="ro">Animale fantastice şi unde le poţi găsi</title>
+  </programme>
+  <programme start="20200308150500 +0200" stop="20200308163500 +0200" channel="Film Now">
+    <title lang="ro">Orașul fantomelor</title>
+  </programme>
+  <programme start="20200308163500 +0200" stop="20200308181500 +0200" channel="Film Now">
+    <title lang="ro">Îngerii lui Charlie</title>
+  </programme>
+  <programme start="20200308181500 +0200" stop="20200308200000 +0200" channel="Film Now">
+    <title lang="ro">Mamma Mia! O luăm de la capăt</title>
+  </programme>
+  <programme start="20200308200000 +0200" stop="20200308213500 +0200" channel="Film Now">
+    <title lang="ro">Cod roșu la Londra</title>
+  </programme>
+  <programme start="20200308213500 +0200" stop="20200308233500 +0200" channel="Film Now">
+    <title lang="ro">Anna</title>
+  </programme>
+  <programme start="20200308233500 +0200" stop="20200309011500 +0200" channel="Film Now">
+    <title lang="ro">Cincizeci de umbre descătușate</title>
+  </programme>
+  <programme start="20200309011500 +0200" stop="20200309030000 +0200" channel="Film Now">
+    <title lang="ro">Sabotaj</title>
+  </programme>
+  <programme start="20200309030000 +0200" stop="20200309042500 +0200" channel="Film Now">
+    <title lang="ro">Comedie de groază</title>
+  </programme>
+  <programme start="20200309042500 +0200" stop="20200309062000 +0200" channel="Film Now">
+    <title lang="ro">Anna</title>
+  </programme>
+  <programme start="20200309062000 +0200" stop="20200309081000 +0200" channel="Film Now">
+    <title lang="ro">Mamma Mia! O luăm de la capăt</title>
+  </programme>
+  <programme start="20200309081000 +0200" stop="20200309094500 +0200" channel="Film Now">
+    <title lang="ro">Îngerii lui Charlie</title>
+  </programme>
+  <programme start="20200309094500 +0200" stop="20200309112500 +0200" channel="Film Now">
+    <title lang="ro">Cod roșu la Londra</title>
+  </programme>
+  <programme start="20200309112500 +0200" stop="20200309131500 +0200" channel="Film Now">
+    <title lang="ro">Jack</title>
+  </programme>
+  <programme start="20200309131500 +0200" stop="20200309143500 +0200" channel="Film Now">
+    <title lang="ro">Prima lovitură a lui Jackie Chan</title>
+  </programme>
+  <programme start="20200309143500 +0200" stop="20200309160500 +0200" channel="Film Now">
+    <title lang="ro">Parisul poate aştepta</title>
+  </programme>
+  <programme start="20200309160500 +0200" stop="20200309180500 +0200" channel="Film Now">
+    <title lang="ro">Moștenire cu cântec</title>
+  </programme>
+  <programme start="20200309180500 +0200" stop="20200309200000 +0200" channel="Film Now">
+    <title lang="ro">Colateral</title>
+  </programme>
+  <programme start="20200309200000 +0200" stop="20200309221000 +0200" channel="Film Now">
+    <title lang="ro">Îngeri și Demoni</title>
+  </programme>
+  <programme start="20200309221000 +0200" stop="20200309233000 +0200" channel="Film Now">
+    <title lang="ro">Patient Zero</title>
+  </programme>
+  <programme start="20200309233000 +0200" stop="20200310013500 +0200" channel="Film Now">
+    <title lang="ro">O logodnă foarte lungă</title>
+  </programme>
+  <programme start="20200310013500 +0200" stop="20200310033500 +0200" channel="Film Now">
+    <title lang="ro">Lunetistul</title>
+  </programme>
+  <programme start="20200310033500 +0200" stop="20200310053000 +0200" channel="Film Now">
+    <title lang="ro">Colateral</title>
+  </programme>
+  <programme start="20200310053000 +0200" stop="20200310065500 +0200" channel="Film Now">
+    <title lang="ro">Fii cineva!</title>
+  </programme>
+  <programme start="20200310065500 +0200" stop="20200310085500 +0200" channel="Film Now">
+    <title lang="ro">Moștenire cu cântec</title>
+  </programme>
+  <programme start="20200310085500 +0200" stop="20200310102500 +0200" channel="Film Now">
+    <title lang="ro">Parisul poate aştepta</title>
+  </programme>
+  <programme start="20200310102500 +0200" stop="20200310123500 +0200" channel="Film Now">
+    <title lang="ro">Îngeri și Demoni</title>
+  </programme>
+  <programme start="20200310123500 +0200" stop="20200310141500 +0200" channel="Film Now">
+    <title lang="ro">Bărbatul ideal</title>
+  </programme>
+  <programme start="20200310141500 +0200" stop="20200310155000 +0200" channel="Film Now">
+    <title lang="ro">Înfruntarea titanilor</title>
+  </programme>
+  <programme start="20200310155000 +0200" stop="20200310173000 +0200" channel="Film Now">
+    <title lang="ro">Invincibil</title>
+  </programme>
+  <programme start="20200310173000 +0200" stop="20200310182000 +0200" channel="Film Now">
+    <title lang="ro">Cineva acolo sus</title>
+  </programme>
+  <programme start="20200310182000 +0200" stop="20200310200000 +0200" channel="Film Now">
+    <title lang="ro">Cei trei muschetari</title>
+  </programme>
+  <programme start="20200310200000 +0200" stop="20200310215000 +0200" channel="Film Now">
+    <title lang="ro">Dog Days</title>
+  </programme>
+  <programme start="20200310215000 +0200" stop="20200310233500 +0200" channel="Film Now">
+    <title lang="ro">Apă întunecată</title>
+  </programme>
+  <programme start="20200310233500 +0200" stop="20200311013500 +0200" channel="Film Now">
+    <title lang="ro">N-ai șanse, frate!</title>
+  </programme>
+  <programme start="20200305144500 +0200" stop="20200305162000 +0200" channel="Film Now HD">
+    <title lang="ro">Abandon</title>
+  </programme>
+  <programme start="20200305162000 +0200" stop="20200305175500 +0200" channel="Film Now HD">
+    <title lang="ro">Frați în mijlocul naturii</title>
+  </programme>
+  <programme start="20200305175500 +0200" stop="20200305200000 +0200" channel="Film Now HD">
+    <title lang="ro">Din Raiul meu</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305215000 +0200" channel="Film Now HD">
+    <title lang="ro">Loserii de la seral</title>
+  </programme>
+  <programme start="20200305215000 +0200" stop="20200305233000 +0200" channel="Film Now HD">
+    <title lang="ro">District 13: Ultimatum</title>
+  </programme>
+  <programme start="20200305233000 +0200" stop="20200306011000 +0200" channel="Film Now HD">
+    <title lang="ro">Insidious: Ultima cheie</title>
+  </programme>
+  <programme start="20200306011000 +0200" stop="20200306034000 +0200" channel="Film Now HD">
+    <title lang="ro">Pulp Fiction</title>
+  </programme>
+  <programme start="20200306034000 +0200" stop="20200306052000 +0200" channel="Film Now HD">
+    <title lang="ro">District 13: Ultimatum</title>
+  </programme>
+  <programme start="20200306052000 +0200" stop="20200306065000 +0200" channel="Film Now HD">
+    <title lang="ro">Păcătoasa</title>
+  </programme>
+  <programme start="20200306065000 +0200" stop="20200306082000 +0200" channel="Film Now HD">
+    <title lang="ro">Wall-E</title>
+  </programme>
+  <programme start="20200306082000 +0200" stop="20200306100500 +0200" channel="Film Now HD">
+    <title lang="ro">Loserii de la seral</title>
+  </programme>
+  <programme start="20200306100500 +0200" stop="20200306121000 +0200" channel="Film Now HD">
+    <title lang="ro">Din Raiul meu</title>
+  </programme>
+  <programme start="20200306121000 +0200" stop="20200306135500 +0200" channel="Film Now HD">
+    <title lang="ro">Nu te pune cu Zohan</title>
+  </programme>
+  <programme start="20200306135500 +0200" stop="20200306155000 +0200" channel="Film Now HD">
+    <title lang="ro">Cowboys &amp; Extratereștri</title>
+  </programme>
+  <programme start="20200306155000 +0200" stop="20200306173000 +0200" channel="Film Now HD">
+    <title lang="ro">Yes Man - Un cuvânt poate schimba totul</title>
+  </programme>
+  <programme start="20200306173000 +0200" stop="20200306181500 +0200" channel="Film Now HD">
+    <title lang="ro">Destinația</title>
+  </programme>
+  <programme start="20200306181500 +0200" stop="20200306200000 +0200" channel="Film Now HD">
+    <title lang="ro">Proiectul Almanac</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306214000 +0200" channel="Film Now HD">
+    <title lang="ro">Spărgătorul de Nuci şi Cele Patru Tărâmuri</title>
+  </programme>
+  <programme start="20200306214000 +0200" stop="20200306233500 +0200" channel="Film Now HD">
+    <title lang="ro">Extrem de pervers, șocant de violent și diabolic</title>
+  </programme>
+  <programme start="20200306233500 +0200" stop="20200307011000 +0200" channel="Film Now HD">
+    <title lang="ro">Destinație finală</title>
+  </programme>
+  <programme start="20200307011000 +0200" stop="20200307030000 +0200" channel="Film Now HD">
+    <title lang="ro">Băiatu' tatii</title>
+  </programme>
+  <programme start="20200307030000 +0200" stop="20200307052000 +0200" channel="Film Now HD">
+    <title lang="ro">În sălbăticie</title>
+  </programme>
+  <programme start="20200307052000 +0200" stop="20200307071500 +0200" channel="Film Now HD">
+    <title lang="ro">Cowboys &amp; Extratereștri</title>
+  </programme>
+  <programme start="20200307071500 +0200" stop="20200307085500 +0200" channel="Film Now HD">
+    <title lang="ro">Spărgătorul de Nuci şi Cele Patru Tărâmuri</title>
+  </programme>
+  <programme start="20200307085500 +0200" stop="20200307102500 +0200" channel="Film Now HD">
+    <title lang="ro">Cinci eroi de legendă</title>
+  </programme>
+  <programme start="20200307102500 +0200" stop="20200307121000 +0200" channel="Film Now HD">
+    <title lang="ro">Proiectul Almanac</title>
+  </programme>
+  <programme start="20200307121000 +0200" stop="20200307140500 +0200" channel="Film Now HD">
+    <title lang="ro">Zâmbet de Mona Lisa</title>
+  </programme>
+  <programme start="20200307140500 +0200" stop="20200307162000 +0200" channel="Film Now HD">
+    <title lang="ro">Transformers - Războiul lor în lumea noastră</title>
+  </programme>
+  <programme start="20200307162000 +0200" stop="20200307180500 +0200" channel="Film Now HD">
+    <title lang="ro">Câinele, adevăratul meu prieten 2</title>
+  </programme>
+  <programme start="20200307180500 +0200" stop="20200307200000 +0200" channel="Film Now HD">
+    <title lang="ro">Kate și Leopold</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307221000 +0200" channel="Film Now HD">
+    <title lang="ro">Grozavul și puternicul Oz</title>
+  </programme>
+  <programme start="20200307221000 +0200" stop="20200307235000 +0200" channel="Film Now HD">
+    <title lang="ro">Pasager în trenul terorii</title>
+  </programme>
+  <programme start="20200307235000 +0200" stop="20200308013000 +0200" channel="Film Now HD">
+    <title lang="ro">Faster: Iute ca glonțul</title>
+  </programme>
+  <programme start="20200308013000 +0200" stop="20200308030500 +0200" channel="Film Now HD">
+    <title lang="ro">Înscenarea</title>
+  </programme>
+  <programme start="20200308030500 +0200" stop="20200308052000 +0200" channel="Film Now HD">
+    <title lang="ro">Transformers - Războiul lor în lumea noastră</title>
+  </programme>
+  <programme start="20200308052000 +0200" stop="20200308070500 +0200" channel="Film Now HD">
+    <title lang="ro">Câinele, adevăratul meu prieten 2</title>
+  </programme>
+  <programme start="20200308070500 +0200" stop="20200308092000 +0200" channel="Film Now HD">
+    <title lang="ro">Grozavul și puternicul Oz</title>
+  </programme>
+  <programme start="20200308092000 +0200" stop="20200308111500 +0200" channel="Film Now HD">
+    <title lang="ro">Incredibilii 2</title>
+  </programme>
+  <programme start="20200308111500 +0200" stop="20200308125500 +0200" channel="Film Now HD">
+    <title lang="ro">Pasager în trenul terorii</title>
+  </programme>
+  <programme start="20200308125500 +0200" stop="20200308150500 +0200" channel="Film Now HD">
+    <title lang="ro">Animale fantastice şi unde le poţi găsi</title>
+  </programme>
+  <programme start="20200308150500 +0200" stop="20200308163500 +0200" channel="Film Now HD">
+    <title lang="ro">Orașul fantomelor</title>
+  </programme>
+  <programme start="20200308163500 +0200" stop="20200308181500 +0200" channel="Film Now HD">
+    <title lang="ro">Îngerii lui Charlie</title>
+  </programme>
+  <programme start="20200308181500 +0200" stop="20200308200000 +0200" channel="Film Now HD">
+    <title lang="ro">Mamma Mia! O luăm de la capăt</title>
+  </programme>
+  <programme start="20200308200000 +0200" stop="20200308213500 +0200" channel="Film Now HD">
+    <title lang="ro">Cod roșu la Londra</title>
+  </programme>
+  <programme start="20200308213500 +0200" stop="20200308233500 +0200" channel="Film Now HD">
+    <title lang="ro">Anna</title>
+  </programme>
+  <programme start="20200308233500 +0200" stop="20200309011500 +0200" channel="Film Now HD">
+    <title lang="ro">Cincizeci de umbre descătușate</title>
+  </programme>
+  <programme start="20200309011500 +0200" stop="20200309030000 +0200" channel="Film Now HD">
+    <title lang="ro">Sabotaj</title>
+  </programme>
+  <programme start="20200309030000 +0200" stop="20200309042500 +0200" channel="Film Now HD">
+    <title lang="ro">Comedie de groază</title>
+  </programme>
+  <programme start="20200309042500 +0200" stop="20200309062000 +0200" channel="Film Now HD">
+    <title lang="ro">Anna</title>
+  </programme>
+  <programme start="20200309062000 +0200" stop="20200309081000 +0200" channel="Film Now HD">
+    <title lang="ro">Mamma Mia! O luăm de la capăt</title>
+  </programme>
+  <programme start="20200309081000 +0200" stop="20200309094500 +0200" channel="Film Now HD">
+    <title lang="ro">Îngerii lui Charlie</title>
+  </programme>
+  <programme start="20200309094500 +0200" stop="20200309112500 +0200" channel="Film Now HD">
+    <title lang="ro">Cod roșu la Londra</title>
+  </programme>
+  <programme start="20200309112500 +0200" stop="20200309131500 +0200" channel="Film Now HD">
+    <title lang="ro">Jack</title>
+  </programme>
+  <programme start="20200309131500 +0200" stop="20200309143500 +0200" channel="Film Now HD">
+    <title lang="ro">Prima lovitură a lui Jackie Chan</title>
+  </programme>
+  <programme start="20200309143500 +0200" stop="20200309160500 +0200" channel="Film Now HD">
+    <title lang="ro">Parisul poate aştepta</title>
+  </programme>
+  <programme start="20200309160500 +0200" stop="20200309180500 +0200" channel="Film Now HD">
+    <title lang="ro">Moștenire cu cântec</title>
+  </programme>
+  <programme start="20200309180500 +0200" stop="20200309200000 +0200" channel="Film Now HD">
+    <title lang="ro">Colateral</title>
+  </programme>
+  <programme start="20200309200000 +0200" stop="20200309221000 +0200" channel="Film Now HD">
+    <title lang="ro">Îngeri și Demoni</title>
+  </programme>
+  <programme start="20200309221000 +0200" stop="20200309233000 +0200" channel="Film Now HD">
+    <title lang="ro">Patient Zero</title>
+  </programme>
+  <programme start="20200309233000 +0200" stop="20200310013500 +0200" channel="Film Now HD">
+    <title lang="ro">O logodnă foarte lungă</title>
+  </programme>
+  <programme start="20200310013500 +0200" stop="20200310033500 +0200" channel="Film Now HD">
+    <title lang="ro">Lunetistul</title>
+  </programme>
+  <programme start="20200310033500 +0200" stop="20200310053000 +0200" channel="Film Now HD">
+    <title lang="ro">Colateral</title>
+  </programme>
+  <programme start="20200310053000 +0200" stop="20200310065500 +0200" channel="Film Now HD">
+    <title lang="ro">Fii cineva!</title>
+  </programme>
+  <programme start="20200310065500 +0200" stop="20200310085500 +0200" channel="Film Now HD">
+    <title lang="ro">Moștenire cu cântec</title>
+  </programme>
+  <programme start="20200310085500 +0200" stop="20200310102500 +0200" channel="Film Now HD">
+    <title lang="ro">Parisul poate aştepta</title>
+  </programme>
+  <programme start="20200310102500 +0200" stop="20200310123500 +0200" channel="Film Now HD">
+    <title lang="ro">Îngeri și Demoni</title>
+  </programme>
+  <programme start="20200310123500 +0200" stop="20200310141500 +0200" channel="Film Now HD">
+    <title lang="ro">Bărbatul ideal</title>
+  </programme>
+  <programme start="20200310141500 +0200" stop="20200310155000 +0200" channel="Film Now HD">
+    <title lang="ro">Înfruntarea titanilor</title>
+  </programme>
+  <programme start="20200310155000 +0200" stop="20200310173000 +0200" channel="Film Now HD">
+    <title lang="ro">Invincibil</title>
+  </programme>
+  <programme start="20200310173000 +0200" stop="20200310182000 +0200" channel="Film Now HD">
+    <title lang="ro">Cineva acolo sus</title>
+  </programme>
+  <programme start="20200310182000 +0200" stop="20200310200000 +0200" channel="Film Now HD">
+    <title lang="ro">Cei trei muschetari</title>
+  </programme>
+  <programme start="20200310200000 +0200" stop="20200310215000 +0200" channel="Film Now HD">
+    <title lang="ro">Dog Days</title>
+  </programme>
+  <programme start="20200310215000 +0200" stop="20200310233500 +0200" channel="Film Now HD">
+    <title lang="ro">Apă întunecată</title>
+  </programme>
+  <programme start="20200310233500 +0200" stop="20200311013500 +0200" channel="Film Now HD">
+    <title lang="ro">N-ai șanse, frate!</title>
+  </programme>
+  <programme start="20200305153000 +0200" stop="20200305160000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305163000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia Heck</title>
+  </programme>
+  <programme start="20200305163000 +0200" stop="20200305170000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305173000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200305173000 +0200" stop="20200305180000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305183000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200305183000 +0200" stop="20200305190000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305193000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200305193000 +0200" stop="20200305200000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305203000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200305203000 +0200" stop="20200305210000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200305213000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200305213000 +0200" stop="20200305220000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200305220000 +0200" stop="20200305223000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200305223000 +0200" stop="20200305230000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200305230000 +0200" stop="20200305233000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200305233000 +0200" stop="20200306000000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306003000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200306003000 +0200" stop="20200306010000 +0200" channel="Comedy Central">
+    <title lang="ro">Rick and Morty</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306013000 +0200" channel="Comedy Central">
+    <title lang="ro">Archer</title>
+  </programme>
+  <programme start="20200306013000 +0200" stop="20200306020000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200306020000 +0200" stop="20200306023000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200306023000 +0200" stop="20200306030000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200306030000 +0200" stop="20200306033000 +0200" channel="Comedy Central">
+    <title lang="ro">Archer</title>
+  </programme>
+  <programme start="20200306033000 +0200" stop="20200306040000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200306040000 +0200" stop="20200306043000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200306043000 +0200" stop="20200306050000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306053000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200306053000 +0200" stop="20200306060000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia Heck</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306063000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200306063000 +0200" stop="20200306070000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306073000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306080000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306083000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200306083000 +0200" stop="20200306090000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306093000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200306093000 +0200" stop="20200306100000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306103000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200306103000 +0200" stop="20200306110000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306113000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200306113000 +0200" stop="20200306120000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306123000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200306123000 +0200" stop="20200306130000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306133000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia Heck</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306140000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306143000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200306143000 +0200" stop="20200306150000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306153000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200306153000 +0200" stop="20200306160000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306163000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia Heck</title>
+  </programme>
+  <programme start="20200306163000 +0200" stop="20200306170000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306173000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200306173000 +0200" stop="20200306180000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306183000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200306183000 +0200" stop="20200306190000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306193000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200306193000 +0200" stop="20200306200000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306203000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200306203000 +0200" stop="20200306210000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306213000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200306213000 +0200" stop="20200306220000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200306223000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200306223000 +0200" stop="20200306230000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200306233000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200306233000 +0200" stop="20200307000000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307003000 +0200" channel="Comedy Central">
+    <title lang="ro">Archer</title>
+  </programme>
+  <programme start="20200307003000 +0200" stop="20200307010000 +0200" channel="Comedy Central">
+    <title lang="ro">Archer</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307013000 +0200" channel="Comedy Central">
+    <title lang="ro">Archer</title>
+  </programme>
+  <programme start="20200307013000 +0200" stop="20200307020000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200307020000 +0200" stop="20200307023000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200307023000 +0200" stop="20200307030000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200307030000 +0200" stop="20200307033000 +0200" channel="Comedy Central">
+    <title lang="ro">Archer</title>
+  </programme>
+  <programme start="20200307033000 +0200" stop="20200307040000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307043000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200307043000 +0200" stop="20200307050000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307053000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200307053000 +0200" stop="20200307060000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia Heck</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307063000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200307063000 +0200" stop="20200307070000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307073000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307080000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307083000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200307083000 +0200" stop="20200307090000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307093000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307100000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307103000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200307103000 +0200" stop="20200307110000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307113000 +0200" channel="Comedy Central">
+    <title lang="ro">Tânărul Sheldon</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307120000 +0200" channel="Comedy Central">
+    <title lang="ro">Tânărul Sheldon</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307123000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200307123000 +0200" stop="20200307130000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307133000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200307133000 +0200" stop="20200307140000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307143000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200307143000 +0200" stop="20200307150000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307153000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200307153000 +0200" stop="20200307160000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307163000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200307163000 +0200" stop="20200307170000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307173000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200307173000 +0200" stop="20200307180000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200307180000 +0200" stop="20200307183000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200307183000 +0200" stop="20200307190000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307193000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200307193000 +0200" stop="20200307200000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307203000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200307203000 +0200" stop="20200307210000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200307210000 +0200" stop="20200307213000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200307213000 +0200" stop="20200307220000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200307223000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200307223000 +0200" stop="20200307230000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200307233000 +0200" channel="Comedy Central">
+    <title lang="ro">Comedy Club</title>
+  </programme>
+  <programme start="20200307233000 +0200" stop="20200308000000 +0200" channel="Comedy Central">
+    <title lang="ro">Comedy Club</title>
+  </programme>
+  <programme start="20200308000000 +0200" stop="20200308003000 +0200" channel="Comedy Central">
+    <title lang="ro">Rick and Morty</title>
+  </programme>
+  <programme start="20200308003000 +0200" stop="20200308010000 +0200" channel="Comedy Central">
+    <title lang="ro">Rick and Morty</title>
+  </programme>
+  <programme start="20200308010000 +0200" stop="20200308013000 +0200" channel="Comedy Central">
+    <title lang="ro">Archer</title>
+  </programme>
+  <programme start="20200308013000 +0200" stop="20200308020000 +0200" channel="Comedy Central">
+    <title lang="ro">Archer</title>
+  </programme>
+  <programme start="20200308020000 +0200" stop="20200308023000 +0200" channel="Comedy Central">
+    <title lang="ro">Archer</title>
+  </programme>
+  <programme start="20200308023000 +0200" stop="20200308030000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200308030000 +0200" stop="20200308033000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200308033000 +0200" stop="20200308040000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200308040000 +0200" stop="20200308043000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200308043000 +0200" stop="20200308050000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200308050000 +0200" stop="20200308053000 +0200" channel="Comedy Central">
+    <title lang="ro">SpongeBob Pantaloni Pătrați</title>
+  </programme>
+  <programme start="20200308053000 +0200" stop="20200308060000 +0200" channel="Comedy Central">
+    <title lang="ro">SpongeBob Pantaloni Pătrați</title>
+  </programme>
+  <programme start="20200308060000 +0200" stop="20200308063000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200308063000 +0200" stop="20200308070000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200308070000 +0200" stop="20200308073000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200308073000 +0200" stop="20200308080000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200308080000 +0200" stop="20200308083000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200308083000 +0200" stop="20200308090000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200308090000 +0200" stop="20200308093000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200308093000 +0200" stop="20200308100000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200308100000 +0200" stop="20200308103000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200308103000 +0200" stop="20200308110000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200308110000 +0200" stop="20200308113000 +0200" channel="Comedy Central">
+    <title lang="ro">Tânărul Sheldon</title>
+  </programme>
+  <programme start="20200308113000 +0200" stop="20200308120000 +0200" channel="Comedy Central">
+    <title lang="ro">Tânărul Sheldon</title>
+  </programme>
+  <programme start="20200308120000 +0200" stop="20200308123000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200308123000 +0200" stop="20200308130000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200308130000 +0200" stop="20200308133000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200308133000 +0200" stop="20200308140000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200308140000 +0200" stop="20200308143000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200308143000 +0200" stop="20200308150000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200308150000 +0200" stop="20200308153000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200308153000 +0200" stop="20200308160000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200308160000 +0200" stop="20200308163000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200308163000 +0200" stop="20200308170000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200308170000 +0200" stop="20200308173000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200308173000 +0200" stop="20200308180000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200308180000 +0200" stop="20200308183000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200308183000 +0200" stop="20200308190000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200308190000 +0200" stop="20200308193000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200308193000 +0200" stop="20200308200000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200308200000 +0200" stop="20200308203000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200308203000 +0200" stop="20200308210000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200308210000 +0200" stop="20200308213000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200308213000 +0200" stop="20200308220000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200308220000 +0200" stop="20200308223000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200308223000 +0200" stop="20200308230000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200308230000 +0200" stop="20200308233000 +0200" channel="Comedy Central">
+    <title lang="ro">Comedy Club</title>
+  </programme>
+  <programme start="20200308233000 +0200" stop="20200309000000 +0200" channel="Comedy Central">
+    <title lang="ro">Comedy Club</title>
+  </programme>
+  <programme start="20200309000000 +0200" stop="20200309003000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200309003000 +0200" stop="20200309010000 +0200" channel="Comedy Central">
+    <title lang="ro">Rick and Morty</title>
+  </programme>
+  <programme start="20200309010000 +0200" stop="20200309013000 +0200" channel="Comedy Central">
+    <title lang="ro">Rick and Morty</title>
+  </programme>
+  <programme start="20200309013000 +0200" stop="20200309020000 +0200" channel="Comedy Central">
+    <title lang="ro">Rick and Morty</title>
+  </programme>
+  <programme start="20200309020000 +0200" stop="20200309023000 +0200" channel="Comedy Central">
+    <title lang="ro">Rick and Morty</title>
+  </programme>
+  <programme start="20200309023000 +0200" stop="20200309030000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200309030000 +0200" stop="20200309033000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200309033000 +0200" stop="20200309040000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200309040000 +0200" stop="20200309043000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200309043000 +0200" stop="20200309050000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200309050000 +0200" stop="20200309053000 +0200" channel="Comedy Central">
+    <title lang="ro">SpongeBob Pantaloni Pătrați</title>
+  </programme>
+  <programme start="20200309053000 +0200" stop="20200309060000 +0200" channel="Comedy Central">
+    <title lang="ro">SpongeBob Pantaloni Pătrați</title>
+  </programme>
+  <programme start="20200309060000 +0200" stop="20200309063000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200309063000 +0200" stop="20200309070000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200309070000 +0200" stop="20200309073000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200309073000 +0200" stop="20200309080000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200309080000 +0200" stop="20200309083000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200309083000 +0200" stop="20200309090000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200309090000 +0200" stop="20200309093000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200309093000 +0200" stop="20200309100000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200309100000 +0200" stop="20200309103000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200309103000 +0200" stop="20200309110000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200309110000 +0200" stop="20200309113000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200309113000 +0200" stop="20200309120000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200309120000 +0200" stop="20200309123000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200309123000 +0200" stop="20200309130000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200309130000 +0200" stop="20200309133000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia Heck</title>
+  </programme>
+  <programme start="20200309133000 +0200" stop="20200309140000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200309140000 +0200" stop="20200309143000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200309143000 +0200" stop="20200309150000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200309150000 +0200" stop="20200309153000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200309153000 +0200" stop="20200309160000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200309160000 +0200" stop="20200309163000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia Heck</title>
+  </programme>
+  <programme start="20200309163000 +0200" stop="20200309170000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200309170000 +0200" stop="20200309173000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200309173000 +0200" stop="20200309180000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200309180000 +0200" stop="20200309183000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200309183000 +0200" stop="20200309190000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200309190000 +0200" stop="20200309193000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200309193000 +0200" stop="20200309200000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200309200000 +0200" stop="20200309203000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200309203000 +0200" stop="20200309210000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200309210000 +0200" stop="20200309213000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200309213000 +0200" stop="20200309220000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200309220000 +0200" stop="20200309223000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200309223000 +0200" stop="20200309230000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200309230000 +0200" stop="20200309233000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200309233000 +0200" stop="20200310000000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200310000000 +0200" stop="20200310003000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200310003000 +0200" stop="20200310010000 +0200" channel="Comedy Central">
+    <title lang="ro">Rick and Morty</title>
+  </programme>
+  <programme start="20200310010000 +0200" stop="20200310013000 +0200" channel="Comedy Central">
+    <title lang="ro">Archer</title>
+  </programme>
+  <programme start="20200310013000 +0200" stop="20200310020000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200310020000 +0200" stop="20200310023000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200310023000 +0200" stop="20200310030000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200310030000 +0200" stop="20200310033000 +0200" channel="Comedy Central">
+    <title lang="ro">Archer</title>
+  </programme>
+  <programme start="20200310033000 +0200" stop="20200310040000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200310040000 +0200" stop="20200310043000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
+  </programme>
+  <programme start="20200310043000 +0200" stop="20200310050000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200310050000 +0200" stop="20200310053000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200310053000 +0200" stop="20200310060000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia Heck</title>
+  </programme>
+  <programme start="20200310060000 +0200" stop="20200310063000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200310063000 +0200" stop="20200310070000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200310070000 +0200" stop="20200310073000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200310073000 +0200" stop="20200310080000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200310080000 +0200" stop="20200310083000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200310083000 +0200" stop="20200310090000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200310090000 +0200" stop="20200310093000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200310093000 +0200" stop="20200310100000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200310100000 +0200" stop="20200310103000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200310103000 +0200" stop="20200310110000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200310110000 +0200" stop="20200310113000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200310113000 +0200" stop="20200310120000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200310120000 +0200" stop="20200310123000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200310123000 +0200" stop="20200310130000 +0200" channel="Comedy Central">
+    <title lang="ro">Mike și Molly</title>
+  </programme>
+  <programme start="20200310130000 +0200" stop="20200310133000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia Heck</title>
+  </programme>
+  <programme start="20200310133000 +0200" stop="20200310140000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200310140000 +0200" stop="20200310143000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200310143000 +0200" stop="20200310150000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200310150000 +0200" stop="20200310153000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200310153000 +0200" stop="20200310160000 +0200" channel="Comedy Central">
+    <title lang="ro">Iubirea bat-o vina</title>
+  </programme>
+  <programme start="20200310160000 +0200" stop="20200310163000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia Heck</title>
+  </programme>
+  <programme start="20200310163000 +0200" stop="20200310170000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200310170000 +0200" stop="20200310173000 +0200" channel="Comedy Central">
+    <title lang="ro">Trăsniţii din Queens</title>
+  </programme>
+  <programme start="20200310173000 +0200" stop="20200310180000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200310180000 +0200" stop="20200310183000 +0200" channel="Comedy Central">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200310183000 +0200" stop="20200310190000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200310190000 +0200" stop="20200310193000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200310193000 +0200" stop="20200310200000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200310200000 +0200" stop="20200310203000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200310203000 +0200" stop="20200310210000 +0200" channel="Comedy Central">
+    <title lang="ro">Prinţul din Bel Air</title>
+  </programme>
+  <programme start="20200310210000 +0200" stop="20200310213000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200310213000 +0200" stop="20200310220000 +0200" channel="Comedy Central">
+    <title lang="ro">Teoria Big Bang</title>
+  </programme>
+  <programme start="20200310220000 +0200" stop="20200310223000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200310223000 +0200" stop="20200310230000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200310230000 +0200" stop="20200310233000 +0200" channel="Comedy Central">
+    <title lang="ro">Doi bărbați și jumătate</title>
+  </programme>
+  <programme start="20200310233000 +0200" stop="20200311000000 +0200" channel="Comedy Central">
+    <title lang="ro">Familia mea dementă</title>
   </programme>
 </tv>
