@@ -64,9 +64,10 @@
     <display-name lang="ro">Realitatea Plus</display-name>
     <url>http://www.cinemagia.ro</url>
   </channel>
-  <programme start="20200305120000 +0200" stop="20200305140000 +0200" channel="Antena 1">
-    <title lang="ro">Observator</title>
-  </programme>
+  <channel id="România TV">
+    <display-name lang="ro">România TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
   <programme start="20200305140000 +0200" stop="20200305160000 +0200" channel="Antena 1">
     <title lang="ro">Dragoste de tată</title>
   </programme>
@@ -319,9 +320,6 @@
   <programme start="20200307230000 +0200" stop="20200308000000 +0200" channel="PRO X">
     <title lang="ro">Da-i bataie! Local Kombat</title>
   </programme>
-  <programme start="20200305100000 +0200" stop="20200305140000 +0200" channel="TVR 1">
-    <title lang="ro">Ediţie specială</title>
-  </programme>
   <programme start="20200305140000 +0200" stop="20200305145500 +0200" channel="TVR 1">
     <title lang="ro">Telejurnal</title>
   </programme>
@@ -540,9 +538,6 @@
   </programme>
   <programme start="20200307235000 +0200" stop="20200308002500 +0200" channel="TVR 1">
     <title lang="ro">#Creativ</title>
-  </programme>
-  <programme start="20200305133000 +0200" stop="20200305140000 +0200" channel="TVR 2">
-    <title lang="ro">Natură şi aventură</title>
   </programme>
   <programme start="20200305140000 +0200" stop="20200305150000 +0200" channel="TVR 2">
     <title lang="ro">Documentar 360° Geo</title>
@@ -787,9 +782,6 @@
   <programme start="20200307234500 +0200" stop="20200308014500 +0200" channel="TVR 2">
     <title lang="ro">Concert Brio Sonores</title>
   </programme>
-  <programme start="20200305130000 +0200" stop="20200305140000 +0200" channel="PRO TV">
-    <title lang="ro">Ştirile Pro Tv</title>
-  </programme>
   <programme start="20200305140000 +0200" stop="20200305150000 +0200" channel="PRO TV">
     <title lang="ro">Lecţii de viaţă</title>
   </programme>
@@ -903,9 +895,6 @@
   </programme>
   <programme start="20200307230000 +0200" stop="20200308004500 +0200" channel="PRO TV">
     <title lang="ro">Fii pe fază și raportează!</title>
-  </programme>
-  <programme start="20200305130000 +0200" stop="20200305140000 +0200" channel="PRO TV HD">
-    <title lang="ro">Ştirile Pro Tv</title>
   </programme>
   <programme start="20200305140000 +0200" stop="20200305150000 +0200" channel="PRO TV HD">
     <title lang="ro">Lecţii de viaţă</title>
@@ -1279,9 +1268,6 @@
   <programme start="20200307230000 +0200" stop="20200308010000 +0200" channel="Kanal D">
     <title lang="ro">Bravo, ai stil!</title>
   </programme>
-  <programme start="20200305120000 +0200" stop="20200305140000 +0200" channel="Prima TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
   <programme start="20200305140000 +0200" stop="20200305143000 +0200" channel="Prima TV">
     <title lang="ro">Sănătate cu stil</title>
   </programme>
@@ -1431,9 +1417,6 @@
   </programme>
   <programme start="20200307230000 +0200" stop="20200308010000 +0200" channel="Prima TV">
     <title lang="ro">Filantropica</title>
-  </programme>
-  <programme start="20200305133000 +0200" stop="20200305140000 +0200" channel="National TV">
-    <title lang="ro">Baronii</title>
   </programme>
   <programme start="20200305140000 +0200" stop="20200305141500 +0200" channel="National TV">
     <title lang="ro">Teleshopping</title>
@@ -1899,9 +1882,6 @@
   </programme>
   <programme start="20200307234500 +0200" stop="20200308001500 +0200" channel="National 24 Plus">
     <title lang="ro">Vouă</title>
-  </programme>
-  <programme start="20200305133000 +0200" stop="20200305140000 +0200" channel="B1 TV">
-    <title lang="ro">Baronii</title>
   </programme>
   <programme start="20200305140000 +0200" stop="20200305141500 +0200" channel="B1 TV">
     <title lang="ro">Teleshopping</title>
@@ -3090,5 +3070,185 @@
   </programme>
   <programme start="20200307210000 +0200" stop="20200308010000 +0200" channel="Realitatea Plus">
     <title lang="ro">Realitatea Românească, cu Tavi Hoandră</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305150000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 14:00</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305160000 +0200" channel="România TV">
+    <title lang="ro">Newsline</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305170000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 16:00</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305180000 +0200" channel="România TV">
+    <title lang="ro">Newsline</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305181500 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 18:00</title>
+  </programme>
+  <programme start="20200305181500 +0200" stop="20200305190000 +0200" channel="România TV">
+    <title lang="ro">Romanii au noroc - Extragerea LOTO</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305200000 +0200" channel="România TV">
+    <title lang="ro">Ultima oră</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305210000 +0200" channel="România TV">
+    <title lang="ro">Romania la raport</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200305230000 +0200" channel="România TV">
+    <title lang="ro">Punctul culminant</title>
+  </programme>
+  <programme start="20200305230000 +0200" stop="20200305231500 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 23:00</title>
+  </programme>
+  <programme start="20200305231500 +0200" stop="20200306000000 +0200" channel="România TV">
+    <title lang="ro">TV Break</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306010000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 24:00</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306020000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 24:00</title>
+  </programme>
+  <programme start="20200306020000 +0200" stop="20200306030000 +0200" channel="România TV">
+    <title lang="ro">Punctul culminant</title>
+  </programme>
+  <programme start="20200306030000 +0200" stop="20200306040000 +0200" channel="România TV">
+    <title lang="ro">Punctul culminant</title>
+  </programme>
+  <programme start="20200306040000 +0200" stop="20200306050000 +0200" channel="România TV">
+    <title lang="ro">Ultima oră</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306060000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 24:00</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306070000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 6:00</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306080000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 7:00</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306090000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 8:00</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306093000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 9:00</title>
+  </programme>
+  <programme start="20200306093000 +0200" stop="20200306100000 +0200" channel="România TV">
+    <title lang="ro">Sănătate curată</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306110000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 10:00</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306120000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 11:00</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306130000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 12:00</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306140000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 13:00</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306150000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 14:00</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306160000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 15:00</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306170000 +0200" channel="România TV">
+    <title lang="ro">România TeVede</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306180000 +0200" channel="România TV">
+    <title lang="ro">Ediţie specială</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306185000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 18:00</title>
+  </programme>
+  <programme start="20200306185000 +0200" stop="20200306185500 +0200" channel="România TV">
+    <title lang="ro">Ultima oră</title>
+  </programme>
+  <programme start="20200306185500 +0200" stop="20200306200000 +0200" channel="România TV">
+    <title lang="ro">România de vreme</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306210000 +0200" channel="România TV">
+    <title lang="ro">Newsline</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306220000 +0200" channel="România TV">
+    <title lang="ro">România de poveste</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200306230000 +0200" channel="România TV">
+    <title lang="ro">Ediţie specială</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200307000000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 23:00</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307010000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 24:00</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307020000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 24:00</title>
+  </programme>
+  <programme start="20200307020000 +0200" stop="20200307030000 +0200" channel="România TV">
+    <title lang="ro">România de poveste</title>
+  </programme>
+  <programme start="20200307030000 +0200" stop="20200307040000 +0200" channel="România TV">
+    <title lang="ro">Editie specială</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307050000 +0200" channel="România TV">
+    <title lang="ro">Newsline</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307060000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 24:00</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307070000 +0200" channel="România TV">
+    <title lang="ro">România TV News 6:00</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307080000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 7:00</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307090000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 8:00</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307093000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 9:00</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307100000 +0200" channel="România TV">
+    <title lang="ro">Sănătate curată</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307110000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 10:00</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307120000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 11:00</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307130000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 12:00</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307140000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 13:00</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307150000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 14:00</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307160000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 15:00</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307180000 +0200" channel="România TV">
+    <title lang="ro">România TeVede</title>
+  </programme>
+  <programme start="20200307180000 +0200" stop="20200307185500 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 18:00</title>
+  </programme>
+  <programme start="20200307185500 +0200" stop="20200307200000 +0200" channel="România TV">
+    <title lang="ro">România de vreme</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307210000 +0200" channel="România TV">
+    <title lang="ro">Newsline</title>
+  </programme>
+  <programme start="20200307210000 +0200" stop="20200307230000 +0200" channel="România TV">
+    <title lang="ro">România de poveste</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200308000000 +0200" channel="România TV">
+    <title lang="ro">Ştirile România TV 23:00</title>
   </programme>
 </tv>
