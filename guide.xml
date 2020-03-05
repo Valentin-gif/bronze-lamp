@@ -2989,4 +2989,106 @@
   <programme start="20200307203000 +0200" stop="20200308000000 +0200" channel="REALITATEA TV">
     <title lang="ro">Romania 2019</title>
   </programme>
+  <programme start="20200305070000 +0200" stop="20200305080000 +0200" channel="Realitatea Plus">
+    <title lang="ro">DDS, cu Florentina Bălășoiu</title>
+  </programme>
+  <programme start="20200305080000 +0200" stop="20200305090000 +0200" channel="Realitatea Plus">
+    <title lang="ro">DDS, cu Florentina Bălășoiu</title>
+  </programme>
+  <programme start="20200305090000 +0200" stop="20200305100000 +0200" channel="Realitatea Plus">
+    <title lang="ro">DDS, cu Florentina Bălășoiu</title>
+  </programme>
+  <programme start="20200305100000 +0200" stop="20200305110000 +0200" channel="Realitatea Plus">
+    <title lang="ro">DDS, cu Florentina Bălășoiu</title>
+  </programme>
+  <programme start="20200305110000 +0200" stop="20200305120000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Deschide Lumea, cu Alexandra Păcuraru și Gabi Bălașu</title>
+  </programme>
+  <programme start="20200305120000 +0200" stop="20200305130000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Deschide Lumea, cu Alexandra Păcuraru și Gabi Bălașu</title>
+  </programme>
+  <programme start="20200305130000 +0200" stop="20200305140000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Deschide Lumea, cu Alexandra Păcuraru și Gabi Bălașu</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305150000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Newsroom, cu Claudiu Popa și Marinela Mititelu</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305160000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Newsroom, cu Claudiu Popa și Marinela Mititelu</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305170000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Realitatea de la 16, cu Delia Vrînceanu</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305180000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Newsroom, cu Claudiu Popa</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305190000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Prime Time News, cu Delia Vrînceanu</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200306070000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Lupta pentru România, cu Nicoleta Cone</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306080000 +0200" channel="Realitatea Plus">
+    <title lang="ro">DDS, cu Florentina Bălășoiu</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306090000 +0200" channel="Realitatea Plus">
+    <title lang="ro">DDS, cu Florentina Bălășoiu</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306100000 +0200" channel="Realitatea Plus">
+    <title lang="ro">DDS, cu Florentina Bălășoiu</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306110000 +0200" channel="Realitatea Plus">
+    <title lang="ro">DDS, cu Florentina Bălășoiu</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306120000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Deschide Lumea, cu Alexandra Păcuraru și Gabi Bălașu</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306130000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Deschide Lumea, cu Alexandra Păcuraru și Gabi Bălașu</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306140000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Deschide Lumea, cu Alexandra Păcuraru și Gabi Bălașu</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306150000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Newsroom, cu Claudiu Popa și Marinela Mititelu</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306160000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Newsroom, cu Claudiu Popa și Marinela Mititelu</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306170000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Realitatea de la 16, cu Delia Vrînceanu</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306180000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Newsroom, cu Claudiu Popa</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306190000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Prime Time News, cu Delia Vrînceanu</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306200000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Lupta pentru România, cu Nicoleta Cone</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306230000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Legile Puterii, cu Denise Rifai</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200307010000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Jocuri de Putere, cu Oreste Teodorescu</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307020000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Legile Puterii 22, cu Denise Rifai</title>
+  </programme>
+  <programme start="20200307020000 +0200" stop="20200307040000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Legile Puterii 20 și 21, cu Denise Rifai</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307050000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Lupta pentru România 19, cu Nicoleta Cone</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307200000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Jocuri de Putere, cu Oreste Teodorescu</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307210000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Prime Time News, cu Delia Vrînceanu</title>
+  </programme>
+  <programme start="20200307210000 +0200" stop="20200308010000 +0200" channel="Realitatea Plus">
+    <title lang="ro">Realitatea Românească, cu Tavi Hoandră</title>
+  </programme>
 </tv>
