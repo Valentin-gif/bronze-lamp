@@ -16,6 +16,14 @@
     <display-name lang="ro">TVR 2</display-name>
     <url>http://www.program24.ro</url>
   </channel>
+  <channel id="PRO TV">
+    <display-name lang="ro">Pro TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="PRO TV HD">
+    <display-name lang="ro">Pro TV HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
   <programme start="20200305120000 +0200" stop="20200305140000 +0200" channel="Antena 1">
     <title lang="ro">Observator</title>
   </programme>
@@ -750,5 +758,245 @@
   </programme>
   <programme start="20200307234500 +0200" stop="20200308014500 +0200" channel="TVR 2">
     <title lang="ro">Concert Brio Sonores</title>
+  </programme>
+  <programme start="20200305103000 +0200" stop="20200305130000 +0200" channel="PRO TV">
+    <title lang="ro">Vorbeşte lumea</title>
+  </programme>
+  <programme start="20200305130000 +0200" stop="20200305140000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305150000 +0200" channel="PRO TV">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305170000 +0200" channel="PRO TV">
+    <title lang="ro">La Maruţă</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305180000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305190000 +0200" channel="PRO TV">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305203000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200305203000 +0200" stop="20200305213000 +0200" channel="PRO TV">
+    <title lang="ro">Las fierbinți</title>
+  </programme>
+  <programme start="20200305213000 +0200" stop="20200305233000 +0200" channel="PRO TV">
+    <title lang="ro">Gospodar fără pereche</title>
+  </programme>
+  <programme start="20200305233000 +0200" stop="20200306000000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306021500 +0200" channel="PRO TV">
+    <title lang="ro">Scăpați de Smart</title>
+  </programme>
+  <programme start="20200306021500 +0200" stop="20200306024500 +0200" channel="PRO TV">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20200306024500 +0200" stop="20200306050000 +0200" channel="PRO TV">
+    <title lang="ro">Vorbeşte lumea</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306060000 +0200" channel="PRO TV">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306070000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306103000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306103000 +0200" stop="20200306130000 +0200" channel="PRO TV">
+    <title lang="ro">Vorbeşte lumea</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306140000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306150000 +0200" channel="PRO TV">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306170000 +0200" channel="PRO TV">
+    <title lang="ro">La Maruţă</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306180000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306190000 +0200" channel="PRO TV">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306203000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306203000 +0200" stop="20200306233000 +0200" channel="PRO TV">
+    <title lang="ro">Românii au talent</title>
+  </programme>
+  <programme start="20200306233000 +0200" stop="20200307013000 +0200" channel="PRO TV">
+    <title lang="ro">Vlad</title>
+  </programme>
+  <programme start="20200307013000 +0200" stop="20200307033000 +0200" channel="PRO TV">
+    <title lang="ro">Las fierbinți</title>
+  </programme>
+  <programme start="20200307033000 +0200" stop="20200307041500 +0200" channel="PRO TV">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20200307041500 +0200" stop="20200307060000 +0200" channel="PRO TV">
+    <title lang="ro">Vorbeşte lumea</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307063000 +0200" channel="PRO TV">
+    <title lang="ro">Ce se întâmplă doctore ?</title>
+  </programme>
+  <programme start="20200307063000 +0200" stop="20200307070000 +0200" channel="PRO TV">
+    <title lang="ro">Arena bucătarilor</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307100000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307103000 +0200" channel="PRO TV">
+    <title lang="ro">I Like IT</title>
+  </programme>
+  <programme start="20200307103000 +0200" stop="20200307110000 +0200" channel="PRO TV">
+    <title lang="ro">Superspeed la Pro TV</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307130000 +0200" channel="PRO TV">
+    <title lang="ro">Cu duzina e mai ieftin!</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307140000 +0200" channel="PRO TV">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307154500 +0200" channel="PRO TV">
+    <title lang="ro">Nuntă în familia noastră</title>
+  </programme>
+  <programme start="20200307154500 +0200" stop="20200307190000 +0200" channel="PRO TV">
+    <title lang="ro">Românii au talent</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307200000 +0200" channel="PRO TV">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307230000 +0200" channel="PRO TV">
+    <title lang="ro">Casino Royale</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200308004500 +0200" channel="PRO TV">
+    <title lang="ro">Fii pe fază și raportează!</title>
+  </programme>
+  <programme start="20200305103000 +0200" stop="20200305130000 +0200" channel="PRO TV HD">
+    <title lang="ro">Vorbeşte lumea</title>
+  </programme>
+  <programme start="20200305130000 +0200" stop="20200305140000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305150000 +0200" channel="PRO TV HD">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305170000 +0200" channel="PRO TV HD">
+    <title lang="ro">La Maruţă</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305180000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305190000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305203000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200305203000 +0200" stop="20200305213000 +0200" channel="PRO TV HD">
+    <title lang="ro">Las fierbinți</title>
+  </programme>
+  <programme start="20200305213000 +0200" stop="20200305233000 +0200" channel="PRO TV HD">
+    <title lang="ro">Gospodar fără pereche</title>
+  </programme>
+  <programme start="20200305233000 +0200" stop="20200306000000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306021500 +0200" channel="PRO TV HD">
+    <title lang="ro">Scăpați de Smart</title>
+  </programme>
+  <programme start="20200306021500 +0200" stop="20200306024500 +0200" channel="PRO TV HD">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20200306024500 +0200" stop="20200306050000 +0200" channel="PRO TV HD">
+    <title lang="ro">Vorbeşte lumea</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306060000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306070000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306103000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306103000 +0200" stop="20200306130000 +0200" channel="PRO TV HD">
+    <title lang="ro">Vorbeşte lumea</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306140000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306150000 +0200" channel="PRO TV HD">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306170000 +0200" channel="PRO TV HD">
+    <title lang="ro">La Maruţă</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306180000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306190000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306203000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200306203000 +0200" stop="20200306233000 +0200" channel="PRO TV HD">
+    <title lang="ro">Românii au talent</title>
+  </programme>
+  <programme start="20200306233000 +0200" stop="20200307013000 +0200" channel="PRO TV HD">
+    <title lang="ro">Vlad</title>
+  </programme>
+  <programme start="20200307013000 +0200" stop="20200307033000 +0200" channel="PRO TV HD">
+    <title lang="ro">Las fierbinți</title>
+  </programme>
+  <programme start="20200307033000 +0200" stop="20200307041500 +0200" channel="PRO TV HD">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20200307041500 +0200" stop="20200307060000 +0200" channel="PRO TV HD">
+    <title lang="ro">Vorbeşte lumea</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307063000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ce se întâmplă doctore ?</title>
+  </programme>
+  <programme start="20200307063000 +0200" stop="20200307070000 +0200" channel="PRO TV HD">
+    <title lang="ro">Arena bucătarilor</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307100000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307103000 +0200" channel="PRO TV HD">
+    <title lang="ro">I Like IT</title>
+  </programme>
+  <programme start="20200307103000 +0200" stop="20200307110000 +0200" channel="PRO TV HD">
+    <title lang="ro">Superspeed la Pro TV</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307130000 +0200" channel="PRO TV HD">
+    <title lang="ro">Cu duzina e mai ieftin!</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307140000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307154500 +0200" channel="PRO TV HD">
+    <title lang="ro">Nuntă în familia noastră</title>
+  </programme>
+  <programme start="20200307154500 +0200" stop="20200307190000 +0200" channel="PRO TV HD">
+    <title lang="ro">Românii au talent</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307200000 +0200" channel="PRO TV HD">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307230000 +0200" channel="PRO TV HD">
+    <title lang="ro">Casino Royale</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200308004500 +0200" channel="PRO TV HD">
+    <title lang="ro">Fii pe fază și raportează!</title>
   </programme>
 </tv>
