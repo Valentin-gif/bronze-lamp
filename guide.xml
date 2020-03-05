@@ -32,6 +32,78 @@
   <programme start="20200305231500 +0200" stop="20200306010000 +0200" channel="Antena 1">
     <title lang="ro">Xtra Night Show</title>
   </programme>
+  <programme start="20200306010000 +0200" stop="20200306033000 +0200" channel="Antena 1">
+    <title lang="ro">Star Wars Episodul I - Amenințarea fantomei</title>
+  </programme>
+  <programme start="20200306033000 +0200" stop="20200306041500 +0200" channel="Antena 1">
+    <title lang="ro">Dragoste de tată</title>
+  </programme>
+  <programme start="20200306041500 +0200" stop="20200306060000 +0200" channel="Antena 1">
+    <title lang="ro">Acces direct</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306070000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306080000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306120000 +0200" channel="Antena 1">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306140000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306160000 +0200" channel="Antena 1">
+    <title lang="ro">Dragoste de tată</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306170000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306190000 +0200" channel="Antena 1">
+    <title lang="ro">Acces direct</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306200000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306221500 +0200" channel="Antena 1">
+    <title lang="ro">Con Air - Avionul Condamnaților</title>
+  </programme>
+  <programme start="20200306221500 +0200" stop="20200307003000 +0200" channel="Antena 1">
+    <title lang="ro">G.I. Joe: Represalii</title>
+  </programme>
+  <programme start="20200307003000 +0200" stop="20200307041500 +0200" channel="Antena 1">
+    <title lang="ro">Asia Express - Drumul comorilor</title>
+  </programme>
+  <programme start="20200307041500 +0200" stop="20200307060000 +0200" channel="Antena 1">
+    <title lang="ro">Acces direct</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307070000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307094500 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20200307094500 +0200" stop="20200307130000 +0200" channel="Antena 1">
+    <title lang="ro">Sacrificiul</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307151500 +0200" channel="Antena 1">
+    <title lang="ro">B.D. intră în acțiune</title>
+  </programme>
+  <programme start="20200307151500 +0200" stop="20200307190000 +0200" channel="Antena 1">
+    <title lang="ro">Asia Express - Drumul comorilor</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307200000 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307224500 +0200" channel="Antena 1">
+    <title lang="ro">iUmor</title>
+  </programme>
+  <programme start="20200307224500 +0200" stop="20200307234500 +0200" channel="Antena 1">
+    <title lang="ro">Mangalița</title>
+  </programme>
+  <programme start="20200307234500 +0200" stop="20200308020000 +0200" channel="Antena 1">
+    <title lang="ro">American Ultra: Agent descoperit</title>
+  </programme>
   <programme start="20200305104500 +0200" stop="20200305123000 +0200" channel="PRO X">
     <title lang="ro">Ora exacta in sport</title>
   </programme>
@@ -61,5 +133,143 @@
   </programme>
   <programme start="20200305200000 +0200" stop="20200306000000 +0200" channel="PRO X">
     <title lang="ro">Local Kombat: Lupta Finală</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306010000 +0200" channel="PRO X">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306013000 +0200" channel="PRO X">
+    <title lang="ro">O familie modernă</title>
+  </programme>
+  <programme start="20200306013000 +0200" stop="20200306030000 +0200" channel="PRO X">
+    <title lang="ro">Lege și dreptate</title>
+  </programme>
+  <programme start="20200306030000 +0200" stop="20200306043000 +0200" channel="PRO X">
+    <title lang="ro">Cititorii de oase</title>
+  </programme>
+  <programme start="20200306043000 +0200" stop="20200306060000 +0200" channel="PRO X">
+    <title lang="ro">La bloc</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306070000 +0200" channel="PRO X">
+    <title lang="ro">Ora exacta in sport</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306084500 +0200" channel="PRO X">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20200306084500 +0200" stop="20200306090000 +0200" channel="PRO X">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306100000 +0200" channel="PRO X">
+    <title lang="ro">Ora exacta in sport</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306104500 +0200" channel="PRO X">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20200306104500 +0200" stop="20200306123000 +0200" channel="PRO X">
+    <title lang="ro">Ora exacta in sport</title>
+  </programme>
+  <programme start="20200306123000 +0200" stop="20200306130000 +0200" channel="PRO X">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306150000 +0200" channel="PRO X">
+    <title lang="ro">Ora exacta in sport</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306154500 +0200" channel="PRO X">
+    <title lang="ro">Ora exacta in sport</title>
+  </programme>
+  <programme start="20200306154500 +0200" stop="20200306160000 +0200" channel="PRO X">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306170000 +0200" channel="PRO X">
+    <title lang="ro">Marea țăcăneală</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306180000 +0200" channel="PRO X">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306190000 +0200" channel="PRO X">
+    <title lang="ro">M.A.S.H.</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306200000 +0200" channel="PRO X">
+    <title lang="ro">Marea țăcăneală</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306203000 +0200" channel="PRO X">
+    <title lang="ro">O familie modernă</title>
+  </programme>
+  <programme start="20200306203000 +0200" stop="20200306220000 +0200" channel="PRO X">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200306230000 +0200" channel="PRO X">
+    <title lang="ro">Lege și dreptate</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200307000000 +0200" channel="PRO X">
+    <title lang="ro">Da-i bataie! Local Kombat</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307010000 +0200" channel="PRO X">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307030000 +0200" channel="PRO X">
+    <title lang="ro">Ora exacta in sport</title>
+  </programme>
+  <programme start="20200307030000 +0200" stop="20200307034500 +0200" channel="PRO X">
+    <title lang="ro">Cititorii de oase</title>
+  </programme>
+  <programme start="20200307034500 +0200" stop="20200307050000 +0200" channel="PRO X">
+    <title lang="ro">Virus</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307060000 +0200" channel="PRO X">
+    <title lang="ro">La bloc</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307070000 +0200" channel="PRO X">
+    <title lang="ro">Ora exacta in sport</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307084500 +0200" channel="PRO X">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20200307084500 +0200" stop="20200307090000 +0200" channel="PRO X">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307100000 +0200" channel="PRO X">
+    <title lang="ro">Ora exacta in sport</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307101500 +0200" channel="PRO X">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20200307101500 +0200" stop="20200307111500 +0200" channel="PRO X">
+    <title lang="ro">Ora exacta in sport</title>
+  </programme>
+  <programme start="20200307111500 +0200" stop="20200307121500 +0200" channel="PRO X">
+    <title lang="ro">Apropo TV</title>
+  </programme>
+  <programme start="20200307121500 +0200" stop="20200307130000 +0200" channel="PRO X">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307150000 +0200" channel="PRO X">
+    <title lang="ro">Fotbal Preliminariile CE 2020: Spania - România</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307160000 +0200" channel="PRO X">
+    <title lang="ro">Ora exacta in sport</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307173000 +0200" channel="PRO X">
+    <title lang="ro">Futsal Liga 1: Informatica Timișoara - Dunărea Călărași</title>
+  </programme>
+  <programme start="20200307173000 +0200" stop="20200307180000 +0200" channel="PRO X">
+    <title lang="ro">Stiri Sport.ro</title>
+  </programme>
+  <programme start="20200307180000 +0200" stop="20200307190000 +0200" channel="PRO X">
+    <title lang="ro">M.A.S.H.</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307200000 +0200" channel="PRO X">
+    <title lang="ro">Marea țăcăneală</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307203000 +0200" channel="PRO X">
+    <title lang="ro">O familie modernă</title>
+  </programme>
+  <programme start="20200307203000 +0200" stop="20200307220000 +0200" channel="PRO X">
+    <title lang="ro">Prietenii tăi</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200307230000 +0200" channel="PRO X">
+    <title lang="ro">Lege și dreptate</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200308000000 +0200" channel="PRO X">
+    <title lang="ro">Da-i bataie! Local Kombat</title>
   </programme>
 </tv>
