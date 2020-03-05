@@ -8,9 +8,14 @@
     <display-name lang="ro">PRO X</display-name>
     <url>http://www.program24.ro</url>
   </channel>
-  <programme start="20200305080000 +0200" stop="20200305120000 +0200" channel="Antena 1">
-    <title lang="ro">Neatza cu Răzvan şi Dani</title>
-  </programme>
+  <channel id="TVR 1">
+    <display-name lang="ro">TVR 1</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="TVR 2">
+    <display-name lang="ro">TVR 2</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
   <programme start="20200305120000 +0200" stop="20200305140000 +0200" channel="Antena 1">
     <title lang="ro">Observator</title>
   </programme>
@@ -103,9 +108,6 @@
   </programme>
   <programme start="20200307234500 +0200" stop="20200308020000 +0200" channel="Antena 1">
     <title lang="ro">American Ultra: Agent descoperit</title>
-  </programme>
-  <programme start="20200305104500 +0200" stop="20200305123000 +0200" channel="PRO X">
-    <title lang="ro">Ora exacta in sport</title>
   </programme>
   <programme start="20200305123000 +0200" stop="20200305130000 +0200" channel="PRO X">
     <title lang="ro">Teleshopping</title>
@@ -271,5 +273,482 @@
   </programme>
   <programme start="20200307230000 +0200" stop="20200308000000 +0200" channel="PRO X">
     <title lang="ro">Da-i bataie! Local Kombat</title>
+  </programme>
+  <programme start="20200305100000 +0200" stop="20200305140000 +0200" channel="TVR 1">
+    <title lang="ro">Ediţie specială</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305145500 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+  </programme>
+  <programme start="20200305145500 +0200" stop="20200305151000 +0200" channel="TVR 1">
+    <title lang="ro">Vorbeşte corect!</title>
+  </programme>
+  <programme start="20200305151000 +0200" stop="20200305164500 +0200" channel="TVR 1">
+    <title lang="ro">Akzente</title>
+  </programme>
+  <programme start="20200305164500 +0200" stop="20200305171500 +0200" channel="TVR 1">
+    <title lang="ro">Europa mea</title>
+  </programme>
+  <programme start="20200305171500 +0200" stop="20200305182500 +0200" channel="TVR 1">
+    <title lang="ro">Tărâmul dintre vânturi</title>
+  </programme>
+  <programme start="20200305182500 +0200" stop="20200305200000 +0200" channel="TVR 1">
+    <title lang="ro">Handbal masculin, Liga Zimbrilor: CS Dinamo Bucuresti - CSA Steaua Bucuresti</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305210000 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200305220000 +0200" channel="TVR 1">
+    <title lang="ro">România 9</title>
+  </programme>
+  <programme start="20200305220000 +0200" stop="20200305230000 +0200" channel="TVR 1">
+    <title lang="ro">Dispăruţi fără urmă</title>
+  </programme>
+  <programme start="20200305230000 +0200" stop="20200306000000 +0200" channel="TVR 1">
+    <title lang="ro">Anchetele comisarului Antonescu</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306003000 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+  </programme>
+  <programme start="20200306003000 +0200" stop="20200306010000 +0200" channel="TVR 1">
+    <title lang="ro">Legende şi mistere</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306020000 +0200" channel="TVR 1">
+    <title lang="ro">Nadine</title>
+  </programme>
+  <programme start="20200306020000 +0200" stop="20200306032500 +0200" channel="TVR 1">
+    <title lang="ro">Conexiuni pe harta timpului</title>
+  </programme>
+  <programme start="20200306032500 +0200" stop="20200306041500 +0200" channel="TVR 1">
+    <title lang="ro">Aventura urbană</title>
+  </programme>
+  <programme start="20200306041500 +0200" stop="20200306050000 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306053000 +0200" channel="TVR 1">
+    <title lang="ro">Legende şi mistere</title>
+  </programme>
+  <programme start="20200306053000 +0200" stop="20200306055500 +0200" channel="TVR 1">
+    <title lang="ro">Europa mea</title>
+  </programme>
+  <programme start="20200306055500 +0200" stop="20200306060000 +0200" channel="TVR 1">
+    <title lang="ro">Imnul  României</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306070000 +0200" channel="TVR 1">
+    <title lang="ro">România 9</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306080000 +0200" channel="TVR 1">
+    <title lang="ro">Matinal</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306090000 +0200" channel="TVR 1">
+    <title lang="ro">Matinal</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306094500 +0200" channel="TVR 1">
+    <title lang="ro">Matinal</title>
+  </programme>
+  <programme start="20200306094500 +0200" stop="20200306100000 +0200" channel="TVR 1">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306110000 +0200" channel="TVR 1">
+    <title lang="ro">Ca'n viaţă</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306113000 +0200" channel="TVR 1">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306113000 +0200" stop="20200306124500 +0200" channel="TVR 1">
+    <title lang="ro">Tărâmul dintre vânturi</title>
+  </programme>
+  <programme start="20200306124500 +0200" stop="20200306131000 +0200" channel="TVR 1">
+    <title lang="ro">Parlamentul României</title>
+  </programme>
+  <programme start="20200306131000 +0200" stop="20200306140000 +0200" channel="TVR 1">
+    <title lang="ro">Dispăruţi fără urmă</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306145500 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+  </programme>
+  <programme start="20200306145500 +0200" stop="20200306151000 +0200" channel="TVR 1">
+    <title lang="ro">Vorbeşte corect!</title>
+  </programme>
+  <programme start="20200306151000 +0200" stop="20200306160000 +0200" channel="TVR 1">
+    <title lang="ro">Opre Roma</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306164500 +0200" channel="TVR 1">
+    <title lang="ro">EURO polis</title>
+  </programme>
+  <programme start="20200306164500 +0200" stop="20200306171500 +0200" channel="TVR 1">
+    <title lang="ro">Lumea azi</title>
+  </programme>
+  <programme start="20200306171500 +0200" stop="20200306183500 +0200" channel="TVR 1">
+    <title lang="ro">Tărâmul dintre vânturi</title>
+  </programme>
+  <programme start="20200306183500 +0200" stop="20200306193000 +0200" channel="TVR 1">
+    <title lang="ro">Nadine</title>
+  </programme>
+  <programme start="20200306193000 +0200" stop="20200306194000 +0200" channel="TVR 1">
+    <title lang="ro">Vorbeşte corect!</title>
+  </programme>
+  <programme start="20200306194000 +0200" stop="20200306200000 +0200" channel="TVR 1">
+    <title lang="ro">Sport Meteo</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306211000 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+  </programme>
+  <programme start="20200306211000 +0200" stop="20200306232000 +0200" channel="TVR 1">
+    <title lang="ro">Regina deşertului</title>
+  </programme>
+  <programme start="20200306232000 +0200" stop="20200306235000 +0200" channel="TVR 1">
+    <title lang="ro">Banii tăi</title>
+  </programme>
+  <programme start="20200306235000 +0200" stop="20200307000000 +0200" channel="TVR 1">
+    <title lang="ro">Momentart</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307003000 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+  </programme>
+  <programme start="20200307003000 +0200" stop="20200307010000 +0200" channel="TVR 1">
+    <title lang="ro">Legende şi mistere</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307020000 +0200" channel="TVR 1">
+    <title lang="ro">Nadine</title>
+  </programme>
+  <programme start="20200307020000 +0200" stop="20200307041000 +0200" channel="TVR 1">
+    <title lang="ro">Regina deşertului</title>
+  </programme>
+  <programme start="20200307041000 +0200" stop="20200307050000 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307053000 +0200" channel="TVR 1">
+    <title lang="ro">Legende şi mistere</title>
+  </programme>
+  <programme start="20200307053000 +0200" stop="20200307055500 +0200" channel="TVR 1">
+    <title lang="ro">Lumea azi</title>
+  </programme>
+  <programme start="20200307055500 +0200" stop="20200307060000 +0200" channel="TVR 1">
+    <title lang="ro">Imnul  României</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307070000 +0200" channel="TVR 1">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307073000 +0200" channel="TVR 1">
+    <title lang="ro">Adevăruri despre trecut</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307083000 +0200" channel="TVR 1">
+    <title lang="ro">Politică şi delicateţuri</title>
+  </programme>
+  <programme start="20200307083000 +0200" stop="20200307093000 +0200" channel="TVR 1">
+    <title lang="ro">Aventura urbană</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307100000 +0200" channel="TVR 1">
+    <title lang="ro">Constructorii de visuri</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307110000 +0200" channel="TVR 1">
+    <title lang="ro">Vreau să fiu sănătos</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307113000 +0200" channel="TVR 1">
+    <title lang="ro">Levintza prezintă</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307120000 +0200" channel="TVR 1">
+    <title lang="ro">Romania veritabilă</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307122500 +0200" channel="TVR 1">
+    <title lang="ro">Vorbeşte corect!</title>
+  </programme>
+  <programme start="20200307122500 +0200" stop="20200307125500 +0200" channel="TVR 1">
+    <title lang="ro">Iubiri celebre</title>
+  </programme>
+  <programme start="20200307125500 +0200" stop="20200307130000 +0200" channel="TVR 1">
+    <title lang="ro">Live stadion</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307150000 +0200" channel="TVR 1">
+    <title lang="ro">Rugby Europe: Rusia – România</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307153000 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+  </programme>
+  <programme start="20200307153000 +0200" stop="20200307170000 +0200" channel="TVR 1">
+    <title lang="ro">Handbal feminin, Liga Florilor: AHCM Slobozia - CS Rapid București</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307180000 +0200" channel="TVR 1">
+    <title lang="ro">Eurovision 2020</title>
+  </programme>
+  <programme start="20200307180000 +0200" stop="20200307190000 +0200" channel="TVR 1">
+    <title lang="ro">Eurovision 2020</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307195000 +0200" channel="TVR 1">
+    <title lang="ro">Eurovision 2020</title>
+  </programme>
+  <programme start="20200307195000 +0200" stop="20200307200000 +0200" channel="TVR 1">
+    <title lang="ro">Vorbeşte corect!</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307210000 +0200" channel="TVR 1">
+    <title lang="ro">Telejurnal</title>
+  </programme>
+  <programme start="20200307210000 +0200" stop="20200307220000 +0200" channel="TVR 1">
+    <title lang="ro">1989-Decembrie Roşu</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200307225000 +0200" channel="TVR 1">
+    <title lang="ro">Ecaterina</title>
+  </programme>
+  <programme start="20200307225000 +0200" stop="20200307235000 +0200" channel="TVR 1">
+    <title lang="ro">Profesioniştii... cu Eugenia Vodă</title>
+  </programme>
+  <programme start="20200307235000 +0200" stop="20200308002500 +0200" channel="TVR 1">
+    <title lang="ro">#Creativ</title>
+  </programme>
+  <programme start="20200305120000 +0200" stop="20200305124000 +0200" channel="TVR 2">
+    <title lang="ro">Telejurnal TVR 2</title>
+  </programme>
+  <programme start="20200305124000 +0200" stop="20200305130000 +0200" channel="TVR 2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305130000 +0200" stop="20200305133000 +0200" channel="TVR 2">
+    <title lang="ro">Cultura minorităţilor</title>
+  </programme>
+  <programme start="20200305133000 +0200" stop="20200305140000 +0200" channel="TVR 2">
+    <title lang="ro">Natură şi aventură</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305150000 +0200" channel="TVR 2">
+    <title lang="ro">Documentar 360° Geo</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305160000 +0200" channel="TVR 2">
+    <title lang="ro">Primavara amintirilor</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305165000 +0200" channel="TVR 2">
+    <title lang="ro">Glasul inimii</title>
+  </programme>
+  <programme start="20200305165000 +0200" stop="20200305170000 +0200" channel="TVR 2">
+    <title lang="ro">Poate nu ştiai</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305183500 +0200" channel="TVR 2">
+    <title lang="ro">Handbal masculin, Liga Zimbrilor: CSM Bucuresti - SCM Politehnica Timisoara</title>
+  </programme>
+  <programme start="20200305183500 +0200" stop="20200305190000 +0200" channel="TVR 2">
+    <title lang="ro">Sport</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305193500 +0200" channel="TVR 2">
+    <title lang="ro">Telejurnal TVR 2</title>
+  </programme>
+  <programme start="20200305193500 +0200" stop="20200305201000 +0200" channel="TVR 2">
+    <title lang="ro">E vremea ta!</title>
+  </programme>
+  <programme start="20200305201000 +0200" stop="20200305221000 +0200" channel="TVR 2">
+    <title lang="ro">Domnul Destin</title>
+  </programme>
+  <programme start="20200305221000 +0200" stop="20200305232000 +0200" channel="TVR 2">
+    <title lang="ro">În numele legii</title>
+  </programme>
+  <programme start="20200305232000 +0200" stop="20200306002000 +0200" channel="TVR 2">
+    <title lang="ro">Câştigă România!</title>
+  </programme>
+  <programme start="20200306002000 +0200" stop="20200306022000 +0200" channel="TVR 2">
+    <title lang="ro">Viva Maria!</title>
+  </programme>
+  <programme start="20200306022000 +0200" stop="20200306032000 +0200" channel="TVR 2">
+    <title lang="ro">În numele legii</title>
+  </programme>
+  <programme start="20200306032000 +0200" stop="20200306033500 +0200" channel="TVR 2">
+    <title lang="ro">Sport</title>
+  </programme>
+  <programme start="20200306033500 +0200" stop="20200306041000 +0200" channel="TVR 2">
+    <title lang="ro">Telejurnal TVR 2</title>
+  </programme>
+  <programme start="20200306041000 +0200" stop="20200306050500 +0200" channel="TVR 2">
+    <title lang="ro">Documentar 360° Geo</title>
+  </programme>
+  <programme start="20200306050500 +0200" stop="20200306055500 +0200" channel="TVR 2">
+    <title lang="ro">Memorialul Durerii</title>
+  </programme>
+  <programme start="20200306055500 +0200" stop="20200306061000 +0200" channel="TVR 2">
+    <title lang="ro">Poate nu ştiai</title>
+  </programme>
+  <programme start="20200306061000 +0200" stop="20200306065500 +0200" channel="TVR 2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306065500 +0200" stop="20200306070000 +0200" channel="TVR 2">
+    <title lang="ro">Imnul  României</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306080000 +0200" channel="TVR 2">
+    <title lang="ro">Cele şase surori</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306085000 +0200" channel="TVR 2">
+    <title lang="ro">Oanapp</title>
+  </programme>
+  <programme start="20200306085000 +0200" stop="20200306090000 +0200" channel="TVR 2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306100000 +0200" channel="TVR 2">
+    <title lang="ro">Documentar 360° Geo</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306110000 +0200" channel="TVR 2">
+    <title lang="ro">Câştigă România!</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306115000 +0200" channel="TVR 2">
+    <title lang="ro">Glasul inimii</title>
+  </programme>
+  <programme start="20200306115000 +0200" stop="20200306120000 +0200" channel="TVR 2">
+    <title lang="ro">Poate nu ştiai</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306124000 +0200" channel="TVR 2">
+    <title lang="ro">Telejurnal TVR 2</title>
+  </programme>
+  <programme start="20200306124000 +0200" stop="20200306130000 +0200" channel="TVR 2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306133000 +0200" channel="TVR 2">
+    <title lang="ro">Cultura minorităţilor</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306140000 +0200" channel="TVR 2">
+    <title lang="ro">Pescar hoinar</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306150000 +0200" channel="TVR 2">
+    <title lang="ro">Documentar 360° Geo</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306160000 +0200" channel="TVR 2">
+    <title lang="ro">Ferma</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306165000 +0200" channel="TVR 2">
+    <title lang="ro">Glasul inimii</title>
+  </programme>
+  <programme start="20200306165000 +0200" stop="20200306170000 +0200" channel="TVR 2">
+    <title lang="ro">Poate nu ştiai</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306174000 +0200" channel="TVR 2">
+    <title lang="ro">România…în bucate</title>
+  </programme>
+  <programme start="20200306174000 +0200" stop="20200306184500 +0200" channel="TVR 2">
+    <title lang="ro">În direct cu viaţa</title>
+  </programme>
+  <programme start="20200306184500 +0200" stop="20200306190000 +0200" channel="TVR 2">
+    <title lang="ro">Sport</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306193500 +0200" channel="TVR 2">
+    <title lang="ro">Telejurnal TVR 2</title>
+  </programme>
+  <programme start="20200306193500 +0200" stop="20200306200000 +0200" channel="TVR 2">
+    <title lang="ro">E vremea ta!</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306210000 +0200" channel="TVR 2">
+    <title lang="ro">Gala Umorului</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306220000 +0200" channel="TVR 2">
+    <title lang="ro">Gala Umorului</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200306230000 +0200" channel="TVR 2">
+    <title lang="ro">Drag de Romania mea!</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200307000000 +0200" channel="TVR 2">
+    <title lang="ro">Drag de Romania mea!</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307010000 +0200" channel="TVR 2">
+    <title lang="ro">Femei de 10, bărbați de 10</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307020000 +0200" channel="TVR 2">
+    <title lang="ro">Femei de 10, bărbați de 10</title>
+  </programme>
+  <programme start="20200307020000 +0200" stop="20200307030000 +0200" channel="TVR 2">
+    <title lang="ro">În numele legii</title>
+  </programme>
+  <programme start="20200307030000 +0200" stop="20200307031500 +0200" channel="TVR 2">
+    <title lang="ro">E vremea ta!</title>
+  </programme>
+  <programme start="20200307031500 +0200" stop="20200307033000 +0200" channel="TVR 2">
+    <title lang="ro">Sport</title>
+  </programme>
+  <programme start="20200307033000 +0200" stop="20200307040500 +0200" channel="TVR 2">
+    <title lang="ro">Telejurnal TVR 2</title>
+  </programme>
+  <programme start="20200307040500 +0200" stop="20200307050000 +0200" channel="TVR 2">
+    <title lang="ro">Documentar 360° Geo</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307055500 +0200" channel="TVR 2">
+    <title lang="ro">Destine ca-n filme</title>
+  </programme>
+  <programme start="20200307055500 +0200" stop="20200307060000 +0200" channel="TVR 2">
+    <title lang="ro">Poate nu ştiai</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307062500 +0200" channel="TVR 2">
+    <title lang="ro">Cap compas</title>
+  </programme>
+  <programme start="20200307062500 +0200" stop="20200307065500 +0200" channel="TVR 2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307065500 +0200" stop="20200307070000 +0200" channel="TVR 2">
+    <title lang="ro">Imnul  României</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307073000 +0200" channel="TVR 2">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307080000 +0200" channel="TVR 2">
+    <title lang="ro">România…în bucate</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307083000 +0200" channel="TVR 2">
+    <title lang="ro">România…în bucate</title>
+  </programme>
+  <programme start="20200307083000 +0200" stop="20200307090000 +0200" channel="TVR 2">
+    <title lang="ro">Generaţia Fit</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307100000 +0200" channel="TVR 2">
+    <title lang="ro">Noile aventuri ale fiicei oceanului</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307105500 +0200" channel="TVR 2">
+    <title lang="ro">Mic dejun cu un campion</title>
+  </programme>
+  <programme start="20200307105500 +0200" stop="20200307110000 +0200" channel="TVR 2">
+    <title lang="ro">Invigatoarele Romaniei</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307120000 +0200" channel="TVR 2">
+    <title lang="ro">D'ale lu' Mitică</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307123000 +0200" channel="TVR 2">
+    <title lang="ro">Vibe By Ioana Voicu</title>
+  </programme>
+  <programme start="20200307123000 +0200" stop="20200307130000 +0200" channel="TVR 2">
+    <title lang="ro">Cap compas</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307140000 +0200" channel="TVR 2">
+    <title lang="ro">Gala Umorului</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307145500 +0200" channel="TVR 2">
+    <title lang="ro">Gala Umorului</title>
+  </programme>
+  <programme start="20200307145500 +0200" stop="20200307150000 +0200" channel="TVR 2">
+    <title lang="ro">Invigatoarele Romaniei</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307160000 +0200" channel="TVR 2">
+    <title lang="ro">Femei de 10, bărbați de 10</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307165500 +0200" channel="TVR 2">
+    <title lang="ro">Femei de 10, bărbați de 10</title>
+  </programme>
+  <programme start="20200307165500 +0200" stop="20200307170000 +0200" channel="TVR 2">
+    <title lang="ro">Invigatoarele Romaniei</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307173000 +0200" channel="TVR 2">
+    <title lang="ro">Zile cu stil</title>
+  </programme>
+  <programme start="20200307173000 +0200" stop="20200307180000 +0200" channel="TVR 2">
+    <title lang="ro">MotorVlog</title>
+  </programme>
+  <programme start="20200307180000 +0200" stop="20200307185000 +0200" channel="TVR 2">
+    <title lang="ro">Memorialul Durerii</title>
+  </programme>
+  <programme start="20200307185000 +0200" stop="20200307190000 +0200" channel="TVR 2">
+    <title lang="ro">Sport</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307193500 +0200" channel="TVR 2">
+    <title lang="ro">Telejurnal TVR 2</title>
+  </programme>
+  <programme start="20200307193500 +0200" stop="20200307201000 +0200" channel="TVR 2">
+    <title lang="ro">E vremea ta!</title>
+  </programme>
+  <programme start="20200307201000 +0200" stop="20200307221000 +0200" channel="TVR 2">
+    <title lang="ro">Înainte și după</title>
+  </programme>
+  <programme start="20200307221000 +0200" stop="20200307234500 +0200" channel="TVR 2">
+    <title lang="ro">Păcatul şi ruşinea</title>
+  </programme>
+  <programme start="20200307234500 +0200" stop="20200308014500 +0200" channel="TVR 2">
+    <title lang="ro">Concert Brio Sonores</title>
   </programme>
 </tv>
