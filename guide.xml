@@ -32,6 +32,26 @@
     <display-name lang="ro">Kanal D</display-name>
     <url>http://www.program24.ro</url>
   </channel>
+  <channel id="Prima TV">
+    <display-name lang="ro">Prima TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="National TV">
+    <display-name lang="ro">National TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="National 24 Plus">
+    <display-name lang="ro">National 24 Plus</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="B1 TV">
+    <display-name lang="ro">B1 TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Pro TV">
+    <display-name lang="ro">Pro TV</display-name>
+    <url>http://www.point.md</url>
+  </channel>
   <programme start="20200305120000 +0200" stop="20200305140000 +0200" channel="Antena 1">
     <title lang="ro">Observator</title>
   </programme>
@@ -124,9 +144,6 @@
   </programme>
   <programme start="20200307234500 +0200" stop="20200308020000 +0200" channel="Antena 1">
     <title lang="ro">American Ultra: Agent descoperit</title>
-  </programme>
-  <programme start="20200305123000 +0200" stop="20200305130000 +0200" channel="PRO X">
-    <title lang="ro">Teleshopping</title>
   </programme>
   <programme start="20200305130000 +0200" stop="20200305150000 +0200" channel="PRO X">
     <title lang="ro">Ora exacta in sport</title>
@@ -512,15 +529,6 @@
   <programme start="20200307235000 +0200" stop="20200308002500 +0200" channel="TVR 1">
     <title lang="ro">#Creativ</title>
   </programme>
-  <programme start="20200305120000 +0200" stop="20200305124000 +0200" channel="TVR 2">
-    <title lang="ro">Telejurnal TVR 2</title>
-  </programme>
-  <programme start="20200305124000 +0200" stop="20200305130000 +0200" channel="TVR 2">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200305130000 +0200" stop="20200305133000 +0200" channel="TVR 2">
-    <title lang="ro">Cultura minorităţilor</title>
-  </programme>
   <programme start="20200305133000 +0200" stop="20200305140000 +0200" channel="TVR 2">
     <title lang="ro">Natură şi aventură</title>
   </programme>
@@ -767,9 +775,6 @@
   <programme start="20200307234500 +0200" stop="20200308014500 +0200" channel="TVR 2">
     <title lang="ro">Concert Brio Sonores</title>
   </programme>
-  <programme start="20200305103000 +0200" stop="20200305130000 +0200" channel="PRO TV">
-    <title lang="ro">Vorbeşte lumea</title>
-  </programme>
   <programme start="20200305130000 +0200" stop="20200305140000 +0200" channel="PRO TV">
     <title lang="ro">Ştirile Pro Tv</title>
   </programme>
@@ -886,9 +891,6 @@
   </programme>
   <programme start="20200307230000 +0200" stop="20200308004500 +0200" channel="PRO TV">
     <title lang="ro">Fii pe fază și raportează!</title>
-  </programme>
-  <programme start="20200305103000 +0200" stop="20200305130000 +0200" channel="PRO TV HD">
-    <title lang="ro">Vorbeşte lumea</title>
   </programme>
   <programme start="20200305130000 +0200" stop="20200305140000 +0200" channel="PRO TV HD">
     <title lang="ro">Ştirile Pro Tv</title>
@@ -1136,9 +1138,6 @@
   <programme start="20200307230000 +0200" stop="20200308010000 +0200" channel="Kanal D HD">
     <title lang="ro">Bravo, ai stil!</title>
   </programme>
-  <programme start="20200305120000 +0200" stop="20200305130000 +0200" channel="Kanal D">
-    <title lang="ro">Știrile Kanal D</title>
-  </programme>
   <programme start="20200305130000 +0200" stop="20200305150000 +0200" channel="Kanal D">
     <title lang="ro">În căutarea adevărului</title>
   </programme>
@@ -1267,5 +1266,1001 @@
   </programme>
   <programme start="20200307230000 +0200" stop="20200308010000 +0200" channel="Kanal D">
     <title lang="ro">Bravo, ai stil!</title>
+  </programme>
+  <programme start="20200305120000 +0200" stop="20200305140000 +0200" channel="Prima TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305143000 +0200" channel="Prima TV">
+    <title lang="ro">Sănătate cu stil</title>
+  </programme>
+  <programme start="20200305143000 +0200" stop="20200305150500 +0200" channel="Prima TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305150500 +0200" stop="20200305160000 +0200" channel="Prima TV">
+    <title lang="ro">Focus</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305170000 +0200" channel="Prima TV">
+    <title lang="ro">Capri</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305180000 +0200" channel="Prima TV">
+    <title lang="ro">Sacrificii în numele iubirii</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305190000 +0200" channel="Prima TV">
+    <title lang="ro">Focus 18</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305200000 +0200" channel="Prima TV">
+    <title lang="ro">Trăsniți</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305220000 +0200" channel="Prima TV">
+    <title lang="ro">Vânătorul de recompense</title>
+  </programme>
+  <programme start="20200305220000 +0200" stop="20200305230000 +0200" channel="Prima TV">
+    <title lang="ro">Starea naţiei</title>
+  </programme>
+  <programme start="20200305230000 +0200" stop="20200305233000 +0200" channel="Prima TV">
+    <title lang="ro">Focus din inima României</title>
+  </programme>
+  <programme start="20200305233000 +0200" stop="20200306003000 +0200" channel="Prima TV">
+    <title lang="ro">Trăsniți</title>
+  </programme>
+  <programme start="20200306003000 +0200" stop="20200306023000 +0200" channel="Prima TV">
+    <title lang="ro">Vânătorul de recompense</title>
+  </programme>
+  <programme start="20200306023000 +0200" stop="20200306041500 +0200" channel="Prima TV">
+    <title lang="ro">Cireaşa de pe tort</title>
+  </programme>
+  <programme start="20200306041500 +0200" stop="20200306053000 +0200" channel="Prima TV">
+    <title lang="ro">Nimeni nu-i perfect</title>
+  </programme>
+  <programme start="20200306053000 +0200" stop="20200306065000 +0200" channel="Prima TV">
+    <title lang="ro">Focus</title>
+  </programme>
+  <programme start="20200306065000 +0200" stop="20200306072000 +0200" channel="Prima TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306072000 +0200" stop="20200306080000 +0200" channel="Prima TV">
+    <title lang="ro">Capri</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306093000 +0200" channel="Prima TV">
+    <title lang="ro">Sacrificii în numele iubirii</title>
+  </programme>
+  <programme start="20200306093000 +0200" stop="20200306100000 +0200" channel="Prima TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306110000 +0200" channel="Prima TV">
+    <title lang="ro">Starea naţiei</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306113000 +0200" channel="Prima TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306113000 +0200" stop="20200306120000 +0200" channel="Prima TV">
+    <title lang="ro">Camera de râs</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306140000 +0200" channel="Prima TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306143000 +0200" channel="Prima TV">
+    <title lang="ro">Sănătate cu stil</title>
+  </programme>
+  <programme start="20200306143000 +0200" stop="20200306150500 +0200" channel="Prima TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306150500 +0200" stop="20200306160000 +0200" channel="Prima TV">
+    <title lang="ro">Focus</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306170000 +0200" channel="Prima TV">
+    <title lang="ro">Capri</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306180000 +0200" channel="Prima TV">
+    <title lang="ro">Sacrificii în numele iubirii</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306193000 +0200" channel="Prima TV">
+    <title lang="ro">Focus 18</title>
+  </programme>
+  <programme start="20200306193000 +0200" stop="20200306200000 +0200" channel="Prima TV">
+    <title lang="ro">Flash monden</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306220000 +0200" channel="Prima TV">
+    <title lang="ro">Coroana de foc</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200307000000 +0200" channel="Prima TV">
+    <title lang="ro">Lanțul crimelor</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307013000 +0200" channel="Prima TV">
+    <title lang="ro">Dinte pentru dinte</title>
+  </programme>
+  <programme start="20200307013000 +0200" stop="20200307033000 +0200" channel="Prima TV">
+    <title lang="ro">Lanțul crimelor</title>
+  </programme>
+  <programme start="20200307033000 +0200" stop="20200307053000 +0200" channel="Prima TV">
+    <title lang="ro">Un Crăciun regal</title>
+  </programme>
+  <programme start="20200307053000 +0200" stop="20200307065000 +0200" channel="Prima TV">
+    <title lang="ro">Focus</title>
+  </programme>
+  <programme start="20200307065000 +0200" stop="20200307072000 +0200" channel="Prima TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307072000 +0200" stop="20200307083000 +0200" channel="Prima TV">
+    <title lang="ro">Capri</title>
+  </programme>
+  <programme start="20200307083000 +0200" stop="20200307093000 +0200" channel="Prima TV">
+    <title lang="ro">Sacrificii în numele iubirii</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307103000 +0200" channel="Prima TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307103000 +0200" stop="20200307110000 +0200" channel="Prima TV">
+    <title lang="ro">Flash monden</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307113000 +0200" channel="Prima TV">
+    <title lang="ro">Secrete de stil</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307120000 +0200" channel="Prima TV">
+    <title lang="ro">Cu lumea-n cap</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307140000 +0200" channel="Prima TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307160000 +0200" channel="Prima TV">
+    <title lang="ro">Pistruiatul 2 - Ascunzișuri</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307180000 +0200" channel="Prima TV">
+    <title lang="ro">Coroana de foc</title>
+  </programme>
+  <programme start="20200307180000 +0200" stop="20200307193000 +0200" channel="Prima TV">
+    <title lang="ro">Focus 18</title>
+  </programme>
+  <programme start="20200307193000 +0200" stop="20200307200000 +0200" channel="Prima TV">
+    <title lang="ro">Flash monden</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307230000 +0200" channel="Prima TV">
+    <title lang="ro">Ce-și doresc femeile</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200308010000 +0200" channel="Prima TV">
+    <title lang="ro">Filantropica</title>
+  </programme>
+  <programme start="20200305133000 +0200" stop="20200305140000 +0200" channel="National TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305141500 +0200" channel="National TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305141500 +0200" stop="20200305143000 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200305143000 +0200" stop="20200305154500 +0200" channel="National TV">
+    <title lang="ro">Clanul</title>
+  </programme>
+  <programme start="20200305154500 +0200" stop="20200305160000 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305161500 +0200" channel="National TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305161500 +0200" stop="20200305171500 +0200" channel="National TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200305171500 +0200" stop="20200305183000 +0200" channel="National TV">
+    <title lang="ro">Clanul</title>
+  </programme>
+  <programme start="20200305183000 +0200" stop="20200305190000 +0200" channel="National TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305200000 +0200" channel="National TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305210000 +0200" channel="National TV">
+    <title lang="ro">Dragoste si ura</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200305231500 +0200" channel="National TV">
+    <title lang="ro">Ben și Charlie</title>
+  </programme>
+  <programme start="20200305231500 +0200" stop="20200306013000 +0200" channel="National TV">
+    <title lang="ro">Total Recall</title>
+  </programme>
+  <programme start="20200306013000 +0200" stop="20200306033000 +0200" channel="National TV">
+    <title lang="ro">Albumul Naţional</title>
+  </programme>
+  <programme start="20200306033000 +0200" stop="20200306040000 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306040000 +0200" stop="20200306050000 +0200" channel="National TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306053000 +0200" channel="National TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200306053000 +0200" stop="20200306060000 +0200" channel="National TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306061500 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306061500 +0200" stop="20200306081500 +0200" channel="National TV">
+    <title lang="ro">Albumul Naţional</title>
+  </programme>
+  <programme start="20200306081500 +0200" stop="20200306083000 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306083000 +0200" stop="20200306094500 +0200" channel="National TV">
+    <title lang="ro">Tradiţii de la bunica</title>
+  </programme>
+  <programme start="20200306094500 +0200" stop="20200306104500 +0200" channel="National TV">
+    <title lang="ro">Dragoste si ura</title>
+  </programme>
+  <programme start="20200306104500 +0200" stop="20200306114500 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306114500 +0200" stop="20200306124500 +0200" channel="National TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200306124500 +0200" stop="20200306130000 +0200" channel="National TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306131500 +0200" channel="National TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200306131500 +0200" stop="20200306133000 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306140000 +0200" channel="National TV">
+    <title lang="ro">Specialişti în sănătate</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306141500 +0200" channel="National TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306141500 +0200" stop="20200306143000 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306143000 +0200" stop="20200306154500 +0200" channel="National TV">
+    <title lang="ro">Clanul</title>
+  </programme>
+  <programme start="20200306154500 +0200" stop="20200306160000 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306161500 +0200" channel="National TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306161500 +0200" stop="20200306171500 +0200" channel="National TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200306171500 +0200" stop="20200306183000 +0200" channel="National TV">
+    <title lang="ro">Clanul</title>
+  </programme>
+  <programme start="20200306183000 +0200" stop="20200306190000 +0200" channel="National TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306200000 +0200" channel="National TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306210000 +0200" channel="National TV">
+    <title lang="ro">Dragoste si ura</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306224500 +0200" channel="National TV">
+    <title lang="ro">Aventuri în Las Vegas</title>
+  </programme>
+  <programme start="20200306224500 +0200" stop="20200307004500 +0200" channel="National TV">
+    <title lang="ro">Razboiul lupilor</title>
+  </programme>
+  <programme start="20200307004500 +0200" stop="20200307024500 +0200" channel="National TV">
+    <title lang="ro">Poama acră</title>
+  </programme>
+  <programme start="20200307024500 +0200" stop="20200307043000 +0200" channel="National TV">
+    <title lang="ro">Albumul Naţional</title>
+  </programme>
+  <programme start="20200307043000 +0200" stop="20200307050000 +0200" channel="National TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307053000 +0200" channel="National TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200307053000 +0200" stop="20200307060000 +0200" channel="National TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307061500 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200307061500 +0200" stop="20200307071500 +0200" channel="National TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200307071500 +0200" stop="20200307081500 +0200" channel="National TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200307081500 +0200" stop="20200307084500 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200307084500 +0200" stop="20200307090000 +0200" channel="National TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307100000 +0200" channel="National TV">
+    <title lang="ro">Tradiţii de la bunica</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307120000 +0200" channel="National TV">
+    <title lang="ro">Din viața romilor</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307123000 +0200" channel="National TV">
+    <title lang="ro">Stan si Bran: momente de exceptie</title>
+  </programme>
+  <programme start="20200307123000 +0200" stop="20200307125500 +0200" channel="National TV">
+    <title lang="ro">Specialişti în sănătate</title>
+  </programme>
+  <programme start="20200307125500 +0200" stop="20200307131500 +0200" channel="National TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307131500 +0200" stop="20200307133000 +0200" channel="National TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200307133000 +0200" stop="20200307161500 +0200" channel="National TV">
+    <title lang="ro">Hai să ucidem, companeros</title>
+  </programme>
+  <programme start="20200307161500 +0200" stop="20200307183000 +0200" channel="National TV">
+    <title lang="ro">Ben și Charlie</title>
+  </programme>
+  <programme start="20200307183000 +0200" stop="20200307190000 +0200" channel="National TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307200000 +0200" channel="National TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307220000 +0200" channel="National TV">
+    <title lang="ro">Cei 7 ani de masa</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200307234500 +0200" channel="National TV">
+    <title lang="ro">Fosta mea iubire</title>
+  </programme>
+  <programme start="20200307234500 +0200" stop="20200308014500 +0200" channel="National TV">
+    <title lang="ro">Poama acră</title>
+  </programme>
+  <programme start="20200305133000 +0200" stop="20200305134500 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305134500 +0200" stop="20200305141500 +0200" channel="National 24 Plus">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200305141500 +0200" stop="20200305143000 +0200" channel="National 24 Plus">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200305143000 +0200" stop="20200305150000 +0200" channel="National 24 Plus">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305151500 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305151500 +0200" stop="20200305153000 +0200" channel="National 24 Plus">
+    <title lang="ro">Clipuri</title>
+  </programme>
+  <programme start="20200305153000 +0200" stop="20200305154500 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305154500 +0200" stop="20200305164500 +0200" channel="National 24 Plus">
+    <title lang="ro">Dragoste si ura</title>
+  </programme>
+  <programme start="20200305164500 +0200" stop="20200305170000 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305171500 +0200" channel="National 24 Plus">
+    <title lang="ro">Clipuri</title>
+  </programme>
+  <programme start="20200305171500 +0200" stop="20200305173000 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305173000 +0200" stop="20200305183000 +0200" channel="National 24 Plus">
+    <title lang="ro">Suflete tradate</title>
+  </programme>
+  <programme start="20200305183000 +0200" stop="20200305193000 +0200" channel="National 24 Plus">
+    <title lang="ro">Suflete tradate</title>
+  </programme>
+  <programme start="20200305193000 +0200" stop="20200305200000 +0200" channel="National 24 Plus">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305203000 +0200" channel="National 24 Plus">
+    <title lang="ro">Profesii, cariere</title>
+  </programme>
+  <programme start="20200305203000 +0200" stop="20200305210000 +0200" channel="National 24 Plus">
+    <title lang="ro">Profesii, cariere</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200305220000 +0200" channel="National 24 Plus">
+    <title lang="ro">Suflete tradate</title>
+  </programme>
+  <programme start="20200305220000 +0200" stop="20200305230000 +0200" channel="National 24 Plus">
+    <title lang="ro">Suflete tradate</title>
+  </programme>
+  <programme start="20200305230000 +0200" stop="20200306000000 +0200" channel="National 24 Plus">
+    <title lang="ro">Dragoste si ura</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306001500 +0200" channel="National 24 Plus">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306001500 +0200" stop="20200306004500 +0200" channel="National 24 Plus">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme start="20200306004500 +0200" stop="20200306024500 +0200" channel="National 24 Plus">
+    <title lang="ro">Albumul naţional</title>
+  </programme>
+  <programme start="20200306024500 +0200" stop="20200306031500 +0200" channel="National 24 Plus">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme start="20200306031500 +0200" stop="20200306050000 +0200" channel="National 24 Plus">
+    <title lang="ro">Sărut-mâna, mamă</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306060000 +0200" channel="National 24 Plus">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306063000 +0200" channel="National 24 Plus">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme start="20200306063000 +0200" stop="20200306073000 +0200" channel="National 24 Plus">
+    <title lang="ro">American Cinema</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306080000 +0200" channel="National 24 Plus">
+    <title lang="ro">Framework for democracy</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306081500 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306081500 +0200" stop="20200306083000 +0200" channel="National 24 Plus">
+    <title lang="ro">Clipuri</title>
+  </programme>
+  <programme start="20200306083000 +0200" stop="20200306090000 +0200" channel="National 24 Plus">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306093000 +0200" channel="National 24 Plus">
+    <title lang="ro">Sed Lex</title>
+  </programme>
+  <programme start="20200306093000 +0200" stop="20200306094500 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306094500 +0200" stop="20200306104500 +0200" channel="National 24 Plus">
+    <title lang="ro">American Cinema</title>
+  </programme>
+  <programme start="20200306104500 +0200" stop="20200306110000 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306113000 +0200" channel="National 24 Plus">
+    <title lang="ro">Profesii, cariere</title>
+  </programme>
+  <programme start="20200306113000 +0200" stop="20200306114500 +0200" channel="National 24 Plus">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306114500 +0200" stop="20200306121500 +0200" channel="National 24 Plus">
+    <title lang="ro">Profesii, cariere</title>
+  </programme>
+  <programme start="20200306121500 +0200" stop="20200306124500 +0200" channel="National 24 Plus">
+    <title lang="ro">Framework for democracy</title>
+  </programme>
+  <programme start="20200306124500 +0200" stop="20200306130000 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306133000 +0200" channel="National 24 Plus">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306134500 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306134500 +0200" stop="20200306141500 +0200" channel="National 24 Plus">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200306141500 +0200" stop="20200306143000 +0200" channel="National 24 Plus">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306143000 +0200" stop="20200306150000 +0200" channel="National 24 Plus">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306151500 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306151500 +0200" stop="20200306153000 +0200" channel="National 24 Plus">
+    <title lang="ro">Clipuri</title>
+  </programme>
+  <programme start="20200306153000 +0200" stop="20200306154500 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306154500 +0200" stop="20200306164500 +0200" channel="National 24 Plus">
+    <title lang="ro">Dragoste si ura</title>
+  </programme>
+  <programme start="20200306164500 +0200" stop="20200306170000 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306171500 +0200" channel="National 24 Plus">
+    <title lang="ro">Clipuri</title>
+  </programme>
+  <programme start="20200306171500 +0200" stop="20200306173000 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306173000 +0200" stop="20200306183000 +0200" channel="National 24 Plus">
+    <title lang="ro">Suflete tradate</title>
+  </programme>
+  <programme start="20200306183000 +0200" stop="20200306193000 +0200" channel="National 24 Plus">
+    <title lang="ro">Suflete tradate</title>
+  </programme>
+  <programme start="20200306193000 +0200" stop="20200306200000 +0200" channel="National 24 Plus">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306214500 +0200" channel="National 24 Plus">
+    <title lang="ro">Italiencele</title>
+  </programme>
+  <programme start="20200306214500 +0200" stop="20200306220000 +0200" channel="National 24 Plus">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200306230000 +0200" channel="National 24 Plus">
+    <title lang="ro">Suflete tradate</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200307000000 +0200" channel="National 24 Plus">
+    <title lang="ro">Dragoste si ura</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307001500 +0200" channel="National 24 Plus">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200307001500 +0200" stop="20200307004500 +0200" channel="National 24 Plus">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme start="20200307004500 +0200" stop="20200307024500 +0200" channel="National 24 Plus">
+    <title lang="ro">Albumul naţional</title>
+  </programme>
+  <programme start="20200307024500 +0200" stop="20200307031500 +0200" channel="National 24 Plus">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme start="20200307031500 +0200" stop="20200307050000 +0200" channel="National 24 Plus">
+    <title lang="ro">Sărut-mâna, mamă</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307060000 +0200" channel="National 24 Plus">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307063000 +0200" channel="National 24 Plus">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme start="20200307063000 +0200" stop="20200307073000 +0200" channel="National 24 Plus">
+    <title lang="ro">American Cinema</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307080000 +0200" channel="National 24 Plus">
+    <title lang="ro">Framework for democracy</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307081500 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307081500 +0200" stop="20200307083000 +0200" channel="National 24 Plus">
+    <title lang="ro">Clipuri</title>
+  </programme>
+  <programme start="20200307083000 +0200" stop="20200307103000 +0200" channel="National 24 Plus">
+    <title lang="ro">Albumul naţional</title>
+  </programme>
+  <programme start="20200307103000 +0200" stop="20200307110000 +0200" channel="National 24 Plus">
+    <title lang="ro">Euroferma</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307113000 +0200" channel="National 24 Plus">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307114500 +0200" channel="National 24 Plus">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200307114500 +0200" stop="20200307124500 +0200" channel="National 24 Plus">
+    <title lang="ro">Nino si Maria</title>
+  </programme>
+  <programme start="20200307124500 +0200" stop="20200307130000 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307133000 +0200" channel="National 24 Plus">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200307133000 +0200" stop="20200307140000 +0200" channel="National 24 Plus">
+    <title lang="ro">Sed Lex</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307141500 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307141500 +0200" stop="20200307143000 +0200" channel="National 24 Plus">
+    <title lang="ro">Clipuri</title>
+  </programme>
+  <programme start="20200307143000 +0200" stop="20200307144500 +0200" channel="National 24 Plus">
+    <title lang="ro">Zambet sanatos</title>
+  </programme>
+  <programme start="20200307144500 +0200" stop="20200307150000 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307153000 +0200" channel="National 24 Plus">
+    <title lang="ro">Un nou mod de viață</title>
+  </programme>
+  <programme start="20200307153000 +0200" stop="20200307160000 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307170000 +0200" channel="National 24 Plus">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307171500 +0200" channel="National 24 Plus">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307171500 +0200" stop="20200307173000 +0200" channel="National 24 Plus">
+    <title lang="ro">Clipuri</title>
+  </programme>
+  <programme start="20200307173000 +0200" stop="20200307183000 +0200" channel="National 24 Plus">
+    <title lang="ro">Țara lui Papură Vouă</title>
+  </programme>
+  <programme start="20200307183000 +0200" stop="20200307193000 +0200" channel="National 24 Plus">
+    <title lang="ro">American Cinema</title>
+  </programme>
+  <programme start="20200307193000 +0200" stop="20200307200000 +0200" channel="National 24 Plus">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307220000 +0200" channel="National 24 Plus">
+    <title lang="ro">Țara lui Papură Vouă</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200307234500 +0200" channel="National 24 Plus">
+    <title lang="ro">Italiencele</title>
+  </programme>
+  <programme start="20200307234500 +0200" stop="20200308001500 +0200" channel="National 24 Plus">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200305133000 +0200" stop="20200305140000 +0200" channel="B1 TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305141500 +0200" channel="B1 TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305141500 +0200" stop="20200305143000 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200305143000 +0200" stop="20200305154500 +0200" channel="B1 TV">
+    <title lang="ro">Clanul</title>
+  </programme>
+  <programme start="20200305154500 +0200" stop="20200305160000 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305161500 +0200" channel="B1 TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305161500 +0200" stop="20200305171500 +0200" channel="B1 TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200305171500 +0200" stop="20200305183000 +0200" channel="B1 TV">
+    <title lang="ro">Clanul</title>
+  </programme>
+  <programme start="20200305183000 +0200" stop="20200305190000 +0200" channel="B1 TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305200000 +0200" channel="B1 TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305210000 +0200" channel="B1 TV">
+    <title lang="ro">Dragoste si ura</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200305231500 +0200" channel="B1 TV">
+    <title lang="ro">Ben și Charlie</title>
+  </programme>
+  <programme start="20200305231500 +0200" stop="20200306013000 +0200" channel="B1 TV">
+    <title lang="ro">Total Recall</title>
+  </programme>
+  <programme start="20200306013000 +0200" stop="20200306033000 +0200" channel="B1 TV">
+    <title lang="ro">Albumul Naţional</title>
+  </programme>
+  <programme start="20200306033000 +0200" stop="20200306040000 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306040000 +0200" stop="20200306050000 +0200" channel="B1 TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306053000 +0200" channel="B1 TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200306053000 +0200" stop="20200306060000 +0200" channel="B1 TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306061500 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306061500 +0200" stop="20200306081500 +0200" channel="B1 TV">
+    <title lang="ro">Albumul Naţional</title>
+  </programme>
+  <programme start="20200306081500 +0200" stop="20200306083000 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306083000 +0200" stop="20200306094500 +0200" channel="B1 TV">
+    <title lang="ro">Tradiţii de la bunica</title>
+  </programme>
+  <programme start="20200306094500 +0200" stop="20200306104500 +0200" channel="B1 TV">
+    <title lang="ro">Dragoste si ura</title>
+  </programme>
+  <programme start="20200306104500 +0200" stop="20200306114500 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306114500 +0200" stop="20200306124500 +0200" channel="B1 TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200306124500 +0200" stop="20200306130000 +0200" channel="B1 TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306131500 +0200" channel="B1 TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200306131500 +0200" stop="20200306133000 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306140000 +0200" channel="B1 TV">
+    <title lang="ro">Specialişti în sănătate</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306141500 +0200" channel="B1 TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306141500 +0200" stop="20200306143000 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306143000 +0200" stop="20200306154500 +0200" channel="B1 TV">
+    <title lang="ro">Clanul</title>
+  </programme>
+  <programme start="20200306154500 +0200" stop="20200306160000 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306161500 +0200" channel="B1 TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306161500 +0200" stop="20200306171500 +0200" channel="B1 TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200306171500 +0200" stop="20200306183000 +0200" channel="B1 TV">
+    <title lang="ro">Clanul</title>
+  </programme>
+  <programme start="20200306183000 +0200" stop="20200306190000 +0200" channel="B1 TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306200000 +0200" channel="B1 TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306210000 +0200" channel="B1 TV">
+    <title lang="ro">Dragoste si ura</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306224500 +0200" channel="B1 TV">
+    <title lang="ro">Aventuri în Las Vegas</title>
+  </programme>
+  <programme start="20200306224500 +0200" stop="20200307004500 +0200" channel="B1 TV">
+    <title lang="ro">Razboiul lupilor</title>
+  </programme>
+  <programme start="20200307004500 +0200" stop="20200307024500 +0200" channel="B1 TV">
+    <title lang="ro">Poama acră</title>
+  </programme>
+  <programme start="20200307024500 +0200" stop="20200307043000 +0200" channel="B1 TV">
+    <title lang="ro">Albumul Naţional</title>
+  </programme>
+  <programme start="20200307043000 +0200" stop="20200307050000 +0200" channel="B1 TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307053000 +0200" channel="B1 TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200307053000 +0200" stop="20200307060000 +0200" channel="B1 TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307061500 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200307061500 +0200" stop="20200307071500 +0200" channel="B1 TV">
+    <title lang="ro">Baronii</title>
+  </programme>
+  <programme start="20200307071500 +0200" stop="20200307081500 +0200" channel="B1 TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200307081500 +0200" stop="20200307084500 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200307084500 +0200" stop="20200307090000 +0200" channel="B1 TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307100000 +0200" channel="B1 TV">
+    <title lang="ro">Tradiţii de la bunica</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307120000 +0200" channel="B1 TV">
+    <title lang="ro">Din viața romilor</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307123000 +0200" channel="B1 TV">
+    <title lang="ro">Stan si Bran: momente de exceptie</title>
+  </programme>
+  <programme start="20200307123000 +0200" stop="20200307125500 +0200" channel="B1 TV">
+    <title lang="ro">Specialişti în sănătate</title>
+  </programme>
+  <programme start="20200307125500 +0200" stop="20200307131500 +0200" channel="B1 TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307131500 +0200" stop="20200307133000 +0200" channel="B1 TV">
+    <title lang="ro">Vouă</title>
+  </programme>
+  <programme start="20200307133000 +0200" stop="20200307161500 +0200" channel="B1 TV">
+    <title lang="ro">Hai să ucidem, companeros</title>
+  </programme>
+  <programme start="20200307161500 +0200" stop="20200307183000 +0200" channel="B1 TV">
+    <title lang="ro">Ben și Charlie</title>
+  </programme>
+  <programme start="20200307183000 +0200" stop="20200307190000 +0200" channel="B1 TV">
+    <title lang="ro">Ştiri Naţional TV</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307200000 +0200" channel="B1 TV">
+    <title lang="ro">Destine rătăcite</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307220000 +0200" channel="B1 TV">
+    <title lang="ro">Cei 7 ani de masa</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200307234500 +0200" channel="B1 TV">
+    <title lang="ro">Fosta mea iubire</title>
+  </programme>
+  <programme start="20200307234500 +0200" stop="20200308014500 +0200" channel="B1 TV">
+    <title lang="ro">Poama acră</title>
+  </programme>
+  <programme start="20200305044000 +0200" stop="20200305060000 +0200" channel="Pro TV">
+    <title lang="ro">"Vorbeste lumea"</title>
+  </programme>
+  <programme start="20200305060000 +0200" stop="20200305070000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200305070000 +0200" stop="20200305091500 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200305091500 +0200" stop="20200305103000 +0200" channel="Pro TV">
+    <title lang="ro">"O seara perfecta"</title>
+  </programme>
+  <programme start="20200305103000 +0200" stop="20200305104500 +0200" channel="Pro TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305104500 +0200" stop="20200305130000 +0200" channel="Pro TV">
+    <title lang="ro">"Vorbeste lumea"</title>
+  </programme>
+  <programme start="20200305130000 +0200" stop="20200305133000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200305133000 +0200" stop="20200305140000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV cu Patricia Podoleanu</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305141500 +0200" channel="Pro TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305141500 +0200" stop="20200305150000 +0200" channel="Pro TV">
+    <title lang="ro">"Lectii de viata"</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305151500 +0200" channel="Pro TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305151500 +0200" stop="20200305170000 +0200" channel="Pro TV">
+    <title lang="ro">"La Maruta"</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305174500 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV cu Loreta Lisnic</title>
+  </programme>
+  <programme start="20200305174500 +0200" stop="20200305190000 +0200" channel="Pro TV">
+    <title lang="ro">"O seara perfecta"</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305200000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305210000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200305220000 +0200" channel="Pro TV">
+    <title lang="ro">"In Profunzime"</title>
+  </programme>
+  <programme start="20200305220000 +0200" stop="20200306000000 +0200" channel="Pro TV">
+    <title lang="ro">Gospodar fara pereche</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306010000 +0200" channel="Pro TV">
+    <title lang="ro">"Las Fierbinti"</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306014000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200306014000 +0200" stop="20200306033000 +0200" channel="Pro TV">
+    <title lang="ro">Film "Cursa mortala"</title>
+  </programme>
+  <programme start="20200306033000 +0200" stop="20200306043000 +0200" channel="Pro TV">
+    <title lang="ro">"La Maruta"</title>
+  </programme>
+  <programme start="20200306043000 +0200" stop="20200306060000 +0200" channel="Pro TV">
+    <title lang="ro">"Vorbeste lumea"</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306070000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306091500 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200306091500 +0200" stop="20200306103000 +0200" channel="Pro TV">
+    <title lang="ro">"O seara perfecta"</title>
+  </programme>
+  <programme start="20200306103000 +0200" stop="20200306104500 +0200" channel="Pro TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306104500 +0200" stop="20200306130000 +0200" channel="Pro TV">
+    <title lang="ro">"Vorbeste lumea"</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306133000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306140000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV cu Patricia Podoleanu</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306141500 +0200" channel="Pro TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306141500 +0200" stop="20200306150000 +0200" channel="Pro TV">
+    <title lang="ro">"Lectii de viata"</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306151500 +0200" channel="Pro TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306151500 +0200" stop="20200306170000 +0200" channel="Pro TV">
+    <title lang="ro">"La Maruta"</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306174500 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV cu Loreta Lisnic</title>
+  </programme>
+  <programme start="20200306174500 +0200" stop="20200306190000 +0200" channel="Pro TV">
+    <title lang="ro">"O seara perfecta"</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306200000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306210000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200307000000 +0200" channel="Pro TV">
+    <title lang="ro">Romanii au talent</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307004000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200307004000 +0200" stop="20200307024000 +0200" channel="Pro TV">
+    <title lang="ro">Film "Scapati de Smart"</title>
+  </programme>
+  <programme start="20200307024000 +0200" stop="20200307034000 +0200" channel="Pro TV">
+    <title lang="ro">"Lectii de viata"</title>
+  </programme>
+  <programme start="20200307034000 +0200" stop="20200307044000 +0200" channel="Pro TV">
+    <title lang="ro">"La Maruta"</title>
+  </programme>
+  <programme start="20200307044000 +0200" stop="20200307060000 +0200" channel="Pro TV">
+    <title lang="ro">"Vorbeste lumea"</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307070000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV Chisinau</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307084500 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200307084500 +0200" stop="20200307100000 +0200" channel="Pro TV">
+    <title lang="ro">"O seara perfecta"</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307101500 +0200" channel="Pro TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307101500 +0200" stop="20200307104500 +0200" channel="Pro TV">
+    <title lang="ro">I like IT</title>
+  </programme>
+  <programme start="20200307104500 +0200" stop="20200307111500 +0200" channel="Pro TV">
+    <title lang="ro">Superspeed la Pro TV</title>
+  </programme>
+  <programme start="20200307111500 +0200" stop="20200307131500 +0200" channel="Pro TV">
+    <title lang="ro">Film "Cu duzina e mai ieftin!"</title>
+  </programme>
+  <programme start="20200307131500 +0200" stop="20200307143000 +0200" channel="Pro TV">
+    <title lang="ro">"In Profunzime"</title>
+  </programme>
+  <programme start="20200307143000 +0200" stop="20200307144500 +0200" channel="Pro TV">
+    <title lang="ro">Teleshoping</title>
+  </programme>
+  <programme start="20200307144500 +0200" stop="20200307173000 +0200" channel="Pro TV">
+    <title lang="ro">Romanii au talent</title>
+  </programme>
+  <programme start="20200307173000 +0200" stop="20200307174500 +0200" channel="Pro TV">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307174500 +0200" stop="20200307190000 +0200" channel="Pro TV">
+    <title lang="ro">"Gusturile se discuta"</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307200000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307210000 +0200" channel="Pro TV">
+    <title lang="ro">Stirile Pro TV cu Suada Karkouki</title>
+  </programme>
+  <programme start="20200307210000 +0200" stop="20200307224500 +0200" channel="Pro TV">
+    <title lang="ro">Film "Casino Royale"</title>
+  </programme>
+  <programme start="20200307224500 +0200" stop="20200308010000 +0200" channel="Pro TV">
+    <title lang="ro">Film "Dincolo de trecut"</title>
   </programme>
 </tv>
