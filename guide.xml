@@ -132,6 +132,42 @@
     <display-name lang="ro">Telekom Sport 4</display-name>
     <url>http://www.program24.ro</url>
   </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="ro">Eurosport 1</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Eurosport HD">
+    <display-name lang="ro">Eurosport HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="ro">Eurosport 2</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="ro">Eurosport 2 HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="LOOK SPORT">
+    <display-name lang="ro">LOOK SPORT</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="LOOK SPORT 2">
+    <display-name lang="ro">LOOK SPORT 2</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="LOOK SPORT 3">
+    <display-name lang="ro">LOOK SPORT 3</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="LOOK PLUS">
+    <display-name lang="ro">LOOK PLUS</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="LOOK PLUS HD">
+    <display-name lang="ro">LOOK PLUS HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
   <programme start="20200305140000 +0200" stop="20200305160000 +0200" channel="Antena 1">
     <title lang="ro">Dragoste de tată</title>
   </programme>
@@ -6026,5 +6062,1682 @@
   </programme>
   <programme start="20200307233000 +0200" stop="20200308013000 +0200" channel="Telekom Sport 4">
     <title lang="ro">Fotbal Germania: Wolfsburg - Leipzig</title>
+  </programme>
+  <programme start="20200305143000 +0200" stop="20200305150000 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Campionatul Mondial, la Antholz, în  Italia</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305155500 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Campionatul Mondial, la Antholz, în  Italia</title>
+  </programme>
+  <programme start="20200305155500 +0200" stop="20200305163000 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Campionatul Mondial, la Antholz, în  Italia</title>
+  </programme>
+  <programme start="20200305163000 +0200" stop="20200305180500 +0200" channel="Eurosport 1">
+    <title lang="ro">Snooker: Campionatul Jucătorilor</title>
+  </programme>
+  <programme start="20200305180500 +0200" stop="20200305195500 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200305195500 +0200" stop="20200305200000 +0200" channel="Eurosport 1">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305204500 +0200" channel="Eurosport 1">
+    <title lang="ro">Fotbal: Cupa Angliei</title>
+  </programme>
+  <programme start="20200305204500 +0200" stop="20200305214000 +0200" channel="Eurosport 1">
+    <title lang="ro">Fotbal: Cupa Angliei</title>
+  </programme>
+  <programme start="20200305214000 +0200" stop="20200305234500 +0200" channel="Eurosport 1">
+    <title lang="ro">Fotbal: Cupa Angliei</title>
+  </programme>
+  <programme start="20200305234500 +0200" stop="20200305235000 +0200" channel="Eurosport 1">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200305235000 +0200" stop="20200306002000 +0200" channel="Eurosport 1">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306002000 +0200" stop="20200306005500 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306005500 +0200" stop="20200306010000 +0200" channel="Eurosport 1">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306023000 +0200" channel="Eurosport 1">
+    <title lang="ro">Snooker: Campionatul Jucătorilor</title>
+  </programme>
+  <programme start="20200306023000 +0200" stop="20200306031500 +0200" channel="Eurosport 1">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306031500 +0200" stop="20200306040000 +0200" channel="Eurosport 1">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306040000 +0200" stop="20200306060000 +0200" channel="Eurosport 1">
+    <title lang="ro">Snooker: Campionatul Jucătorilor</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306063000 +0200" channel="Eurosport 1">
+    <title lang="ro">Ciclism: Circuitul Asiei , în  Taiwan</title>
+  </programme>
+  <programme start="20200306063000 +0200" stop="20200306073000 +0200" channel="Eurosport 1">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306083000 +0200" channel="Eurosport 1">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200306083000 +0200" stop="20200306093000 +0200" channel="Eurosport 1">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306093000 +0200" stop="20200306100000 +0200" channel="Eurosport 1">
+    <title lang="ro">Jocurile olimpice: Avanpost olimpic</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306103000 +0200" channel="Eurosport 1">
+    <title lang="ro">Jocurile olimpice: Limite de viteză</title>
+  </programme>
+  <programme start="20200306103000 +0200" stop="20200306113000 +0200" channel="Eurosport 1">
+    <title lang="ro">Jocurile olimpice: Monştrii valului</title>
+  </programme>
+  <programme start="20200306113000 +0200" stop="20200306123000 +0200" channel="Eurosport 1">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200306123000 +0200" stop="20200306133000 +0200" channel="Eurosport 1">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306140000 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în Austria</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306150000 +0200" channel="Eurosport 1">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306160000 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306163000 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în Italia</title>
+  </programme>
+  <programme start="20200306163000 +0200" stop="20200306170000 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în Austria</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306180000 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306195000 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306195000 +0200" stop="20200306202500 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în Italia</title>
+  </programme>
+  <programme start="20200306202500 +0200" stop="20200306214500 +0200" channel="Eurosport 1">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200306214500 +0200" stop="20200306215000 +0200" channel="Eurosport 1">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200306215000 +0200" stop="20200306230000 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200307000000 +0200" channel="Eurosport 1">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307001000 +0200" channel="Eurosport 1">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200307001000 +0200" stop="20200307005000 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307005000 +0200" stop="20200307013500 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307013500 +0200" stop="20200307023000 +0200" channel="Eurosport 1">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307023000 +0200" stop="20200307033000 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307033000 +0200" stop="20200307040000 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în Italia</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307050000 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în Austria</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307060000 +0200" channel="Eurosport 1">
+    <title lang="ro">Ciclism: Circuitul Mondial - Het Nieuwsblad, în Belgia</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307070000 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307074500 +0200" channel="Eurosport 1">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307074500 +0200" stop="20200307083000 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în Italia</title>
+  </programme>
+  <programme start="20200307083000 +0200" stop="20200307093000 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în Italia</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307102000 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în Austria</title>
+  </programme>
+  <programme start="20200307102000 +0200" stop="20200307105500 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200307105500 +0200" stop="20200307113000 +0200" channel="Eurosport 1">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307132500 +0200" channel="Eurosport 1">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Kvitfjell, în Norvegia</title>
+  </programme>
+  <programme start="20200307132500 +0200" stop="20200307142500 +0200" channel="Eurosport 1">
+    <title lang="ro">Fotbal: Premier League Show</title>
+  </programme>
+  <programme start="20200307142500 +0200" stop="20200307163000 +0200" channel="Eurosport 1">
+    <title lang="ro">Fotbal: Premier League</title>
+  </programme>
+  <programme start="20200307163000 +0200" stop="20200307165500 +0200" channel="Eurosport 1">
+    <title lang="ro">Fotbal: Premier League Show</title>
+  </programme>
+  <programme start="20200307165500 +0200" stop="20200307190000 +0200" channel="Eurosport 1">
+    <title lang="ro">Fotbal: Premier League</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307213000 +0200" channel="Eurosport 1">
+    <title lang="ro">Fotbal: Premier League</title>
+  </programme>
+  <programme start="20200307213000 +0200" stop="20200307222500 +0200" channel="Eurosport 1">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307222500 +0200" stop="20200307223000 +0200" channel="Eurosport 1">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200307223000 +0200" stop="20200307233000 +0200" channel="Eurosport 1">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307233000 +0200" stop="20200307233500 +0200" channel="Eurosport 1">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200307233500 +0200" stop="20200308001500 +0200" channel="Eurosport 1">
+    <title lang="ro">Ciclism: Circuitul Mondial - Strade Bianche, în Italia</title>
+  </programme>
+  <programme start="20200305143000 +0200" stop="20200305150000 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Campionatul Mondial, la Antholz, în  Italia</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305155500 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Campionatul Mondial, la Antholz, în  Italia</title>
+  </programme>
+  <programme start="20200305155500 +0200" stop="20200305163000 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Campionatul Mondial, la Antholz, în  Italia</title>
+  </programme>
+  <programme start="20200305163000 +0200" stop="20200305180500 +0200" channel="Eurosport HD">
+    <title lang="ro">Snooker: Campionatul Jucătorilor</title>
+  </programme>
+  <programme start="20200305180500 +0200" stop="20200305195500 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200305195500 +0200" stop="20200305200000 +0200" channel="Eurosport HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305204500 +0200" channel="Eurosport HD">
+    <title lang="ro">Fotbal: Cupa Angliei</title>
+  </programme>
+  <programme start="20200305204500 +0200" stop="20200305214000 +0200" channel="Eurosport HD">
+    <title lang="ro">Fotbal: Cupa Angliei</title>
+  </programme>
+  <programme start="20200305214000 +0200" stop="20200305234500 +0200" channel="Eurosport HD">
+    <title lang="ro">Fotbal: Cupa Angliei</title>
+  </programme>
+  <programme start="20200305234500 +0200" stop="20200305235000 +0200" channel="Eurosport HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200305235000 +0200" stop="20200306002000 +0200" channel="Eurosport HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306002000 +0200" stop="20200306005500 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306005500 +0200" stop="20200306010000 +0200" channel="Eurosport HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306023000 +0200" channel="Eurosport HD">
+    <title lang="ro">Snooker: Campionatul Jucătorilor</title>
+  </programme>
+  <programme start="20200306023000 +0200" stop="20200306031500 +0200" channel="Eurosport HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306031500 +0200" stop="20200306040000 +0200" channel="Eurosport HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306040000 +0200" stop="20200306060000 +0200" channel="Eurosport HD">
+    <title lang="ro">Snooker: Campionatul Jucătorilor</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306063000 +0200" channel="Eurosport HD">
+    <title lang="ro">Ciclism: Circuitul Asiei , în  Taiwan</title>
+  </programme>
+  <programme start="20200306063000 +0200" stop="20200306073000 +0200" channel="Eurosport HD">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306083000 +0200" channel="Eurosport HD">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200306083000 +0200" stop="20200306093000 +0200" channel="Eurosport HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306093000 +0200" stop="20200306100000 +0200" channel="Eurosport HD">
+    <title lang="ro">Jocurile olimpice: Avanpost olimpic</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306103000 +0200" channel="Eurosport HD">
+    <title lang="ro">Jocurile olimpice: Limite de viteză</title>
+  </programme>
+  <programme start="20200306103000 +0200" stop="20200306113000 +0200" channel="Eurosport HD">
+    <title lang="ro">Jocurile olimpice: Monştrii valului</title>
+  </programme>
+  <programme start="20200306113000 +0200" stop="20200306123000 +0200" channel="Eurosport HD">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200306123000 +0200" stop="20200306133000 +0200" channel="Eurosport HD">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306140000 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în Austria</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306150000 +0200" channel="Eurosport HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306160000 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306163000 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în Italia</title>
+  </programme>
+  <programme start="20200306163000 +0200" stop="20200306170000 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în Austria</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306180000 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306195000 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306195000 +0200" stop="20200306202500 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în Italia</title>
+  </programme>
+  <programme start="20200306202500 +0200" stop="20200306214500 +0200" channel="Eurosport HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200306214500 +0200" stop="20200306215000 +0200" channel="Eurosport HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200306215000 +0200" stop="20200306230000 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200307000000 +0200" channel="Eurosport HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307001000 +0200" channel="Eurosport HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200307001000 +0200" stop="20200307005000 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307005000 +0200" stop="20200307013500 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307013500 +0200" stop="20200307023000 +0200" channel="Eurosport HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307023000 +0200" stop="20200307033000 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307033000 +0200" stop="20200307040000 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în Italia</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307050000 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în Austria</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307060000 +0200" channel="Eurosport HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Het Nieuwsblad, în Belgia</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307070000 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307074500 +0200" channel="Eurosport HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307074500 +0200" stop="20200307083000 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în Italia</title>
+  </programme>
+  <programme start="20200307083000 +0200" stop="20200307093000 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în Italia</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307102000 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în Austria</title>
+  </programme>
+  <programme start="20200307102000 +0200" stop="20200307105500 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200307105500 +0200" stop="20200307113000 +0200" channel="Eurosport HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307132500 +0200" channel="Eurosport HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Kvitfjell, în Norvegia</title>
+  </programme>
+  <programme start="20200307132500 +0200" stop="20200307142500 +0200" channel="Eurosport HD">
+    <title lang="ro">Fotbal: Premier League Show</title>
+  </programme>
+  <programme start="20200307142500 +0200" stop="20200307163000 +0200" channel="Eurosport HD">
+    <title lang="ro">Fotbal: Premier League, în</title>
+  </programme>
+  <programme start="20200307163000 +0200" stop="20200307165500 +0200" channel="Eurosport HD">
+    <title lang="ro">Fotbal: Premier League Show</title>
+  </programme>
+  <programme start="20200307165500 +0200" stop="20200307190000 +0200" channel="Eurosport HD">
+    <title lang="ro">Fotbal: Premier League, în</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307213000 +0200" channel="Eurosport HD">
+    <title lang="ro">Fotbal: Premier League, în</title>
+  </programme>
+  <programme start="20200307213000 +0200" stop="20200307222500 +0200" channel="Eurosport HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307222500 +0200" stop="20200307223000 +0200" channel="Eurosport HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200307223000 +0200" stop="20200307233000 +0200" channel="Eurosport HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307233000 +0200" stop="20200307233500 +0200" channel="Eurosport HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200307233500 +0200" stop="20200308001500 +0200" channel="Eurosport HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Strade Bianche, în Italia</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305153000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200305153000 +0200" stop="20200305173000 +0200" channel="Eurosport 2">
+    <title lang="ro">Snooker: Campionatul PLAYERS</title>
+  </programme>
+  <programme start="20200305173000 +0200" stop="20200305184500 +0200" channel="Eurosport 2">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200305184500 +0200" stop="20200305200000 +0200" channel="Eurosport 2">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305203000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200305203000 +0200" stop="20200305213000 +0200" channel="Eurosport 2">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200305213000 +0200" stop="20200305213500 +0200" channel="Eurosport 2">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200305213500 +0200" stop="20200305223000 +0200" channel="Eurosport 2">
+    <title lang="ro">Ciclism: Circuitul Mondial - Het Nieuwsblad, în Belgia</title>
+  </programme>
+  <programme start="20200305223000 +0200" stop="20200305233000 +0200" channel="Eurosport 2">
+    <title lang="ro">Ciclism: Seria Pro, la Kuurne, în  Belgia</title>
+  </programme>
+  <programme start="20200305233000 +0200" stop="20200306003000 +0200" channel="Eurosport 2">
+    <title lang="ro">Ciclism: Turul Europei , în  Belgia</title>
+  </programme>
+  <programme start="20200306003000 +0200" stop="20200306003500 +0200" channel="Eurosport 2">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200306003500 +0200" stop="20200306013500 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi acrobatic: Cupa Mondială FIS , în  China</title>
+  </programme>
+  <programme start="20200306013500 +0200" stop="20200306023500 +0200" channel="Eurosport 2">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200306023500 +0200" stop="20200306033000 +0200" channel="Eurosport 2">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306033000 +0200" stop="20200306040000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200306040000 +0200" stop="20200306043000 +0200" channel="Eurosport 2">
+    <title lang="ro">Superbike: Campionatul Mondial, la Phillip Island, în  Australia</title>
+  </programme>
+  <programme start="20200306043000 +0200" stop="20200306050000 +0200" channel="Eurosport 2">
+    <title lang="ro">Superbike: Campionatul Mondial, la Phillip Island, în  Australia</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306053000 +0200" channel="Eurosport 2">
+    <title lang="ro">Motocros: Campionatul Mondial, la Matterley Basin, în  Regatul Unit</title>
+  </programme>
+  <programme start="20200306053000 +0200" stop="20200306060000 +0200" channel="Eurosport 2">
+    <title lang="ro">Motocros: Campionatul Mondial, la Matterley Basin, în  Regatul Unit</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306063000 +0200" channel="Eurosport 2">
+    <title lang="ro">Motocros: Campionatul Mondial, la Matterley Basin, în  Regatul Unit</title>
+  </programme>
+  <programme start="20200306063000 +0200" stop="20200306070000 +0200" channel="Eurosport 2">
+    <title lang="ro">Motocros: Campionatul Mondial, la Matterley Basin, în  Regatul Unit</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306073000 +0200" channel="Eurosport 2">
+    <title lang="ro">Jocurile olimpice: Avanpost olimpic</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306080000 +0200" channel="Eurosport 2">
+    <title lang="ro">Jocurile olimpice: Interdicţia skateboardingului norvegian</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306090000 +0200" channel="Eurosport 2">
+    <title lang="ro">Jocurile olimpice: Monştrii valului</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306100000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306110000 +0200" channel="Eurosport 2">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306113000 +0200" channel="Eurosport 2">
+    <title lang="ro">Ciclism: Circuitul Asiei , în  Taiwan</title>
+  </programme>
+  <programme start="20200306113000 +0200" stop="20200306121500 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în  Italia</title>
+  </programme>
+  <programme start="20200306121500 +0200" stop="20200306130000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în  Austria</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306140000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306150000 +0200" channel="Eurosport 2">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306161500 +0200" channel="Eurosport 2">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306161500 +0200" stop="20200306173000 +0200" channel="Eurosport 2">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306173000 +0200" stop="20200306181500 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în  Italia</title>
+  </programme>
+  <programme start="20200306181500 +0200" stop="20200306185000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în  Austria</title>
+  </programme>
+  <programme start="20200306185000 +0200" stop="20200306195000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi acrobatic: Cupa Mondială FIS , în  China</title>
+  </programme>
+  <programme start="20200306195000 +0200" stop="20200306210000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi acrobatic: Cupa Mondială FIS , în  Rusia</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306213000 +0200" channel="Eurosport 2">
+    <title lang="ro">Superbike: Campionatul Mondial, la Phillip Island, în  Australia</title>
+  </programme>
+  <programme start="20200306213000 +0200" stop="20200306220000 +0200" channel="Eurosport 2">
+    <title lang="ro">Superbike: Campionatul Mondial, la Phillip Island, în  Australia</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200306230000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200306230500 +0200" channel="Eurosport 2">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200306230500 +0200" stop="20200307000000 +0200" channel="Eurosport 2">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307010000 +0200" channel="Eurosport 2">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307010500 +0200" channel="Eurosport 2">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200307010500 +0200" stop="20200307013500 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în  Italia</title>
+  </programme>
+  <programme start="20200307013500 +0200" stop="20200307020500 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în  Austria</title>
+  </programme>
+  <programme start="20200307020500 +0200" stop="20200307040000 +0200" channel="Eurosport 2">
+    <title lang="ro">Snooker: Campionatul PLAYERS</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307050000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi acrobatic: Cupa Mondială FIS , în  China</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307060000 +0200" channel="Eurosport 2">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307070000 +0200" channel="Eurosport 2">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307080000 +0200" channel="Eurosport 2">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307090000 +0200" channel="Eurosport 2">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307095000 +0200" channel="Eurosport 2">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307095000 +0200" stop="20200307102000 +0200" channel="Eurosport 2">
+    <title lang="ro">Combinata nordică: Cupa Mondială , în  Finlanda</title>
+  </programme>
+  <programme start="20200307102000 +0200" stop="20200307105000 +0200" channel="Eurosport 2">
+    <title lang="ro">Combinata nordică: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200307105000 +0200" stop="20200307115000 +0200" channel="Eurosport 2">
+    <title lang="ro">Combinata nordică: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200307115000 +0200" stop="20200307122500 +0200" channel="Eurosport 2">
+    <title lang="ro">Ciclism: Circuitul Mondial - Het Nieuwsblad, în Belgia</title>
+  </programme>
+  <programme start="20200307122500 +0200" stop="20200307125500 +0200" channel="Eurosport 2">
+    <title lang="ro">Ciclism: Seria Pro, la Kuurne, în  Belgia</title>
+  </programme>
+  <programme start="20200307125500 +0200" stop="20200307132500 +0200" channel="Eurosport 2">
+    <title lang="ro">Ciclism: Turul Europei , în  Belgia</title>
+  </programme>
+  <programme start="20200307132500 +0200" stop="20200307142500 +0200" channel="Eurosport 2">
+    <title lang="ro">Ciclism: Strade Bianche</title>
+  </programme>
+  <programme start="20200307142500 +0200" stop="20200307145000 +0200" channel="Eurosport 2">
+    <title lang="ro">Ciclism: Circuitul Mondial - Het Nieuwsblad, în Belgia</title>
+  </programme>
+  <programme start="20200307145000 +0200" stop="20200307165000 +0200" channel="Eurosport 2">
+    <title lang="ro">Ciclism: Circuitul Mondial, la Siena, în  Italia</title>
+  </programme>
+  <programme start="20200307165000 +0200" stop="20200307175000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi alpin: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200307175000 +0200" stop="20200307183000 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi alpin: Cupa Mondială , în  Germania</title>
+  </programme>
+  <programme start="20200307183000 +0200" stop="20200307200000 +0200" channel="Eurosport 2">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307210000 +0200" channel="Eurosport 2">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307210000 +0200" stop="20200307220000 +0200" channel="Eurosport 2">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200307220500 +0200" channel="Eurosport 2">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200307220500 +0200" stop="20200307230000 +0200" channel="Eurosport 2">
+    <title lang="ro">Ciclism: Circuitul Mondial, la Siena, în  Italia</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200307234500 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi alpin: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200307234500 +0200" stop="20200308001500 +0200" channel="Eurosport 2">
+    <title lang="ro">Schi alpin: Cupa Mondială , în  Germania</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305153000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200305153000 +0200" stop="20200305173000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Snooker: Campionatul PLAYERS</title>
+  </programme>
+  <programme start="20200305173000 +0200" stop="20200305184500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200305184500 +0200" stop="20200305200000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305203000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200305203000 +0200" stop="20200305213000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200305213000 +0200" stop="20200305213500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200305213500 +0200" stop="20200305223000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Het Nieuwsblad, în Belgia</title>
+  </programme>
+  <programme start="20200305223000 +0200" stop="20200305233000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ciclism: Seria Pro, la Kuurne, în  Belgia</title>
+  </programme>
+  <programme start="20200305233000 +0200" stop="20200306003000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ciclism: Turul Europei , în  Belgia</title>
+  </programme>
+  <programme start="20200306003000 +0200" stop="20200306003500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200306003500 +0200" stop="20200306013500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi acrobatic: Cupa Mondială FIS , în  China</title>
+  </programme>
+  <programme start="20200306013500 +0200" stop="20200306023500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200306023500 +0200" stop="20200306033000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306033000 +0200" stop="20200306040000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200306040000 +0200" stop="20200306043000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Superbike: Campionatul Mondial, la Phillip Island, în  Australia</title>
+  </programme>
+  <programme start="20200306043000 +0200" stop="20200306050000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Superbike: Campionatul Mondial, la Phillip Island, în  Australia</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306053000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Motocros: Campionatul Mondial, la Matterley Basin, în  Regatul Unit</title>
+  </programme>
+  <programme start="20200306053000 +0200" stop="20200306060000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Motocros: Campionatul Mondial, la Matterley Basin, în  Regatul Unit</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306063000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Motocros: Campionatul Mondial, la Matterley Basin, în  Regatul Unit</title>
+  </programme>
+  <programme start="20200306063000 +0200" stop="20200306070000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Motocros: Campionatul Mondial, la Matterley Basin, în  Regatul Unit</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306073000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Jocurile olimpice: Avanpost olimpic</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306080000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Jocurile olimpice: Interdicţia skateboardingului norvegian</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306090000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Jocurile olimpice: Monştrii valului</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306100000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306110000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306113000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ciclism: Circuitul Asiei , în  Taiwan</title>
+  </programme>
+  <programme start="20200306113000 +0200" stop="20200306121500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în  Italia</title>
+  </programme>
+  <programme start="20200306121500 +0200" stop="20200306130000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în  Austria</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306140000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306150000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306161500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306161500 +0200" stop="20200306173000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200306173000 +0200" stop="20200306181500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în  Italia</title>
+  </programme>
+  <programme start="20200306181500 +0200" stop="20200306185000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în  Austria</title>
+  </programme>
+  <programme start="20200306185000 +0200" stop="20200306195000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi acrobatic: Cupa Mondială FIS , în  China</title>
+  </programme>
+  <programme start="20200306195000 +0200" stop="20200306210000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi acrobatic: Cupa Mondială FIS , în  Rusia</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306213000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Superbike: Campionatul Mondial, la Phillip Island, în  Australia</title>
+  </programme>
+  <programme start="20200306213000 +0200" stop="20200306220000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Superbike: Campionatul Mondial, la Phillip Island, în  Australia</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200306230000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi fond: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200306230500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200306230500 +0200" stop="20200307000000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307010000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307010500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200307010500 +0200" stop="20200307013500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la La Thuile, în  Italia</title>
+  </programme>
+  <programme start="20200307013500 +0200" stop="20200307020500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi alpin: Cupa Mondială, la Hinterstoder, în  Austria</title>
+  </programme>
+  <programme start="20200307020500 +0200" stop="20200307040000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Snooker: Campionatul PLAYERS</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307050000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi acrobatic: Cupa Mondială FIS , în  China</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307060000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307070000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Snowboard: Cupa Mondială FIS, la Blue Mountain, în  Canada</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307080000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307090000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307095000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307095000 +0200" stop="20200307102000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Combinata nordică: Cupa Mondială , în  Finlanda</title>
+  </programme>
+  <programme start="20200307102000 +0200" stop="20200307105000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Combinata nordică: Cupa Mondială, la Lahti, în  Finlanda</title>
+  </programme>
+  <programme start="20200307105000 +0200" stop="20200307115000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Combinata nordică: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200307115000 +0200" stop="20200307122500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Het Nieuwsblad, în Belgia</title>
+  </programme>
+  <programme start="20200307122500 +0200" stop="20200307125500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ciclism: Seria Pro, la Kuurne, în  Belgia</title>
+  </programme>
+  <programme start="20200307125500 +0200" stop="20200307132500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ciclism: Turul Europei , în  Belgia</title>
+  </programme>
+  <programme start="20200307132500 +0200" stop="20200307142500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ciclism: Strade Bianche</title>
+  </programme>
+  <programme start="20200307142500 +0200" stop="20200307145000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial - Het Nieuwsblad, în Belgia</title>
+  </programme>
+  <programme start="20200307145000 +0200" stop="20200307165000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial, la Siena, în  Italia</title>
+  </programme>
+  <programme start="20200307165000 +0200" stop="20200307175000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi alpin: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200307175000 +0200" stop="20200307183000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi alpin: Cupa Mondială , în  Germania</title>
+  </programme>
+  <programme start="20200307183000 +0200" stop="20200307200000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307210000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307210000 +0200" stop="20200307220000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200307220500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ştirile Eurosport</title>
+  </programme>
+  <programme start="20200307220500 +0200" stop="20200307230000 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Ciclism: Circuitul Mondial, la Siena, în  Italia</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200307234500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi alpin: Cupa Mondială , în  Norvegia</title>
+  </programme>
+  <programme start="20200307234500 +0200" stop="20200308001500 +0200" channel="Eurosport 2 HD">
+    <title lang="ro">Schi alpin: Cupa Mondială , în  Germania</title>
+  </programme>
+  <programme start="20200305143000 +0200" stop="20200305150000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Footbal Stars</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305160000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305180000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Primiera Liga: Famalicao - Sporting</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305190000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Rezumatele etapei La Liga</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305193000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Rezumate handbal, Liga Campionilor</title>
+  </programme>
+  <programme start="20200305193000 +0200" stop="20200305213000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal La Liga: Real Madrid - Barcelona</title>
+  </programme>
+  <programme start="20200305213000 +0200" stop="20200305214500 +0200" channel="LOOK SPORT">
+    <title lang="ro">STARURILE SERIE A</title>
+  </programme>
+  <programme start="20200305214500 +0200" stop="20200305234500 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Coppa Italia: Napoli - Inter</title>
+  </programme>
+  <programme start="20200305234500 +0200" stop="20200306004500 +0200" channel="LOOK SPORT">
+    <title lang="ro">Protestul etapei</title>
+  </programme>
+  <programme start="20200306004500 +0200" stop="20200306014500 +0200" channel="LOOK SPORT">
+    <title lang="ro">Rezumatele etapei La Liga</title>
+  </programme>
+  <programme start="20200306014500 +0200" stop="20200306024500 +0200" channel="LOOK SPORT">
+    <title lang="ro">Rezumatele etapei Super Lig</title>
+  </programme>
+  <programme start="20200306024500 +0200" stop="20200306034500 +0200" channel="LOOK SPORT">
+    <title lang="ro">Rezumatele etapei Ligue 1</title>
+  </programme>
+  <programme start="20200306034500 +0200" stop="20200306044500 +0200" channel="LOOK SPORT">
+    <title lang="ro">Serie A Highlights Show</title>
+  </programme>
+  <programme start="20200306044500 +0200" stop="20200306050000 +0200" channel="LOOK SPORT">
+    <title lang="ro">La Liga Extra Time</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306070000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Cupa României: Academica Clinceni – FC Dinamo Bucerești</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306073000 +0200" channel="LOOK SPORT">
+    <title lang="ro">The art of flight</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306083000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Rezumatele etapei La Liga</title>
+  </programme>
+  <programme start="20200306083000 +0200" stop="20200306093000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Serie A Highlights Show</title>
+  </programme>
+  <programme start="20200306093000 +0200" stop="20200306100000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306120000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Cupa României: FC Hermannstadt - FCSB</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306123000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Serie Full Impact</title>
+  </programme>
+  <programme start="20200306123000 +0200" stop="20200306133000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Rezumatele etapei Bundesliga</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306143000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306143000 +0200" stop="20200306150000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Footbal Stars</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306160000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306170000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Rezumatele etapei La Liga</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306173000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Rezumate handbal, Liga Campionilor</title>
+  </programme>
+  <programme start="20200306173000 +0200" stop="20200306193000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Liga 2: Mioveni – Gloria Buzău</title>
+  </programme>
+  <programme start="20200306193000 +0200" stop="20200306200000 +0200" channel="LOOK SPORT">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306203000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Serie Full Impact</title>
+  </programme>
+  <programme start="20200306203000 +0200" stop="20200306210000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Bundesliga Weekly</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306230000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Bundesliga: Paderborn - Koln</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200306233000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Ligue 1 Show</title>
+  </programme>
+  <programme start="20200306233000 +0200" stop="20200307013000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Liga 1: AFC Astra Giurgiu – FC Botoșani</title>
+  </programme>
+  <programme start="20200307013000 +0200" stop="20200307033000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal La Liga: Alaves - Valencia</title>
+  </programme>
+  <programme start="20200307033000 +0200" stop="20200307053000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Super Lig: Beșiktaș - Ankaragucu</title>
+  </programme>
+  <programme start="20200307053000 +0200" stop="20200307073000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Bundesliga: Paderborn - Koln</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307080000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Ligue 1 Show</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307081500 +0200" channel="LOOK SPORT">
+    <title lang="ro">Ştirile Look Sport</title>
+  </programme>
+  <programme start="20200307081500 +0200" stop="20200307084500 +0200" channel="LOOK SPORT">
+    <title lang="ro">Bundesliga Weekly</title>
+  </programme>
+  <programme start="20200307084500 +0200" stop="20200307090000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Ştirile Look Sport</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307093000 +0200" channel="LOOK SPORT">
+    <title lang="ro">La Liga Show</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307100000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307110000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Protestul etapei</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307120000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Serie A Highlights Show</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307140000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307143000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Magazin UEFA Europa League</title>
+  </programme>
+  <programme start="20200307143000 +0200" stop="20200307163000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Liga 1: Academica Clinceni – FC Viitorul</title>
+  </programme>
+  <programme start="20200307163000 +0200" stop="20200307183000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Bundesliga: Leverkusen - Frankfurt</title>
+  </programme>
+  <programme start="20200307183000 +0200" stop="20200307190000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Inside Serie A</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307193000 +0200" channel="LOOK SPORT">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200307193000 +0200" stop="20200307213000 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Serie A: Barcelona – Real Sociedad</title>
+  </programme>
+  <programme start="20200307213000 +0200" stop="20200307214500 +0200" channel="LOOK SPORT">
+    <title lang="ro">MATADORII LA LIGA</title>
+  </programme>
+  <programme start="20200307214500 +0200" stop="20200307234500 +0200" channel="LOOK SPORT">
+    <title lang="ro">Fotbal Campionatul Olandei: Heerenveen – Ajax</title>
+  </programme>
+  <programme start="20200307234500 +0200" stop="20200308000000 +0200" channel="LOOK SPORT">
+    <title lang="ro">MATADORII LA LIGA</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305150000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumate La Liga</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305160000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Matching Champions</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305170000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Ligue 1</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305173000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200305173000 +0200" stop="20200305180000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Serie A Full Impact</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305190000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Super Lig</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305200000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Bundesliga</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305210000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Matching Champions</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200305220000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Ligue 1</title>
+  </programme>
+  <programme start="20200305220000 +0200" stop="20200305223000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200305223000 +0200" stop="20200305230000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Serie A Full Impact</title>
+  </programme>
+  <programme start="20200305230000 +0200" stop="20200306010000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Cupa Turciei: Trabzonspor – Fenerbache</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306030000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Primeira Liga: Benfica Lisabona – Moreirense</title>
+  </programme>
+  <programme start="20200306030000 +0200" stop="20200306050000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Cupa României: FC Hermannstadt – FCSB</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306070000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Serie A: Cagliari – AS Roma</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306090000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Liga 1: FC CFR Cluj – AFC Astra Giurgiu</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306103000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Liga Campionilor Handbal Feminin: Metz – CSM București</title>
+  </programme>
+  <programme start="20200306103000 +0200" stop="20200306120000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Liga Campionilor Handbal Masculin: Dinamo – Sporting</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306133000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Liga Campionilor Handbal Feminin: CSM Râmnicu Vâlcea – Savehoff</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306140000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Ligii 1</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306160000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal La Liga: Real Madrid – Barcelona</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306180000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Eredivisie: Ajax – AZ Alkmaar</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306190000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Super Lig</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306210000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Super Lig: Besiktas – Ankaragucu</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306213000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Magazin Uefa Champions League</title>
+  </programme>
+  <programme start="20200306213000 +0200" stop="20200306220000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">La Liga Show: Avancronica etapei La Liga</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200307000000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal La Liga: Alaves – Valencia</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307003000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">La Liga Show: Avancronica etapei La Liga</title>
+  </programme>
+  <programme start="20200307003000 +0200" stop="20200307010000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumate Handbal Liga Campionilor</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307013000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Bundesliga Weekly: Avancronica etapei Bundesliga</title>
+  </programme>
+  <programme start="20200307013000 +0200" stop="20200307020000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Inside Serie A: Avancronica etapei Serie A</title>
+  </programme>
+  <programme start="20200307020000 +0200" stop="20200307023000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">The art of flight</title>
+  </programme>
+  <programme start="20200307023000 +0200" stop="20200307033000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Matching Champions</title>
+  </programme>
+  <programme start="20200307033000 +0200" stop="20200307040000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Football Stars</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307043000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200307043000 +0200" stop="20200307050000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Ligii 1</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307053000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">La Liga Show: Avancronica etapei La Liga</title>
+  </programme>
+  <programme start="20200307053000 +0200" stop="20200307060000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Ligue 1 Show: Avancronica etapei Ligue 1</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307063000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Bundesliga Weekly: Avancronica etapei Bundesliga</title>
+  </programme>
+  <programme start="20200307063000 +0200" stop="20200307070000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Inside Serie A: Avancronica etapei Serie A</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307073000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">The art of flight</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307083000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Matching Champions</title>
+  </programme>
+  <programme start="20200307083000 +0200" stop="20200307090000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Football Stars</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307093000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Serie A Full Impact</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307100000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Ligue 1 Show: Avancronica etapei Ligue 1</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307103000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200307103000 +0200" stop="20200307110000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Bundesliga Weekly: Avancronica etapei Bundesliga</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307113000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Magazin Uefa Champions League</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307133000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Ligue 1: Nimes – Marseille</title>
+  </programme>
+  <programme start="20200307133000 +0200" stop="20200307153000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Bundesliga: Parderborn – Koln</title>
+  </programme>
+  <programme start="20200307153000 +0200" stop="20200307160000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumate Handbal Liga Campionilor</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307163000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Bundesliga Weekly: Avancronica etapei Bundesliga</title>
+  </programme>
+  <programme start="20200307163000 +0200" stop="20200307170000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">La Liga Show: Avancronica etapei La Liga</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307190000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal La Liga: Atletico Madrid – Sevilla</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307210000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Serie A: Atalanta – Lazio</title>
+  </programme>
+  <programme start="20200307210000 +0200" stop="20200307230000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Ligue 1: Nice – AS Monaco</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200308003000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Liga Campionilor Handbal Feminin: Gyor – CSM Râmnicu Vâlcea</title>
+  </programme>
+  <programme start="20200305133000 +0200" stop="20200305150000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Liga Campionilor Handbal Feminin: Dinamo – Sporting</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305163000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Liga Campionilor Handbal Feminin: CSM Râmnicu Vâlcea - Savehof</title>
+  </programme>
+  <programme start="20200305163000 +0200" stop="20200305190000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Patinaj artisitc: Turneul celor 4 continente</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305221500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Patinaj artisitc: Turneul celor 4 continente</title>
+  </programme>
+  <programme start="20200305221500 +0200" stop="20200306014500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Patinaj artisitc: Turneul celor 4 continente</title>
+  </programme>
+  <programme start="20200306014500 +0200" stop="20200306041500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Patinaj artisitc: Turneul celor 4 continente</title>
+  </programme>
+  <programme start="20200306041500 +0200" stop="20200306043000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">LIGUE 1 EXTRA TIME</title>
+  </programme>
+  <programme start="20200306043000 +0200" stop="20200306050000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306070000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Uefa Europa League: Sevilla – FC CFR Cluj</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306090000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Eredivisie: PSV – Feyenoord</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306110000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal La Liga: Real Madrid – Barcelona</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306120000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Serie A Highlights Show</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306130000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Rezumatele Etapei Super Lig</title>
+  </programme>
+  <programme start="20200306130000 +0200" stop="20200306140000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Rezumate La Liga</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306150000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">REZUMATELE ETAPEI LIGUE 1</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306160000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Protestul Etapei cu Dragoș Pătraru</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306161500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Ligue 1 Extra Time</title>
+  </programme>
+  <programme start="20200306161500 +0200" stop="20200306164500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">The art of flight</title>
+  </programme>
+  <programme start="20200306164500 +0200" stop="20200306171500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200306171500 +0200" stop="20200306191500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Bundesliga: Werder Bremen – Frankfurt</title>
+  </programme>
+  <programme start="20200306191500 +0200" stop="20200306211500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Campionatul Cehiei: Slovacko – Slavia Praga</title>
+  </programme>
+  <programme start="20200306211500 +0200" stop="20200306214500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Ligue 1 Show: Avancronica etapei Ligue 1</title>
+  </programme>
+  <programme start="20200306214500 +0200" stop="20200306234500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Ligue 1: Marseille – Amines</title>
+  </programme>
+  <programme start="20200306234500 +0200" stop="20200307000000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Ligue 1 Extra Time</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307020000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Liga 2: CS Mioveni – Gloria Buzău</title>
+  </programme>
+  <programme start="20200307020000 +0200" stop="20200307023000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200307023000 +0200" stop="20200307030000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">La Liga Show: Avancronica etapei La Liga</title>
+  </programme>
+  <programme start="20200307030000 +0200" stop="20200307033000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Ligue 1 Show: Avancronica etapei Ligue 1</title>
+  </programme>
+  <programme start="20200307033000 +0200" stop="20200307040000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Bundesliga Weekly: Avancronica etapei Bundesliga</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307060000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Liga 1: AFC Astra Giurgiu – FC Botoșani</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307070000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Protestul Etapei cu Dragoș Pătraru</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307073000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Inside Serie A: Avancronica etapei Serie A</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307093000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Liga 2: CS Mioveni – Gloria Buzău</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307113000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Super Lig: Besiktas – Ankaragucu</title>
+  </programme>
+  <programme start="20200307113000 +0200" stop="20200307130000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Liga Campionilor Handbal Feminin: Metz – CSM București</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307150000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal La Liga: Alaves – Valencia</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307160000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Rezumatele Etapei Super Lig</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307180000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Super Lig: Gaziantep – Trabzonspor</title>
+  </programme>
+  <programme start="20200307180000 +0200" stop="20200307183000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Magazin Uefa Europa League</title>
+  </programme>
+  <programme start="20200307183000 +0200" stop="20200307193000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Matching Champions</title>
+  </programme>
+  <programme start="20200307193000 +0200" stop="20200307213000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Bundesliga: Gladbach – Dortmund</title>
+  </programme>
+  <programme start="20200307213000 +0200" stop="20200307220000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Magazin Uefa Champions League</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200308000000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal La Liga: Getafe – Celta Vigo</title>
+  </programme>
+  <programme start="20200305133000 +0200" stop="20200305153000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Cupa României: Petrolul Ploiești – ACS Sepsi OSK Sf. Gheorghe</title>
+  </programme>
+  <programme start="20200305153000 +0200" stop="20200305160000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305180000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Cupa României: Poli Iași – CS U Craiova</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305183000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Magazin UEFA Champions League</title>
+  </programme>
+  <programme start="20200305183000 +0200" stop="20200305190000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305193000 +0200" channel="LOOK PLUS">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200305193000 +0200" stop="20200305200000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Serie Full Impact</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305220000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Liga 1: FC Hermannstadt - FCSB</title>
+  </programme>
+  <programme start="20200305220000 +0200" stop="20200305223000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200305223000 +0200" stop="20200306003000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Cupa României: FC Hermannstadt - FCSB</title>
+  </programme>
+  <programme start="20200306003000 +0200" stop="20200306023000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Coppa Italia: Napoli – Inter Milan</title>
+  </programme>
+  <programme start="20200306023000 +0200" stop="20200306043000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Cupa României: Poli Iași – CS U Craiova</title>
+  </programme>
+  <programme start="20200306043000 +0200" stop="20200306053000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Rezumatele etapei Bundesliga</title>
+  </programme>
+  <programme start="20200306053000 +0200" stop="20200306060000 +0200" channel="LOOK PLUS">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306063000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Serie Full Impact</title>
+  </programme>
+  <programme start="20200306063000 +0200" stop="20200306070000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306071500 +0200" channel="LOOK PLUS">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306071500 +0200" stop="20200306074500 +0200" channel="LOOK PLUS">
+    <title lang="ro">Rezumatele etapei Ligii 1</title>
+  </programme>
+  <programme start="20200306074500 +0200" stop="20200306081500 +0200" channel="LOOK PLUS">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200306081500 +0200" stop="20200306084500 +0200" channel="LOOK PLUS">
+    <title lang="ro">Serie Full Impact</title>
+  </programme>
+  <programme start="20200306084500 +0200" stop="20200306090000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306091500 +0200" channel="LOOK PLUS">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306091500 +0200" stop="20200306093000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200306093000 +0200" stop="20200306100000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Bundesliga Weekly</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306103000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Rezumate handbal, Liga Campionilor</title>
+  </programme>
+  <programme start="20200306103000 +0200" stop="20200306110000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306120000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Matching Champions</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306133000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306153000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Coppa Italia: Napoli – Inter Milan</title>
+  </programme>
+  <programme start="20200306153000 +0200" stop="20200306160000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306180000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Cupa României: FC Hermannstadt - FCSB</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306183000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Bundesliga Weekly</title>
+  </programme>
+  <programme start="20200306183000 +0200" stop="20200306190000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306193000 +0200" channel="LOOK PLUS">
+    <title lang="ro">La Liga Show</title>
+  </programme>
+  <programme start="20200306193000 +0200" stop="20200306200000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Inside Serie A</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306203000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Rezumatele etapei Ligii 1</title>
+  </programme>
+  <programme start="20200306203000 +0200" stop="20200306223000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Liga 1: AFC Astra Giurgiu – FC Botoșani</title>
+  </programme>
+  <programme start="20200306223000 +0200" stop="20200306233000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Protestul etapei</title>
+  </programme>
+  <programme start="20200306233000 +0200" stop="20200307000000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307003000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Bundesliga Weekly</title>
+  </programme>
+  <programme start="20200307003000 +0200" stop="20200307010000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Ligue 1 Show</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307020000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Protestul etapei</title>
+  </programme>
+  <programme start="20200307020000 +0200" stop="20200307040000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Ligue 1: Marseille - Amiens</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307043000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Rezumate handbal, Liga Campionilor</title>
+  </programme>
+  <programme start="20200307043000 +0200" stop="20200307053000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307053000 +0200" stop="20200307060000 +0200" channel="LOOK PLUS">
+    <title lang="ro">La Liga Show</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307063000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Inside Serie A</title>
+  </programme>
+  <programme start="20200307063000 +0200" stop="20200307070000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307071500 +0200" channel="LOOK PLUS">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307071500 +0200" stop="20200307073000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307080000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Magazin UEFA Champions League</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307090000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Protestul etapei</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307091500 +0200" channel="LOOK PLUS">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307091500 +0200" stop="20200307093000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307100000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Inside Serie A</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307103000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Agenda Look Medica</title>
+  </programme>
+  <programme start="20200307103000 +0200" stop="20200307120000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307140000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Liga 2: Farul Constanța – Turris Oltul Turnu Măgurele</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307160000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal La Liga: Eibar – Mallorca</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307163000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Bundesliga Weekly</title>
+  </programme>
+  <programme start="20200307163000 +0200" stop="20200307170000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Rezumate handbal, Liga Campionilor</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307183000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Handbal feminin, Liga Campionilor: Gyor – Rm. Vâlcea</title>
+  </programme>
+  <programme start="20200307183000 +0200" stop="20200307190000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Magazin UEFA Champions League</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307203000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Handbal feminin, Liga Campionilor: CSM București – Kristianstadt</title>
+  </programme>
+  <programme start="20200307203000 +0200" stop="20200307210000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200307210000 +0200" stop="20200307230000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Liga 1: Poli Iași – FC Dinamo București</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200308010000 +0200" channel="LOOK PLUS">
+    <title lang="ro">Fotbal Bundesliga: M'gladbach – Dortmund</title>
+  </programme>
+  <programme start="20200305133000 +0200" stop="20200305153000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Cupa României: Petrolul Ploiești – ACS Sepsi OSK Sf. Gheorghe</title>
+  </programme>
+  <programme start="20200305153000 +0200" stop="20200305160000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305180000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Cupa României: Poli Iași – CS U Craiova</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305183000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Magazin UEFA Champions League</title>
+  </programme>
+  <programme start="20200305183000 +0200" stop="20200305190000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305193000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200305193000 +0200" stop="20200305200000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Serie Full Impact</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305220000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Liga 1: FC Hermannstadt - FCSB</title>
+  </programme>
+  <programme start="20200305220000 +0200" stop="20200305223000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200305223000 +0200" stop="20200306003000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Cupa României: FC Hermannstadt - FCSB</title>
+  </programme>
+  <programme start="20200306003000 +0200" stop="20200306023000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Coppa Italia: Napoli – Inter Milan</title>
+  </programme>
+  <programme start="20200306023000 +0200" stop="20200306043000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Cupa României: Poli Iași – CS U Craiova</title>
+  </programme>
+  <programme start="20200306043000 +0200" stop="20200306053000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Rezumatele etapei Bundesliga</title>
+  </programme>
+  <programme start="20200306053000 +0200" stop="20200306060000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306063000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Serie Full Impact</title>
+  </programme>
+  <programme start="20200306063000 +0200" stop="20200306070000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306071500 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306071500 +0200" stop="20200306074500 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Rezumatele etapei Ligii 1</title>
+  </programme>
+  <programme start="20200306074500 +0200" stop="20200306081500 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">La Liga World</title>
+  </programme>
+  <programme start="20200306081500 +0200" stop="20200306084500 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Serie Full Impact</title>
+  </programme>
+  <programme start="20200306084500 +0200" stop="20200306090000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306091500 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306091500 +0200" stop="20200306093000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200306093000 +0200" stop="20200306100000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Bundesliga Weekly</title>
+  </programme>
+  <programme start="20200306100000 +0200" stop="20200306103000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Rezumate handbal, Liga Campionilor</title>
+  </programme>
+  <programme start="20200306103000 +0200" stop="20200306110000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306120000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Matching Champions</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306133000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306153000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Coppa Italia: Napoli – Inter Milan</title>
+  </programme>
+  <programme start="20200306153000 +0200" stop="20200306160000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306180000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Cupa României: FC Hermannstadt - FCSB</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306183000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Bundesliga Weekly</title>
+  </programme>
+  <programme start="20200306183000 +0200" stop="20200306190000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306193000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">La Liga Show</title>
+  </programme>
+  <programme start="20200306193000 +0200" stop="20200306200000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Inside Serie A</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306203000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Rezumatele etapei Ligii 1</title>
+  </programme>
+  <programme start="20200306203000 +0200" stop="20200306223000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Liga 1: AFC Astra Giurgiu – FC Botoșani</title>
+  </programme>
+  <programme start="20200306223000 +0200" stop="20200306233000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Protestul etapei</title>
+  </programme>
+  <programme start="20200306233000 +0200" stop="20200307000000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307003000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Bundesliga Weekly</title>
+  </programme>
+  <programme start="20200307003000 +0200" stop="20200307010000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Ligue 1 Show</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307020000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Protestul etapei</title>
+  </programme>
+  <programme start="20200307020000 +0200" stop="20200307040000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Ligue 1: Marseille - Amiens</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307043000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Rezumate handbal, Liga Campionilor</title>
+  </programme>
+  <programme start="20200307043000 +0200" stop="20200307053000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307053000 +0200" stop="20200307060000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">La Liga Show</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307063000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Inside Serie A</title>
+  </programme>
+  <programme start="20200307063000 +0200" stop="20200307070000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307071500 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307071500 +0200" stop="20200307073000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307080000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Magazin UEFA Champions League</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307090000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Protestul etapei</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307091500 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307091500 +0200" stop="20200307093000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307100000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Inside Serie A</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307103000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Agenda Look Medica</title>
+  </programme>
+  <programme start="20200307103000 +0200" stop="20200307120000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307140000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Liga 2: Farul Constanța – Turris Oltul Turnu Măgurele</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307160000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal La Liga: Eibar – Mallorca</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307163000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Bundesliga Weekly</title>
+  </programme>
+  <programme start="20200307163000 +0200" stop="20200307170000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Rezumate handbal, Liga Campionilor</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307183000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Handbal feminin, Liga Campionilor: Gyor – Rm. Vâlcea</title>
+  </programme>
+  <programme start="20200307183000 +0200" stop="20200307190000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Magazin UEFA Champions League</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307203000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Handbal feminin, Liga Campionilor: CSM București – Kristianstadt</title>
+  </programme>
+  <programme start="20200307203000 +0200" stop="20200307210000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Știrile Look Plus</title>
+  </programme>
+  <programme start="20200307210000 +0200" stop="20200307230000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Liga 1: Poli Iași – FC Dinamo București</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200308010000 +0200" channel="LOOK PLUS HD">
+    <title lang="ro">Fotbal Bundesliga: M'gladbach – Dortmund</title>
   </programme>
 </tv>
