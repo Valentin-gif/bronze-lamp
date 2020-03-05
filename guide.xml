@@ -68,6 +68,14 @@
     <display-name lang="ro">România TV</display-name>
     <url>http://www.program24.ro</url>
   </channel>
+  <channel id="Antena3">
+    <display-name lang="ro">Antena3</display-name>
+    <url>http://www.digiromania.ro</url>
+  </channel>
+  <channel id="Antena 3 HD">
+    <display-name lang="ro">Antena 3 HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
   <programme start="20200305140000 +0200" stop="20200305160000 +0200" channel="Antena 1">
     <title lang="ro">Dragoste de tată</title>
   </programme>
@@ -3250,5 +3258,242 @@
   </programme>
   <programme start="20200307230000 +0200" stop="20200308000000 +0200" channel="România TV">
     <title lang="ro">Ştirile România TV 23:00</title>
+  </programme>
+  <programme start="20200305060000 +0200" stop="20200305104000 +0200" channel="Antena3">
+    <title lang="ro">Stirile diminetii</title>
+  </programme>
+  <programme start="20200305104000 +0200" stop="20200305120000 +0200" channel="Antena3">
+    <title lang="ro">Pe cuvant</title>
+  </programme>
+  <programme start="20200305120000 +0200" stop="20200305140000 +0200" channel="Antena3">
+    <title lang="ro">Obiectiv</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305160000 +0200" channel="Antena3">
+    <title lang="ro">Esential</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305170000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200306000000 +0200" channel="Antena3">
+    <title lang="ro">Editie speciala</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306010000 +0200" channel="Antena3">
+    <title lang="ro">.</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306040000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200306040000 +0200" stop="20200306045000 +0200" channel="Antena3">
+    <title lang="ro">In gura presei</title>
+  </programme>
+  <programme start="20200306045000 +0200" stop="20200306060000 +0200" channel="Antena3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306104000 +0200" channel="Antena3">
+    <title lang="ro">Stirile diminetii</title>
+  </programme>
+  <programme start="20200306104000 +0200" stop="20200306120000 +0200" channel="Antena3">
+    <title lang="ro">Pe cuvant</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306140000 +0200" channel="Antena3">
+    <title lang="ro">Obiectiv</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306160000 +0200" channel="Antena3">
+    <title lang="ro">Esential</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306170000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306200000 +0200" channel="Antena3">
+    <title lang="ro">Editie speciala</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306230000 +0200" channel="Antena3">
+    <title lang="ro">Subiectiv fata in fata</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200307000000 +0200" channel="Antena3">
+    <title lang="ro">Dar si har</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307032000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200307032000 +0200" stop="20200307040000 +0200" channel="Antena3">
+    <title lang="ro">De-a viata ascunselea</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307045000 +0200" channel="Antena3">
+    <title lang="ro">Dar si har</title>
+  </programme>
+  <programme start="20200307045000 +0200" stop="20200307060000 +0200" channel="Antena3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307090000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307093000 +0200" channel="Antena3">
+    <title lang="ro">Agricool</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307110000 +0200" channel="Antena3">
+    <title lang="ro">BeEU</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307120000 +0200" channel="Antena3">
+    <title lang="ro">News Magazine</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307130000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307140000 +0200" channel="Antena3">
+    <title lang="ro">News Magazine</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307150000 +0200" channel="Antena3">
+    <title lang="ro">De-a viata ascunselea</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307160000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307170000 +0200" channel="Antena3">
+    <title lang="ro">Conspiratii</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307180000 +0200" channel="Antena3">
+    <title lang="ro">Linia Intai</title>
+  </programme>
+  <programme start="20200307180000 +0200" stop="20200307213000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200307213000 +0200" stop="20200308000000 +0200" channel="Antena3">
+    <title lang="ro">Se intampla in Romania</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305160000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Esențial</title>
+  </programme>
+  <programme start="20200305160000 +0200" stop="20200305170000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Ştiri</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305190000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Ediție specială</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305210000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Punctul de întâlnire</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200306000000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Sinteza zilei</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306010000 +0200" channel="Antena 3 HD">
+    <title lang="ro">În gura presei</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306013000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Ştiri</title>
+  </programme>
+  <programme start="20200306013000 +0200" stop="20200306030000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Sinteza zilei</title>
+  </programme>
+  <programme start="20200306030000 +0200" stop="20200306040000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Sinteza zilei</title>
+  </programme>
+  <programme start="20200306040000 +0200" stop="20200306045000 +0200" channel="Antena 3 HD">
+    <title lang="ro">În gura presei</title>
+  </programme>
+  <programme start="20200306045000 +0200" stop="20200306060000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306090000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Știrile dimineții</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306104000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Previziuni</title>
+  </programme>
+  <programme start="20200306104000 +0200" stop="20200306110000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Pe cuvant</title>
+  </programme>
+  <programme start="20200306110000 +0200" stop="20200306120000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Previziuni</title>
+  </programme>
+  <programme start="20200306120000 +0200" stop="20200306140000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Obiectiv</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306160000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Esențial</title>
+  </programme>
+  <programme start="20200306160000 +0200" stop="20200306170000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306190000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Ediție specială</title>
+  </programme>
+  <programme start="20200306190000 +0200" stop="20200306200000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Punctul de întâlnire</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306210000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Subiectiv fata in fata</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306230000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Exces de putere</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200307000000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Dar si har</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307010000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Ştiri</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307023000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Exces de putere</title>
+  </programme>
+  <programme start="20200307023000 +0200" stop="20200307032000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Conspiratii</title>
+  </programme>
+  <programme start="20200307032000 +0200" stop="20200307040000 +0200" channel="Antena 3 HD">
+    <title lang="ro">De-a viata ascunselea</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307045000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Dar si har</title>
+  </programme>
+  <programme start="20200307045000 +0200" stop="20200307060000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307090000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Ştiri</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307093000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Agricool cu Andreea Stroe</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307100000 +0200" channel="Antena 3 HD">
+    <title lang="ro">BeEU</title>
+  </programme>
+  <programme start="20200307100000 +0200" stop="20200307110000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Income Magazine</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307120000 +0200" channel="Antena 3 HD">
+    <title lang="ro">News Magazine</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307130000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Ştiri</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307140000 +0200" channel="Antena 3 HD">
+    <title lang="ro">News Magazine</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307150000 +0200" channel="Antena 3 HD">
+    <title lang="ro">De-a viata ascunselea</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307160000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Ştiri</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307170000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Conspirații</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307180000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Linia Intai</title>
+  </programme>
+  <programme start="20200307180000 +0200" stop="20200307184500 +0200" channel="Antena 3 HD">
+    <title lang="ro">Ştiri</title>
+  </programme>
+  <programme start="20200307184500 +0200" stop="20200307203000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Adevaruri ascunse</title>
+  </programme>
+  <programme start="20200307203000 +0200" stop="20200307213000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Voi cu Voicu</title>
+  </programme>
+  <programme start="20200307213000 +0200" stop="20200307230000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Se întâmplă în România</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200308000000 +0200" channel="Antena 3 HD">
+    <title lang="ro">Descoperiti</title>
   </programme>
 </tv>
