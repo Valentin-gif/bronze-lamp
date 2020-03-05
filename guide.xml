@@ -76,6 +76,10 @@
     <display-name lang="ro">Antena 3 HD</display-name>
     <url>http://www.program24.ro</url>
   </channel>
+  <channel id="Profit.ro">
+    <display-name lang="ro">Profit.ro</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
   <programme start="20200305140000 +0200" stop="20200305160000 +0200" channel="Antena 1">
     <title lang="ro">Dragoste de tată</title>
   </programme>
@@ -1426,9 +1430,6 @@
   <programme start="20200307230000 +0200" stop="20200308010000 +0200" channel="Prima TV">
     <title lang="ro">Filantropica</title>
   </programme>
-  <programme start="20200305140000 +0200" stop="20200305141500 +0200" channel="National TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
   <programme start="20200305141500 +0200" stop="20200305143000 +0200" channel="National TV">
     <title lang="ro">Vouă</title>
   </programme>
@@ -1614,9 +1615,6 @@
   </programme>
   <programme start="20200307234500 +0200" stop="20200308014500 +0200" channel="National TV">
     <title lang="ro">Poama acră</title>
-  </programme>
-  <programme start="20200305134500 +0200" stop="20200305141500 +0200" channel="National 24 Plus">
-    <title lang="ro">Baronii</title>
   </programme>
   <programme start="20200305141500 +0200" stop="20200305143000 +0200" channel="National 24 Plus">
     <title lang="ro">Vouă</title>
@@ -1890,9 +1888,6 @@
   </programme>
   <programme start="20200307234500 +0200" stop="20200308001500 +0200" channel="National 24 Plus">
     <title lang="ro">Vouă</title>
-  </programme>
-  <programme start="20200305140000 +0200" stop="20200305141500 +0200" channel="B1 TV">
-    <title lang="ro">Teleshopping</title>
   </programme>
   <programme start="20200305141500 +0200" stop="20200305143000 +0200" channel="B1 TV">
     <title lang="ro">Vouă</title>
@@ -3495,5 +3490,233 @@
   </programme>
   <programme start="20200307230000 +0200" stop="20200308000000 +0200" channel="Antena 3 HD">
     <title lang="ro">Descoperiti</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305150000 +0200" channel="Profit.ro">
+    <title lang="ro">Decizii la Vârf</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305153000 +0200" channel="Profit.ro">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200305153000 +0200" stop="20200305163000 +0200" channel="Profit.ro">
+    <title lang="ro">Inside Profit</title>
+  </programme>
+  <programme start="20200305163000 +0200" stop="20200305170000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305173000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit Live</title>
+  </programme>
+  <programme start="20200305173000 +0200" stop="20200305180000 +0200" channel="Profit.ro">
+    <title lang="ro">Dialoguri de Valoare</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305183000 +0200" channel="Profit.ro">
+    <title lang="ro">Feel the Markets</title>
+  </programme>
+  <programme start="20200305183000 +0200" stop="20200305190000 +0200" channel="Profit.ro">
+    <title lang="ro">Profil de Companie</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305200000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News</title>
+  </programme>
+  <programme start="20200305200000 +0200" stop="20200305210000 +0200" channel="Profit.ro">
+    <title lang="ro">Back in Business</title>
+  </programme>
+  <programme start="20200305210000 +0200" stop="20200305213000 +0200" channel="Profit.ro">
+    <title lang="ro">Profil de Companie</title>
+  </programme>
+  <programme start="20200305213000 +0200" stop="20200305220000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News</title>
+  </programme>
+  <programme start="20200305220000 +0200" stop="20200305230000 +0200" channel="Profit.ro">
+    <title lang="ro">Antreprenor de România</title>
+  </programme>
+  <programme start="20200305230000 +0200" stop="20200305233000 +0200" channel="Profit.ro">
+    <title lang="ro">Feel the Markets</title>
+  </programme>
+  <programme start="20200305233000 +0200" stop="20200306000000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News</title>
+  </programme>
+  <programme start="20200306000000 +0200" stop="20200306010000 +0200" channel="Profit.ro">
+    <title lang="ro">Back in Business</title>
+  </programme>
+  <programme start="20200306010000 +0200" stop="20200306020000 +0200" channel="Profit.ro">
+    <title lang="ro">Antreprenor de România</title>
+  </programme>
+  <programme start="20200306020000 +0200" stop="20200306023000 +0200" channel="Profit.ro">
+    <title lang="ro">Dialoguri de Valoare</title>
+  </programme>
+  <programme start="20200306023000 +0200" stop="20200306033000 +0200" channel="Profit.ro">
+    <title lang="ro">Inside Profit</title>
+  </programme>
+  <programme start="20200306033000 +0200" stop="20200306040000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit Live</title>
+  </programme>
+  <programme start="20200306040000 +0200" stop="20200306050000 +0200" channel="Profit.ro">
+    <title lang="ro">Decizii la Vârf</title>
+  </programme>
+  <programme start="20200306050000 +0200" stop="20200306060000 +0200" channel="Profit.ro">
+    <title lang="ro">Back in Business</title>
+  </programme>
+  <programme start="20200306060000 +0200" stop="20200306070000 +0200" channel="Profit.ro">
+    <title lang="ro">Inside Profit</title>
+  </programme>
+  <programme start="20200306070000 +0200" stop="20200306073000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News</title>
+  </programme>
+  <programme start="20200306073000 +0200" stop="20200306080000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit Live</title>
+  </programme>
+  <programme start="20200306080000 +0200" stop="20200306090000 +0200" channel="Profit.ro">
+    <title lang="ro">Back in Business</title>
+  </programme>
+  <programme start="20200306090000 +0200" stop="20200306123000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News</title>
+  </programme>
+  <programme start="20200306123000 +0200" stop="20200306133000 +0200" channel="Profit.ro">
+    <title lang="ro">Back in Business</title>
+  </programme>
+  <programme start="20200306133000 +0200" stop="20200306140000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News</title>
+  </programme>
+  <programme start="20200306140000 +0200" stop="20200306143000 +0200" channel="Profit.ro">
+    <title lang="ro">Decizii la Vârf</title>
+  </programme>
+  <programme start="20200306143000 +0200" stop="20200306150000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit Live</title>
+  </programme>
+  <programme start="20200306150000 +0200" stop="20200306153000 +0200" channel="Profit.ro">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200306153000 +0200" stop="20200306163000 +0200" channel="Profit.ro">
+    <title lang="ro">Inside Profit</title>
+  </programme>
+  <programme start="20200306163000 +0200" stop="20200306170000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News</title>
+  </programme>
+  <programme start="20200306170000 +0200" stop="20200306180000 +0200" channel="Profit.ro">
+    <title lang="ro">România te privește</title>
+  </programme>
+  <programme start="20200306180000 +0200" stop="20200306183000 +0200" channel="Profit.ro">
+    <title lang="ro">Feel the Markets</title>
+  </programme>
+  <programme start="20200306183000 +0200" stop="20200306193000 +0200" channel="Profit.ro">
+    <title lang="ro">Inside Profit</title>
+  </programme>
+  <programme start="20200306193000 +0200" stop="20200306200000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News</title>
+  </programme>
+  <programme start="20200306200000 +0200" stop="20200306210000 +0200" channel="Profit.ro">
+    <title lang="ro">Back in Business</title>
+  </programme>
+  <programme start="20200306210000 +0200" stop="20200306213000 +0200" channel="Profit.ro">
+    <title lang="ro">Profil de Companie</title>
+  </programme>
+  <programme start="20200306213000 +0200" stop="20200306220000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News</title>
+  </programme>
+  <programme start="20200306220000 +0200" stop="20200306230000 +0200" channel="Profit.ro">
+    <title lang="ro">Antreprenor de România</title>
+  </programme>
+  <programme start="20200306230000 +0200" stop="20200306233000 +0200" channel="Profit.ro">
+    <title lang="ro">Feel the Markets</title>
+  </programme>
+  <programme start="20200306233000 +0200" stop="20200307000000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News</title>
+  </programme>
+  <programme start="20200307000000 +0200" stop="20200307010000 +0200" channel="Profit.ro">
+    <title lang="ro">Back in Business</title>
+  </programme>
+  <programme start="20200307010000 +0200" stop="20200307020000 +0200" channel="Profit.ro">
+    <title lang="ro">Antreprenor de România</title>
+  </programme>
+  <programme start="20200307020000 +0200" stop="20200307023000 +0200" channel="Profit.ro">
+    <title lang="ro">Dialoguri de Valoare</title>
+  </programme>
+  <programme start="20200307023000 +0200" stop="20200307033000 +0200" channel="Profit.ro">
+    <title lang="ro">Inside Profit</title>
+  </programme>
+  <programme start="20200307033000 +0200" stop="20200307040000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit Live</title>
+  </programme>
+  <programme start="20200307040000 +0200" stop="20200307050000 +0200" channel="Profit.ro">
+    <title lang="ro">Decizii la Vârf</title>
+  </programme>
+  <programme start="20200307050000 +0200" stop="20200307060000 +0200" channel="Profit.ro">
+    <title lang="ro">Back in Business</title>
+  </programme>
+  <programme start="20200307060000 +0200" stop="20200307070000 +0200" channel="Profit.ro">
+    <title lang="ro">Inside Profit</title>
+  </programme>
+  <programme start="20200307070000 +0200" stop="20200307073000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News - Retrospectivă</title>
+  </programme>
+  <programme start="20200307073000 +0200" stop="20200307080000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit Live</title>
+  </programme>
+  <programme start="20200307080000 +0200" stop="20200307090000 +0200" channel="Profit.ro">
+    <title lang="ro">Back in Business</title>
+  </programme>
+  <programme start="20200307090000 +0200" stop="20200307093000 +0200" channel="Profit.ro">
+    <title lang="ro">Dialoguri de Valoare</title>
+  </programme>
+  <programme start="20200307093000 +0200" stop="20200307103000 +0200" channel="Profit.ro">
+    <title lang="ro">Inside Profit</title>
+  </programme>
+  <programme start="20200307103000 +0200" stop="20200307110000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit Live</title>
+  </programme>
+  <programme start="20200307110000 +0200" stop="20200307120000 +0200" channel="Profit.ro">
+    <title lang="ro">Antreprenor de România</title>
+  </programme>
+  <programme start="20200307120000 +0200" stop="20200307123000 +0200" channel="Profit.ro">
+    <title lang="ro">Profil de Companie</title>
+  </programme>
+  <programme start="20200307123000 +0200" stop="20200307130000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit Live</title>
+  </programme>
+  <programme start="20200307130000 +0200" stop="20200307133000 +0200" channel="Profit.ro">
+    <title lang="ro">Feel the Markets</title>
+  </programme>
+  <programme start="20200307133000 +0200" stop="20200307140000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News - Retrospectivă</title>
+  </programme>
+  <programme start="20200307140000 +0200" stop="20200307150000 +0200" channel="Profit.ro">
+    <title lang="ro">Decizii la Vârf</title>
+  </programme>
+  <programme start="20200307150000 +0200" stop="20200307160000 +0200" channel="Profit.ro">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200307160000 +0200" stop="20200307163000 +0200" channel="Profit.ro">
+    <title lang="ro">Looking for Coaching</title>
+  </programme>
+  <programme start="20200307163000 +0200" stop="20200307170000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News - Retrospectivă</title>
+  </programme>
+  <programme start="20200307170000 +0200" stop="20200307173000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit Live</title>
+  </programme>
+  <programme start="20200307173000 +0200" stop="20200307190000 +0200" channel="Profit.ro">
+    <title lang="ro">România te privește</title>
+  </programme>
+  <programme start="20200307190000 +0200" stop="20200307193000 +0200" channel="Profit.ro">
+    <title lang="ro">Antreprenor de România</title>
+  </programme>
+  <programme start="20200307193000 +0200" stop="20200307200000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News - Retrospectivă</title>
+  </programme>
+  <programme start="20200307200000 +0200" stop="20200307210000 +0200" channel="Profit.ro">
+    <title lang="ro">Back in Business</title>
+  </programme>
+  <programme start="20200307210000 +0200" stop="20200307213000 +0200" channel="Profit.ro">
+    <title lang="ro">Profil de Companie</title>
+  </programme>
+  <programme start="20200307213000 +0200" stop="20200307220000 +0200" channel="Profit.ro">
+    <title lang="ro">Profit News - Retrospectivă</title>
+  </programme>
+  <programme start="20200307220000 +0200" stop="20200307230000 +0200" channel="Profit.ro">
+    <title lang="ro">Antreprenor de România</title>
+  </programme>
+  <programme start="20200307230000 +0200" stop="20200307233000 +0200" channel="Profit.ro">
+    <title lang="ro">Feel the Markets</title>
   </programme>
 </tv>
