@@ -52,8 +52,8 @@
     <display-name lang="ro">Pro TV</display-name>
     <url>http://www.point.md</url>
   </channel>
-  <channel id="Digi 24">
-    <display-name lang="ro">Digi 24</display-name>
+  <channel id="Digi 24 HD">
+    <display-name lang="ro">Digi 24 HD</display-name>
     <url>http://www.program24.ro</url>
   </channel>
   <channel id="REALITATEA TV">
@@ -740,9 +740,6 @@
   </programme>
   <programme start="20200310230000 +0200" stop="20200311000000 +0200" channel="PRO X">
     <title lang="ro">Da-i bataie! Local Kombat</title>
-  </programme>
-  <programme start="20200305145500 +0200" stop="20200305151000 +0200" channel="TVR 1">
-    <title lang="ro">Vorbeşte corect!</title>
   </programme>
   <programme start="20200305151000 +0200" stop="20200305164500 +0200" channel="TVR 1">
     <title lang="ro">Akzente</title>
@@ -3606,9 +3603,6 @@
   <programme start="20200310231500 +0200" stop="20200311011500 +0200" channel="National TV">
     <title lang="ro">Cu pretul sangelui</title>
   </programme>
-  <programme start="20200305150000 +0200" stop="20200305151500 +0200" channel="National 24 Plus">
-    <title lang="ro">Teleshopping</title>
-  </programme>
   <programme start="20200305151500 +0200" stop="20200305153000 +0200" channel="National 24 Plus">
     <title lang="ro">Clipuri</title>
   </programme>
@@ -4854,439 +4848,439 @@
   <programme start="20200309044000 +0200" stop="20200309070000 +0200" channel="Pro TV">
     <title lang="ro">Femeie fantastica</title>
   </programme>
-  <programme start="20200305150000 +0200" stop="20200305160000 +0200" channel="Digi 24">
+  <programme start="20200305150000 +0200" stop="20200305160000 +0200" channel="Digi 24 HD">
     <title lang="ro">Studio politic</title>
   </programme>
-  <programme start="20200305160000 +0200" stop="20200305170000 +0200" channel="Digi 24">
+  <programme start="20200305160000 +0200" stop="20200305170000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200305170000 +0200" stop="20200305174000 +0200" channel="Digi 24">
+  <programme start="20200305170000 +0200" stop="20200305174000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200305174000 +0200" stop="20200305180000 +0200" channel="Digi 24">
+  <programme start="20200305174000 +0200" stop="20200305180000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200305180000 +0200" stop="20200305190000 +0200" channel="Digi 24">
+  <programme start="20200305180000 +0200" stop="20200305190000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200305190000 +0200" stop="20200305194500 +0200" channel="Digi 24">
+  <programme start="20200305190000 +0200" stop="20200305194500 +0200" channel="Digi 24 HD">
     <title lang="ro">Business Club</title>
   </programme>
-  <programme start="20200305194500 +0200" stop="20200305200000 +0200" channel="Digi 24">
+  <programme start="20200305194500 +0200" stop="20200305200000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal sport</title>
   </programme>
-  <programme start="20200305200000 +0200" stop="20200305230000 +0200" channel="Digi 24">
+  <programme start="20200305200000 +0200" stop="20200305230000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnalul de seară</title>
   </programme>
-  <programme start="20200305230000 +0200" stop="20200306000000 +0200" channel="Digi 24">
+  <programme start="20200305230000 +0200" stop="20200306000000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200306000000 +0200" stop="20200306003000 +0200" channel="Digi 24">
+  <programme start="20200306000000 +0200" stop="20200306003000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile serii</title>
   </programme>
-  <programme start="20200306003000 +0200" stop="20200306010000 +0200" channel="Digi 24">
+  <programme start="20200306003000 +0200" stop="20200306010000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal economic</title>
   </programme>
-  <programme start="20200306010000 +0200" stop="20200306040000 +0200" channel="Digi 24">
+  <programme start="20200306010000 +0200" stop="20200306040000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnalul de seară</title>
   </programme>
-  <programme start="20200306040000 +0200" stop="20200306050000 +0200" channel="Digi 24">
+  <programme start="20200306040000 +0200" stop="20200306050000 +0200" channel="Digi 24 HD">
     <title lang="ro">Studio politic</title>
   </programme>
-  <programme start="20200306050000 +0200" stop="20200306070000 +0200" channel="Digi 24">
+  <programme start="20200306050000 +0200" stop="20200306070000 +0200" channel="Digi 24 HD">
     <title lang="ro">Business Club</title>
   </programme>
-  <programme start="20200306070000 +0200" stop="20200306090000 +0200" channel="Digi 24">
+  <programme start="20200306070000 +0200" stop="20200306090000 +0200" channel="Digi 24 HD">
     <title lang="ro">Digimatinal</title>
   </programme>
-  <programme start="20200306090000 +0200" stop="20200306100000 +0200" channel="Digi 24">
+  <programme start="20200306090000 +0200" stop="20200306100000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200306100000 +0200" stop="20200306110000 +0200" channel="Digi 24">
+  <programme start="20200306100000 +0200" stop="20200306110000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200306110000 +0200" stop="20200306113000 +0200" channel="Digi 24">
+  <programme start="20200306110000 +0200" stop="20200306113000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200306113000 +0200" stop="20200306120000 +0200" channel="Digi 24">
+  <programme start="20200306113000 +0200" stop="20200306120000 +0200" channel="Digi 24 HD">
     <title lang="ro">Paşaport diplomatic</title>
   </programme>
-  <programme start="20200306120000 +0200" stop="20200306130000 +0200" channel="Digi 24">
+  <programme start="20200306120000 +0200" stop="20200306130000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200306130000 +0200" stop="20200306133000 +0200" channel="Digi 24">
+  <programme start="20200306130000 +0200" stop="20200306133000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200306133000 +0200" stop="20200306140000 +0200" channel="Digi 24">
+  <programme start="20200306133000 +0200" stop="20200306140000 +0200" channel="Digi 24 HD">
     <title lang="ro">Banii în mișcare</title>
   </programme>
-  <programme start="20200306140000 +0200" stop="20200306144000 +0200" channel="Digi 24">
+  <programme start="20200306140000 +0200" stop="20200306144000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200306144000 +0200" stop="20200306150000 +0200" channel="Digi 24">
+  <programme start="20200306144000 +0200" stop="20200306150000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200306150000 +0200" stop="20200306160000 +0200" channel="Digi 24">
+  <programme start="20200306150000 +0200" stop="20200306160000 +0200" channel="Digi 24 HD">
     <title lang="ro">Studio politic</title>
   </programme>
-  <programme start="20200306160000 +0200" stop="20200306170000 +0200" channel="Digi 24">
+  <programme start="20200306160000 +0200" stop="20200306170000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200306170000 +0200" stop="20200306174000 +0200" channel="Digi 24">
+  <programme start="20200306170000 +0200" stop="20200306174000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200306174000 +0200" stop="20200306180000 +0200" channel="Digi 24">
+  <programme start="20200306174000 +0200" stop="20200306180000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200306180000 +0200" stop="20200306190000 +0200" channel="Digi 24">
+  <programme start="20200306180000 +0200" stop="20200306190000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200306190000 +0200" stop="20200306194500 +0200" channel="Digi 24">
+  <programme start="20200306190000 +0200" stop="20200306194500 +0200" channel="Digi 24 HD">
     <title lang="ro">Business Club</title>
   </programme>
-  <programme start="20200306194500 +0200" stop="20200306200000 +0200" channel="Digi 24">
+  <programme start="20200306194500 +0200" stop="20200306200000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal sport</title>
   </programme>
-  <programme start="20200306200000 +0200" stop="20200306213000 +0200" channel="Digi 24">
+  <programme start="20200306200000 +0200" stop="20200306213000 +0200" channel="Digi 24 HD">
     <title lang="ro">Cap limpede</title>
   </programme>
-  <programme start="20200306213000 +0200" stop="20200306220000 +0200" channel="Digi 24">
+  <programme start="20200306213000 +0200" stop="20200306220000 +0200" channel="Digi 24 HD">
     <title lang="ro">Focus Europa</title>
   </programme>
-  <programme start="20200306220000 +0200" stop="20200306230000 +0200" channel="Digi 24">
+  <programme start="20200306220000 +0200" stop="20200306230000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile serii</title>
   </programme>
-  <programme start="20200306230000 +0200" stop="20200307000000 +0200" channel="Digi 24">
+  <programme start="20200306230000 +0200" stop="20200307000000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile serii</title>
   </programme>
-  <programme start="20200307000000 +0200" stop="20200307003000 +0200" channel="Digi 24">
+  <programme start="20200307000000 +0200" stop="20200307003000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile serii</title>
   </programme>
-  <programme start="20200307003000 +0200" stop="20200307010000 +0200" channel="Digi 24">
+  <programme start="20200307003000 +0200" stop="20200307010000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal economic</title>
   </programme>
-  <programme start="20200307010000 +0200" stop="20200307023000 +0200" channel="Digi 24">
+  <programme start="20200307010000 +0200" stop="20200307023000 +0200" channel="Digi 24 HD">
     <title lang="ro">Cap limpede</title>
   </programme>
-  <programme start="20200307023000 +0200" stop="20200307030000 +0200" channel="Digi 24">
+  <programme start="20200307023000 +0200" stop="20200307030000 +0200" channel="Digi 24 HD">
     <title lang="ro">La Volan</title>
   </programme>
-  <programme start="20200307030000 +0200" stop="20200307040000 +0200" channel="Digi 24">
+  <programme start="20200307030000 +0200" stop="20200307040000 +0200" channel="Digi 24 HD">
     <title lang="ro">Studio politic</title>
   </programme>
-  <programme start="20200307040000 +0200" stop="20200307050000 +0200" channel="Digi 24">
+  <programme start="20200307040000 +0200" stop="20200307050000 +0200" channel="Digi 24 HD">
     <title lang="ro">Digipedia</title>
   </programme>
-  <programme start="20200307050000 +0200" stop="20200307060000 +0200" channel="Digi 24">
+  <programme start="20200307050000 +0200" stop="20200307060000 +0200" channel="Digi 24 HD">
     <title lang="ro">Business Club</title>
   </programme>
-  <programme start="20200307060000 +0200" stop="20200307063000 +0200" channel="Digi 24">
+  <programme start="20200307060000 +0200" stop="20200307063000 +0200" channel="Digi 24 HD">
     <title lang="ro">Focus Europa</title>
   </programme>
-  <programme start="20200307063000 +0200" stop="20200307070000 +0200" channel="Digi 24">
+  <programme start="20200307063000 +0200" stop="20200307070000 +0200" channel="Digi 24 HD">
     <title lang="ro">Focus România</title>
   </programme>
-  <programme start="20200307070000 +0200" stop="20200307080000 +0200" channel="Digi 24">
+  <programme start="20200307070000 +0200" stop="20200307080000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200307080000 +0200" stop="20200307090000 +0200" channel="Digi 24">
+  <programme start="20200307080000 +0200" stop="20200307090000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200307090000 +0200" stop="20200307100000 +0200" channel="Digi 24">
+  <programme start="20200307090000 +0200" stop="20200307100000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200307100000 +0200" stop="20200307110000 +0200" channel="Digi 24">
+  <programme start="20200307100000 +0200" stop="20200307110000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200307110000 +0200" stop="20200307114000 +0200" channel="Digi 24">
+  <programme start="20200307110000 +0200" stop="20200307114000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200307114000 +0200" stop="20200307120000 +0200" channel="Digi 24">
+  <programme start="20200307114000 +0200" stop="20200307120000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200307120000 +0200" stop="20200307123000 +0200" channel="Digi 24">
+  <programme start="20200307120000 +0200" stop="20200307123000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200307123000 +0200" stop="20200307130000 +0200" channel="Digi 24">
+  <programme start="20200307123000 +0200" stop="20200307130000 +0200" channel="Digi 24 HD">
     <title lang="ro">La Volan</title>
   </programme>
-  <programme start="20200307130000 +0200" stop="20200307140000 +0200" channel="Digi 24">
+  <programme start="20200307130000 +0200" stop="20200307140000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal știri</title>
   </programme>
-  <programme start="20200307140000 +0200" stop="20200307150000 +0200" channel="Digi 24">
+  <programme start="20200307140000 +0200" stop="20200307150000 +0200" channel="Digi 24 HD">
     <title lang="ro">În faţa ta</title>
   </programme>
-  <programme start="20200307150000 +0200" stop="20200307154000 +0200" channel="Digi 24">
+  <programme start="20200307150000 +0200" stop="20200307154000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200307154000 +0200" stop="20200307160000 +0200" channel="Digi 24">
+  <programme start="20200307154000 +0200" stop="20200307160000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200307160000 +0200" stop="20200307170000 +0200" channel="Digi 24">
+  <programme start="20200307160000 +0200" stop="20200307170000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200307170000 +0200" stop="20200307173000 +0200" channel="Digi 24">
+  <programme start="20200307170000 +0200" stop="20200307173000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200307173000 +0200" stop="20200307180000 +0200" channel="Digi 24">
+  <programme start="20200307173000 +0200" stop="20200307180000 +0200" channel="Digi 24 HD">
     <title lang="ro">Tinereţe fără Bătrâneţe</title>
   </programme>
-  <programme start="20200307180000 +0200" stop="20200307184000 +0200" channel="Digi 24">
+  <programme start="20200307180000 +0200" stop="20200307184000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal de sinteză</title>
   </programme>
-  <programme start="20200307184000 +0200" stop="20200307190000 +0200" channel="Digi 24">
+  <programme start="20200307184000 +0200" stop="20200307190000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200307190000 +0200" stop="20200307193000 +0200" channel="Digi 24">
+  <programme start="20200307190000 +0200" stop="20200307193000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile serii</title>
   </programme>
-  <programme start="20200307193000 +0200" stop="20200307200000 +0200" channel="Digi 24">
+  <programme start="20200307193000 +0200" stop="20200307200000 +0200" channel="Digi 24 HD">
     <title lang="ro">Focus Europa</title>
   </programme>
-  <programme start="20200307200000 +0200" stop="20200307210000 +0200" channel="Digi 24">
+  <programme start="20200307200000 +0200" stop="20200307210000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile serii</title>
   </programme>
-  <programme start="20200307210000 +0200" stop="20200307233000 +0200" channel="Digi 24">
+  <programme start="20200307210000 +0200" stop="20200307233000 +0200" channel="Digi 24 HD">
     <title lang="ro">Vis de ianuarie</title>
   </programme>
-  <programme start="20200307233000 +0200" stop="20200308000000 +0200" channel="Digi 24">
+  <programme start="20200307233000 +0200" stop="20200308000000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile serii</title>
   </programme>
-  <programme start="20200308000000 +0200" stop="20200308010000 +0200" channel="Digi 24">
+  <programme start="20200308000000 +0200" stop="20200308010000 +0200" channel="Digi 24 HD">
     <title lang="ro">În faţa ta</title>
   </programme>
-  <programme start="20200308010000 +0200" stop="20200308020000 +0200" channel="Digi 24">
+  <programme start="20200308010000 +0200" stop="20200308020000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri ora 18.00</title>
   </programme>
-  <programme start="20200308020000 +0200" stop="20200308023000 +0200" channel="Digi 24">
+  <programme start="20200308020000 +0200" stop="20200308023000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri ora 19:00</title>
   </programme>
-  <programme start="20200308023000 +0200" stop="20200308030000 +0200" channel="Digi 24">
+  <programme start="20200308023000 +0200" stop="20200308030000 +0200" channel="Digi 24 HD">
     <title lang="ro">Focus Europa</title>
   </programme>
-  <programme start="20200308030000 +0200" stop="20200308040000 +0200" channel="Digi 24">
+  <programme start="20200308030000 +0200" stop="20200308040000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri ora 16.00</title>
   </programme>
-  <programme start="20200308040000 +0200" stop="20200308043000 +0200" channel="Digi 24">
+  <programme start="20200308040000 +0200" stop="20200308043000 +0200" channel="Digi 24 HD">
     <title lang="ro">La Volan</title>
   </programme>
-  <programme start="20200308043000 +0200" stop="20200308050000 +0200" channel="Digi 24">
+  <programme start="20200308043000 +0200" stop="20200308050000 +0200" channel="Digi 24 HD">
     <title lang="ro">Tinereţe fără Bătrâneţe</title>
   </programme>
-  <programme start="20200308050000 +0200" stop="20200308060000 +0200" channel="Digi 24">
+  <programme start="20200308050000 +0200" stop="20200308060000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri ora 20:00</title>
   </programme>
-  <programme start="20200308060000 +0200" stop="20200308070000 +0200" channel="Digi 24">
+  <programme start="20200308060000 +0200" stop="20200308070000 +0200" channel="Digi 24 HD">
     <title lang="ro">În faţa ta</title>
   </programme>
-  <programme start="20200308070000 +0200" stop="20200308080000 +0200" channel="Digi 24">
+  <programme start="20200308070000 +0200" stop="20200308080000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200308080000 +0200" stop="20200308090000 +0200" channel="Digi 24">
+  <programme start="20200308080000 +0200" stop="20200308090000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200308090000 +0200" stop="20200308100000 +0200" channel="Digi 24">
+  <programme start="20200308090000 +0200" stop="20200308100000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200308100000 +0200" stop="20200308110000 +0200" channel="Digi 24">
+  <programme start="20200308100000 +0200" stop="20200308110000 +0200" channel="Digi 24 HD">
     <title lang="ro">Agro Jurnal</title>
   </programme>
-  <programme start="20200308110000 +0200" stop="20200308113000 +0200" channel="Digi 24">
+  <programme start="20200308110000 +0200" stop="20200308113000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200308113000 +0200" stop="20200308120000 +0200" channel="Digi 24">
+  <programme start="20200308113000 +0200" stop="20200308120000 +0200" channel="Digi 24 HD">
     <title lang="ro">2.0 Gadget</title>
   </programme>
-  <programme start="20200308120000 +0200" stop="20200308123000 +0200" channel="Digi 24">
+  <programme start="20200308120000 +0200" stop="20200308123000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200308123000 +0200" stop="20200308130000 +0200" channel="Digi 24">
+  <programme start="20200308123000 +0200" stop="20200308130000 +0200" channel="Digi 24 HD">
     <title lang="ro">Sănătatea în bucate</title>
   </programme>
-  <programme start="20200308130000 +0200" stop="20200308140000 +0200" channel="Digi 24">
+  <programme start="20200308130000 +0200" stop="20200308140000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal știri</title>
   </programme>
-  <programme start="20200308140000 +0200" stop="20200308150000 +0200" channel="Digi 24">
+  <programme start="20200308140000 +0200" stop="20200308150000 +0200" channel="Digi 24 HD">
     <title lang="ro">În faţa ta</title>
   </programme>
-  <programme start="20200308150000 +0200" stop="20200308154000 +0200" channel="Digi 24">
+  <programme start="20200308150000 +0200" stop="20200308154000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200308154000 +0200" stop="20200308160000 +0200" channel="Digi 24">
+  <programme start="20200308154000 +0200" stop="20200308160000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200308160000 +0200" stop="20200308170000 +0200" channel="Digi 24">
+  <programme start="20200308160000 +0200" stop="20200308170000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200308170000 +0200" stop="20200308180000 +0200" channel="Digi 24">
+  <programme start="20200308170000 +0200" stop="20200308180000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200308180000 +0200" stop="20200308184000 +0200" channel="Digi 24">
+  <programme start="20200308180000 +0200" stop="20200308184000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal de sinteză</title>
   </programme>
-  <programme start="20200308184000 +0200" stop="20200308190000 +0200" channel="Digi 24">
+  <programme start="20200308184000 +0200" stop="20200308190000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200308190000 +0200" stop="20200308193000 +0200" channel="Digi 24">
+  <programme start="20200308190000 +0200" stop="20200308193000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile serii</title>
   </programme>
-  <programme start="20200308193000 +0200" stop="20200308200000 +0200" channel="Digi 24">
+  <programme start="20200308193000 +0200" stop="20200308200000 +0200" channel="Digi 24 HD">
     <title lang="ro">Focus România</title>
   </programme>
-  <programme start="20200308200000 +0200" stop="20200308230000 +0200" channel="Digi 24">
+  <programme start="20200308200000 +0200" stop="20200308230000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnalul de seară</title>
   </programme>
-  <programme start="20200308230000 +0200" stop="20200309000000 +0200" channel="Digi 24">
+  <programme start="20200308230000 +0200" stop="20200309000000 +0200" channel="Digi 24 HD">
     <title lang="ro">Digipedia</title>
   </programme>
-  <programme start="20200309000000 +0200" stop="20200309030000 +0200" channel="Digi 24">
+  <programme start="20200309000000 +0200" stop="20200309030000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnalul de seară</title>
   </programme>
-  <programme start="20200309030000 +0200" stop="20200309040000 +0200" channel="Digi 24">
+  <programme start="20200309030000 +0200" stop="20200309040000 +0200" channel="Digi 24 HD">
     <title lang="ro">Digipedia</title>
   </programme>
-  <programme start="20200309040000 +0200" stop="20200309043000 +0200" channel="Digi 24">
+  <programme start="20200309040000 +0200" stop="20200309043000 +0200" channel="Digi 24 HD">
     <title lang="ro">2.0 Gadget</title>
   </programme>
-  <programme start="20200309043000 +0200" stop="20200309050000 +0200" channel="Digi 24">
+  <programme start="20200309043000 +0200" stop="20200309050000 +0200" channel="Digi 24 HD">
     <title lang="ro">Focus România</title>
   </programme>
-  <programme start="20200309050000 +0200" stop="20200309055000 +0200" channel="Digi 24">
+  <programme start="20200309050000 +0200" stop="20200309055000 +0200" channel="Digi 24 HD">
     <title lang="ro">În faţa ta</title>
   </programme>
-  <programme start="20200309055000 +0200" stop="20200309070000 +0200" channel="Digi 24">
+  <programme start="20200309055000 +0200" stop="20200309070000 +0200" channel="Digi 24 HD">
     <title lang="ro">Digimatinal</title>
   </programme>
-  <programme start="20200309070000 +0200" stop="20200309090000 +0200" channel="Digi 24">
+  <programme start="20200309070000 +0200" stop="20200309090000 +0200" channel="Digi 24 HD">
     <title lang="ro">Digimatinal</title>
   </programme>
-  <programme start="20200309090000 +0200" stop="20200309100000 +0200" channel="Digi 24">
+  <programme start="20200309090000 +0200" stop="20200309100000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="Digi 24">
+  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200309110000 +0200" stop="20200309114500 +0200" channel="Digi 24">
+  <programme start="20200309110000 +0200" stop="20200309114500 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200309114500 +0200" stop="20200309120000 +0200" channel="Digi 24">
+  <programme start="20200309114500 +0200" stop="20200309120000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal sport</title>
   </programme>
-  <programme start="20200309120000 +0200" stop="20200309130000 +0200" channel="Digi 24">
+  <programme start="20200309120000 +0200" stop="20200309130000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200309130000 +0200" stop="20200309133000 +0200" channel="Digi 24">
+  <programme start="20200309130000 +0200" stop="20200309133000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200309133000 +0200" stop="20200309140000 +0200" channel="Digi 24">
+  <programme start="20200309133000 +0200" stop="20200309140000 +0200" channel="Digi 24 HD">
     <title lang="ro">Banii în mișcare</title>
   </programme>
-  <programme start="20200309140000 +0200" stop="20200309144000 +0200" channel="Digi 24">
+  <programme start="20200309140000 +0200" stop="20200309144000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200309144000 +0200" stop="20200309150000 +0200" channel="Digi 24">
+  <programme start="20200309144000 +0200" stop="20200309150000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="Digi 24">
+  <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="Digi 24 HD">
     <title lang="ro">Studio politic</title>
   </programme>
-  <programme start="20200309160000 +0200" stop="20200309170000 +0200" channel="Digi 24">
+  <programme start="20200309160000 +0200" stop="20200309170000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200309170000 +0200" stop="20200309174000 +0200" channel="Digi 24">
+  <programme start="20200309170000 +0200" stop="20200309174000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200309174000 +0200" stop="20200309180000 +0200" channel="Digi 24">
+  <programme start="20200309174000 +0200" stop="20200309180000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200309180000 +0200" stop="20200309190000 +0200" channel="Digi 24">
+  <programme start="20200309180000 +0200" stop="20200309190000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200309190000 +0200" stop="20200309194500 +0200" channel="Digi 24">
+  <programme start="20200309190000 +0200" stop="20200309194500 +0200" channel="Digi 24 HD">
     <title lang="ro">Business Club</title>
   </programme>
-  <programme start="20200309194500 +0200" stop="20200309200000 +0200" channel="Digi 24">
+  <programme start="20200309194500 +0200" stop="20200309200000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal sport</title>
   </programme>
-  <programme start="20200309200000 +0200" stop="20200309230000 +0200" channel="Digi 24">
+  <programme start="20200309200000 +0200" stop="20200309230000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnalul de seară</title>
   </programme>
-  <programme start="20200309230000 +0200" stop="20200310000000 +0200" channel="Digi 24">
+  <programme start="20200309230000 +0200" stop="20200310000000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200310000000 +0200" stop="20200310003000 +0200" channel="Digi 24">
+  <programme start="20200310000000 +0200" stop="20200310003000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile serii</title>
   </programme>
-  <programme start="20200310003000 +0200" stop="20200310010000 +0200" channel="Digi 24">
+  <programme start="20200310003000 +0200" stop="20200310010000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal economic</title>
   </programme>
-  <programme start="20200310010000 +0200" stop="20200310040000 +0200" channel="Digi 24">
+  <programme start="20200310010000 +0200" stop="20200310040000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnalul de seară</title>
   </programme>
-  <programme start="20200310040000 +0200" stop="20200310050000 +0200" channel="Digi 24">
+  <programme start="20200310040000 +0200" stop="20200310050000 +0200" channel="Digi 24 HD">
     <title lang="ro">Studio politic</title>
   </programme>
-  <programme start="20200310050000 +0200" stop="20200310055000 +0200" channel="Digi 24">
+  <programme start="20200310050000 +0200" stop="20200310055000 +0200" channel="Digi 24 HD">
     <title lang="ro">Business Club</title>
   </programme>
-  <programme start="20200310055000 +0200" stop="20200310070000 +0200" channel="Digi 24">
+  <programme start="20200310055000 +0200" stop="20200310070000 +0200" channel="Digi 24 HD">
     <title lang="ro">Digimatinal</title>
   </programme>
-  <programme start="20200310070000 +0200" stop="20200310090000 +0200" channel="Digi 24">
+  <programme start="20200310070000 +0200" stop="20200310090000 +0200" channel="Digi 24 HD">
     <title lang="ro">Digimatinal</title>
   </programme>
-  <programme start="20200310090000 +0200" stop="20200310100000 +0200" channel="Digi 24">
+  <programme start="20200310090000 +0200" stop="20200310100000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200310100000 +0200" stop="20200310110000 +0200" channel="Digi 24">
+  <programme start="20200310100000 +0200" stop="20200310110000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200310110000 +0200" stop="20200310114500 +0200" channel="Digi 24">
+  <programme start="20200310110000 +0200" stop="20200310114500 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile dimineții</title>
   </programme>
-  <programme start="20200310114500 +0200" stop="20200310120000 +0200" channel="Digi 24">
+  <programme start="20200310114500 +0200" stop="20200310120000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal sport</title>
   </programme>
-  <programme start="20200310120000 +0200" stop="20200310130000 +0200" channel="Digi 24">
+  <programme start="20200310120000 +0200" stop="20200310130000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200310130000 +0200" stop="20200310133000 +0200" channel="Digi 24">
+  <programme start="20200310130000 +0200" stop="20200310133000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200310133000 +0200" stop="20200310140000 +0200" channel="Digi 24">
+  <programme start="20200310133000 +0200" stop="20200310140000 +0200" channel="Digi 24 HD">
     <title lang="ro">Banii în mișcare</title>
   </programme>
-  <programme start="20200310140000 +0200" stop="20200310144000 +0200" channel="Digi 24">
+  <programme start="20200310140000 +0200" stop="20200310144000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile amiezii</title>
   </programme>
-  <programme start="20200310144000 +0200" stop="20200310150000 +0200" channel="Digi 24">
+  <programme start="20200310144000 +0200" stop="20200310150000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200310150000 +0200" stop="20200310160000 +0200" channel="Digi 24">
+  <programme start="20200310150000 +0200" stop="20200310160000 +0200" channel="Digi 24 HD">
     <title lang="ro">Studio politic</title>
   </programme>
-  <programme start="20200310160000 +0200" stop="20200310170000 +0200" channel="Digi 24">
+  <programme start="20200310160000 +0200" stop="20200310170000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200310170000 +0200" stop="20200310174000 +0200" channel="Digi 24">
+  <programme start="20200310170000 +0200" stop="20200310174000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200310174000 +0200" stop="20200310180000 +0200" channel="Digi 24">
+  <programme start="20200310174000 +0200" stop="20200310180000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știri sport</title>
   </programme>
-  <programme start="20200310180000 +0200" stop="20200310190000 +0200" channel="Digi 24">
+  <programme start="20200310180000 +0200" stop="20200310190000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
-  <programme start="20200310190000 +0200" stop="20200310194500 +0200" channel="Digi 24">
+  <programme start="20200310190000 +0200" stop="20200310194500 +0200" channel="Digi 24 HD">
     <title lang="ro">Business Club</title>
   </programme>
-  <programme start="20200310194500 +0200" stop="20200310200000 +0200" channel="Digi 24">
+  <programme start="20200310194500 +0200" stop="20200310200000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnal sport</title>
   </programme>
-  <programme start="20200310200000 +0200" stop="20200310230000 +0200" channel="Digi 24">
+  <programme start="20200310200000 +0200" stop="20200310230000 +0200" channel="Digi 24 HD">
     <title lang="ro">Jurnalul de seară</title>
   </programme>
-  <programme start="20200310230000 +0200" stop="20200311000000 +0200" channel="Digi 24">
+  <programme start="20200310230000 +0200" stop="20200311000000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile zilei</title>
   </programme>
   <programme start="20200305060000 +0200" stop="20200305070000 +0200" channel="REALITATEA TV">
@@ -7380,9 +7374,6 @@
   <programme start="20200310233000 +0200" stop="20200311060000 +0200" channel="Agro TV">
     <title lang="ro">Cântec românesc</title>
   </programme>
-  <programme start="20200305150000 +0200" stop="20200305151500 +0200" channel="Nasul TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
   <programme start="20200305151500 +0200" stop="20200305160000 +0200" channel="Nasul TV">
     <title lang="ro">Film documentar</title>
   </programme>
@@ -7712,9 +7703,6 @@
   </programme>
   <programme start="20200310220000 +0200" stop="20200311000000 +0200" channel="Nasul TV">
     <title lang="ro">Sa vorbim despre tine</title>
-  </programme>
-  <programme start="20200305150000 +0200" stop="20200305151500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
   <programme start="20200305151500 +0200" stop="20200305160000 +0200" channel="Digi Sport 1">
     <title lang="ro">Digi Sport Matinal</title>
@@ -8306,9 +8294,6 @@
   </programme>
   <programme start="20200310230000 +0200" stop="20200311000000 +0200" channel="Digi Sport 1">
     <title lang="ro">Live UCL: Leipzig - Tottenham UEFA Champions League</title>
-  </programme>
-  <programme start="20200305150000 +0200" stop="20200305151500 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
   <programme start="20200305151500 +0200" stop="20200305160000 +0200" channel="Digi Sport 1 HD">
     <title lang="ro">Digi Sport Matinal</title>
@@ -9363,9 +9348,6 @@
   <programme start="20200310220000 +0200" stop="20200311000000 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">Live UCL: Valencia - Atalanta UEFA Champions League</title>
   </programme>
-  <programme start="20200305150000 +0200" stop="20200305151400 +0200" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
   <programme start="20200305151400 +0200" stop="20200305160000 +0200" channel="Digi Sport 3">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
@@ -10028,9 +10010,6 @@
   </programme>
   <programme start="20200310233000 +0200" stop="20200311000000 +0200" channel="Digi Sport 3">
     <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200305150000 +0200" stop="20200305151400 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Digi Sport Show</title>
   </programme>
   <programme start="20200305151400 +0200" stop="20200305160000 +0200" channel="Digi Sport 3 HD">
     <title lang="ro">Stirile Digi Sport</title>
