@@ -4,6 +4,10 @@
     <display-name lang="ro">Antena 1</display-name>
     <url>http://www.program24.ro</url>
   </channel>
+  <channel id="PRO X">
+    <display-name lang="ro">PRO X</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
   <programme start="20200305103000 +0200" stop="20200305130000 +0200" channel="Antena 1">
     <title lang="ro">Vorbeşte lumea</title>
   </programme>
@@ -32,6 +36,36 @@
     <title lang="ro">Gospodar fără pereche</title>
   </programme>
   <programme start="20200305233000 +0200" stop="20200306000000 +0200" channel="Antena 1">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200305103000 +0200" stop="20200305130000 +0200" channel="PRO X">
+    <title lang="ro">Vorbeşte lumea</title>
+  </programme>
+  <programme start="20200305130000 +0200" stop="20200305140000 +0200" channel="PRO X">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200305140000 +0200" stop="20200305150000 +0200" channel="PRO X">
+    <title lang="ro">Lecţii de viaţă</title>
+  </programme>
+  <programme start="20200305150000 +0200" stop="20200305170000 +0200" channel="PRO X">
+    <title lang="ro">La Maruţă</title>
+  </programme>
+  <programme start="20200305170000 +0200" stop="20200305180000 +0200" channel="PRO X">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200305180000 +0200" stop="20200305190000 +0200" channel="PRO X">
+    <title lang="ro">Ce spun românii</title>
+  </programme>
+  <programme start="20200305190000 +0200" stop="20200305203000 +0200" channel="PRO X">
+    <title lang="ro">Ştirile Pro Tv</title>
+  </programme>
+  <programme start="20200305203000 +0200" stop="20200305213000 +0200" channel="PRO X">
+    <title lang="ro">Las fierbinți</title>
+  </programme>
+  <programme start="20200305213000 +0200" stop="20200305233000 +0200" channel="PRO X">
+    <title lang="ro">Gospodar fără pereche</title>
+  </programme>
+  <programme start="20200305233000 +0200" stop="20200306000000 +0200" channel="PRO X">
     <title lang="ro">Ştirile Pro Tv</title>
   </programme>
 </tv>
