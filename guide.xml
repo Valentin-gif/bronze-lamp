@@ -57,7 +57,7 @@
     <url>http://www.program24.ro</url>
   </channel>
   <channel id="REALITATEA TV">
-    <display-name lang="en">REALITATEA TV</display-name>
+    <display-name lang="ro">REALITATEA TV</display-name>
     <url>http://www.digiromania.ro</url>
   </channel>
   <channel id="Realitatea Plus">
@@ -69,7 +69,7 @@
     <url>http://www.program24.ro</url>
   </channel>
   <channel id="Antena3">
-    <display-name lang="en">Antena3</display-name>
+    <display-name lang="ro">Antena3</display-name>
     <url>http://www.digiromania.ro</url>
   </channel>
   <channel id="Antena 3 HD">
@@ -304,12 +304,6 @@
     <display-name lang="ro">Bollywood Classics</display-name>
     <url>http://www.program24.ro</url>
   </channel>
-  <programme start="20200309080000 +0200" stop="20200309120000 +0200" channel="Antena 1">
-    <title lang="ro">Neatza cu Răzvan şi Dani</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309140000 +0200" channel="Antena 1">
-    <title lang="ro">Observator</title>
-  </programme>
   <programme start="20200309140000 +0200" stop="20200309160000 +0200" channel="Antena 1">
     <title lang="ro">Dragoste de tată</title>
   </programme>
@@ -525,27 +519,6 @@
   </programme>
   <programme start="20200314234500 +0200" stop="20200315014500 +0200" channel="Antena 1">
     <title lang="ro">O călătorie misterioasă</title>
-  </programme>
-  <programme start="20200309070000 +0200" stop="20200309084500 +0200" channel="PRO X">
-    <title lang="ro">Stiri Sport.ro</title>
-  </programme>
-  <programme start="20200309084500 +0200" stop="20200309090000 +0200" channel="PRO X">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309100000 +0200" channel="PRO X">
-    <title lang="ro">Ora exacta in sport</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309104500 +0200" channel="PRO X">
-    <title lang="ro">Stiri Sport.ro</title>
-  </programme>
-  <programme start="20200309104500 +0200" stop="20200309123000 +0200" channel="PRO X">
-    <title lang="ro">Ora exacta in sport</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309130000 +0200" channel="PRO X">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309150000 +0200" channel="PRO X">
-    <title lang="ro">Ora exacta in sport</title>
   </programme>
   <programme start="20200309150000 +0200" stop="20200309154500 +0200" channel="PRO X">
     <title lang="ro">Ora exacta in sport</title>
@@ -892,17 +865,14 @@
   <programme start="20200314121500 +0200" stop="20200314130000 +0200" channel="PRO X">
     <title lang="ro">Stiri Sport.ro</title>
   </programme>
-  <programme start="20200314130000 +0200" stop="20200314140000 +0200" channel="PRO X">
-    <title lang="ro">Fotbal Preliminariile CE 2020, Bucurati-va de fotbal!- rezumate</title>
-  </programme>
-  <programme start="20200314140000 +0200" stop="20200314150000 +0200" channel="PRO X">
-    <title lang="ro">Fotbal Preliminariile CE 2020, Bucurati-va de fotbal!- rezumate</title>
+  <programme start="20200314130000 +0200" stop="20200314150000 +0200" channel="PRO X">
+    <title lang="ro">Futsal Cupa Romaniei: Semifinala 1 Dunarea Calarasi - Futsal Klub Od.Secuiesc</title>
   </programme>
   <programme start="20200314150000 +0200" stop="20200314160000 +0200" channel="PRO X">
-    <title lang="ro">Ora exacta in sport</title>
+    <title lang="ro">Stiri Sport.ro</title>
   </programme>
   <programme start="20200314160000 +0200" stop="20200314174500 +0200" channel="PRO X">
-    <title lang="ro">Futsal Cupa Romaniei: Final 4</title>
+    <title lang="ro">Futsal Cupa Romaniei: Semifinala 2 Imperial Wet M.Ciuc  - Autobergamo Deva</title>
   </programme>
   <programme start="20200314174500 +0200" stop="20200314180000 +0200" channel="PRO X">
     <title lang="ro">Stiri Sport.ro</title>
@@ -924,36 +894,6 @@
   </programme>
   <programme start="20200314230000 +0200" stop="20200315000000 +0200" channel="PRO X">
     <title lang="ro">Da-i bataie! Local Kombat</title>
-  </programme>
-  <programme start="20200309080000 +0200" stop="20200309090000 +0200" channel="TVR 1">
-    <title lang="ro">Matinal</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309094500 +0200" channel="TVR 1">
-    <title lang="ro">Matinal</title>
-  </programme>
-  <programme start="20200309094500 +0200" stop="20200309100000 +0200" channel="TVR 1">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="TVR 1">
-    <title lang="ro">Ca'n viaţă</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309113000 +0200" channel="TVR 1">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309113000 +0200" stop="20200309124500 +0200" channel="TVR 1">
-    <title lang="ro">Tărâmul dintre vânturi</title>
-  </programme>
-  <programme start="20200309124500 +0200" stop="20200309131000 +0200" channel="TVR 1">
-    <title lang="ro">Tribuna partidelor parlamentare</title>
-  </programme>
-  <programme start="20200309131000 +0200" stop="20200309140000 +0200" channel="TVR 1">
-    <title lang="ro">1989-Decembrie Roşu</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309145500 +0200" channel="TVR 1">
-    <title lang="ro">Telejurnal</title>
-  </programme>
-  <programme start="20200309145500 +0200" stop="20200309151000 +0200" channel="TVR 1">
-    <title lang="ro">Vorbeşte corect!</title>
   </programme>
   <programme start="20200309151000 +0200" stop="20200309164500 +0200" channel="TVR 1">
     <title lang="ro">Maghiara de pe unu</title>
@@ -1470,39 +1410,6 @@
   </programme>
   <programme start="20200314235000 +0200" stop="20200315002500 +0200" channel="TVR 1">
     <title lang="ro">#Creativ</title>
-  </programme>
-  <programme start="20200309080000 +0200" stop="20200309085000 +0200" channel="TVR 2">
-    <title lang="ro">Oanapp</title>
-  </programme>
-  <programme start="20200309085000 +0200" stop="20200309090000 +0200" channel="TVR 2">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309100000 +0200" channel="TVR 2">
-    <title lang="ro">Documentar 360° Geo</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="TVR 2">
-    <title lang="ro">Câştigă România!</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309115000 +0200" channel="TVR 2">
-    <title lang="ro">Glasul inimii</title>
-  </programme>
-  <programme start="20200309115000 +0200" stop="20200309120000 +0200" channel="TVR 2">
-    <title lang="ro">Invingatoarele Romaniei</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309124000 +0200" channel="TVR 2">
-    <title lang="ro">Telejurnal TVR 2</title>
-  </programme>
-  <programme start="20200309124000 +0200" stop="20200309130000 +0200" channel="TVR 2">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309133000 +0200" channel="TVR 2">
-    <title lang="ro">Cultura minorităţilor</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309140000 +0200" channel="TVR 2">
-    <title lang="ro">Regatul Sălbatic</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="TVR 2">
-    <title lang="ro">Documentar 360° Geo</title>
   </programme>
   <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="TVR 2">
     <title lang="ro">Mic dejun cu un campion</title>
@@ -2056,18 +1963,6 @@
   <programme start="20200314234500 +0200" stop="20200315001500 +0200" channel="TVR 2">
     <title lang="ro">Zile cu stil</title>
   </programme>
-  <programme start="20200309070000 +0200" stop="20200309103000 +0200" channel="PRO TV">
-    <title lang="ro">Ştirile Pro Tv</title>
-  </programme>
-  <programme start="20200309103000 +0200" stop="20200309130000 +0200" channel="PRO TV">
-    <title lang="ro">Vorbeşte lumea</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309140000 +0200" channel="PRO TV">
-    <title lang="ro">Ştirile Pro Tv</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="PRO TV">
-    <title lang="ro">Lecţii de viaţă</title>
-  </programme>
   <programme start="20200309150000 +0200" stop="20200309170000 +0200" channel="PRO TV">
     <title lang="ro">La Maruţă</title>
   </programme>
@@ -2323,18 +2218,6 @@
   <programme start="20200314220000 +0200" stop="20200315000000 +0200" channel="PRO TV">
     <title lang="ro">Red Dawn: Ultima invazie</title>
   </programme>
-  <programme start="20200309070000 +0200" stop="20200309103000 +0200" channel="PRO TV HD">
-    <title lang="ro">Ştirile Pro Tv</title>
-  </programme>
-  <programme start="20200309103000 +0200" stop="20200309130000 +0200" channel="PRO TV HD">
-    <title lang="ro">Vorbeşte lumea</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309140000 +0200" channel="PRO TV HD">
-    <title lang="ro">Ştirile Pro Tv</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="PRO TV HD">
-    <title lang="ro">Lecţii de viaţă</title>
-  </programme>
   <programme start="20200309150000 +0200" stop="20200309170000 +0200" channel="PRO TV HD">
     <title lang="ro">La Maruţă</title>
   </programme>
@@ -2589,24 +2472,6 @@
   </programme>
   <programme start="20200314220000 +0200" stop="20200315000000 +0200" channel="PRO TV HD">
     <title lang="ro">Red Dawn: Ultima invazie</title>
-  </programme>
-  <programme start="20200309081500 +0200" stop="20200309084500 +0200" channel="Kanal D HD">
-    <title lang="ro">Pastila de râs</title>
-  </programme>
-  <programme start="20200309084500 +0200" stop="20200309091500 +0200" channel="Kanal D HD">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309091500 +0200" stop="20200309110000 +0200" channel="Kanal D HD">
-    <title lang="ro">Dragoste și ură</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="Kanal D HD">
-    <title lang="ro">Puterea dragostei</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309130000 +0200" channel="Kanal D HD">
-    <title lang="ro">Știrile Kanal D</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309150000 +0200" channel="Kanal D HD">
-    <title lang="ro">În căutarea adevărului</title>
   </programme>
   <programme start="20200309150000 +0200" stop="20200309170000 +0200" channel="Kanal D HD">
     <title lang="ro">Teo Show</title>
@@ -2896,24 +2761,6 @@
   <programme start="20200314230000 +0200" stop="20200315010000 +0200" channel="Kanal D HD">
     <title lang="ro">Bravo, ai stil!</title>
   </programme>
-  <programme start="20200309081500 +0200" stop="20200309084500 +0200" channel="Kanal D">
-    <title lang="ro">Pastila de râs</title>
-  </programme>
-  <programme start="20200309084500 +0200" stop="20200309091500 +0200" channel="Kanal D">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309091500 +0200" stop="20200309110000 +0200" channel="Kanal D">
-    <title lang="ro">Dragoste și ură</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="Kanal D">
-    <title lang="ro">Puterea dragostei</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309130000 +0200" channel="Kanal D">
-    <title lang="ro">Știrile Kanal D</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309150000 +0200" channel="Kanal D">
-    <title lang="ro">În căutarea adevărului</title>
-  </programme>
   <programme start="20200309150000 +0200" stop="20200309170000 +0200" channel="Kanal D">
     <title lang="ro">Teo Show</title>
   </programme>
@@ -3201,30 +3048,6 @@
   </programme>
   <programme start="20200314230000 +0200" stop="20200315010000 +0200" channel="Kanal D">
     <title lang="ro">Bravo, ai stil!</title>
-  </programme>
-  <programme start="20200309072000 +0200" stop="20200309093000 +0200" channel="Prima TV">
-    <title lang="ro">Cucerirea Angliei</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309100000 +0200" channel="Prima TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="Prima TV">
-    <title lang="ro">Constantin 60'</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309113000 +0200" channel="Prima TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309113000 +0200" stop="20200309120000 +0200" channel="Prima TV">
-    <title lang="ro">Cu lumea-n cap</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309140000 +0200" channel="Prima TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309143000 +0200" channel="Prima TV">
-    <title lang="ro">Sănătate cu stil</title>
-  </programme>
-  <programme start="20200309143000 +0200" stop="20200309150500 +0200" channel="Prima TV">
-    <title lang="ro">Teleshopping</title>
   </programme>
   <programme start="20200309150500 +0200" stop="20200309160000 +0200" channel="Prima TV">
     <title lang="ro">Focus</title>
@@ -3573,33 +3396,6 @@
   </programme>
   <programme start="20200314223000 +0200" stop="20200315003000 +0200" channel="Prima TV">
     <title lang="ro">Sexy Harem Ada-Kaleh</title>
-  </programme>
-  <programme start="20200309094500 +0200" stop="20200309104500 +0200" channel="National TV">
-    <title lang="ro">Dragoste si ura</title>
-  </programme>
-  <programme start="20200309104500 +0200" stop="20200309114500 +0200" channel="National TV">
-    <title lang="ro">Vouă</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309124500 +0200" channel="National TV">
-    <title lang="ro">Baronii</title>
-  </programme>
-  <programme start="20200309124500 +0200" stop="20200309130000 +0200" channel="National TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309131500 +0200" channel="National TV">
-    <title lang="ro">Ştiri Naţional TV</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309133000 +0200" channel="National TV">
-    <title lang="ro">Vouă</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309140000 +0200" channel="National TV">
-    <title lang="ro">Baronii</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309141500 +0200" channel="National TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309141500 +0200" stop="20200309143000 +0200" channel="National TV">
-    <title lang="ro">Vouă</title>
   </programme>
   <programme start="20200309143000 +0200" stop="20200309154500 +0200" channel="National TV">
     <title lang="ro">Clanul</title>
@@ -4017,57 +3813,6 @@
   </programme>
   <programme start="20200314234500 +0200" stop="20200315014500 +0200" channel="National TV">
     <title lang="ro">Poama acră</title>
-  </programme>
-  <programme start="20200309081500 +0200" stop="20200309083000 +0200" channel="National 24 Plus">
-    <title lang="ro">Clipuri</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309093000 +0200" channel="National 24 Plus">
-    <title lang="ro">Nino si Maria</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309094500 +0200" channel="National 24 Plus">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309094500 +0200" stop="20200309104500 +0200" channel="National 24 Plus">
-    <title lang="ro">American Cinema</title>
-  </programme>
-  <programme start="20200309104500 +0200" stop="20200309110000 +0200" channel="National 24 Plus">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309113000 +0200" channel="National 24 Plus">
-    <title lang="ro">Baronii</title>
-  </programme>
-  <programme start="20200309113000 +0200" stop="20200309114500 +0200" channel="National 24 Plus">
-    <title lang="ro">Vouă</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309121500 +0200" channel="National 24 Plus">
-    <title lang="ro">Baronii</title>
-  </programme>
-  <programme start="20200309121500 +0200" stop="20200309124500 +0200" channel="National 24 Plus">
-    <title lang="ro">Framework for democracy</title>
-  </programme>
-  <programme start="20200309124500 +0200" stop="20200309130000 +0200" channel="National 24 Plus">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309133000 +0200" channel="National 24 Plus">
-    <title lang="ro">Euroferma</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309134500 +0200" channel="National 24 Plus">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309134500 +0200" stop="20200309141500 +0200" channel="National 24 Plus">
-    <title lang="ro">Baronii</title>
-  </programme>
-  <programme start="20200309141500 +0200" stop="20200309143000 +0200" channel="National 24 Plus">
-    <title lang="ro">Vouă</title>
-  </programme>
-  <programme start="20200309143000 +0200" stop="20200309150000 +0200" channel="National 24 Plus">
-    <title lang="ro">Baronii</title>
-  </programme>
-  <programme start="20200309150000 +0200" stop="20200309151500 +0200" channel="National 24 Plus">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309151500 +0200" stop="20200309153000 +0200" channel="National 24 Plus">
-    <title lang="ro">Clipuri</title>
   </programme>
   <programme start="20200309153000 +0200" stop="20200309154500 +0200" channel="National 24 Plus">
     <title lang="ro">Teleshopping</title>
@@ -4691,33 +4436,6 @@
     <title lang="ro">Război în bucătărie</title>
   </programme>
   <programme start="20200314234500 +0200" stop="20200315001500 +0200" channel="National 24 Plus">
-    <title lang="ro">Vouă</title>
-  </programme>
-  <programme start="20200309094500 +0200" stop="20200309104500 +0200" channel="B1 TV">
-    <title lang="ro">Dragoste si ura</title>
-  </programme>
-  <programme start="20200309104500 +0200" stop="20200309114500 +0200" channel="B1 TV">
-    <title lang="ro">Vouă</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309124500 +0200" channel="B1 TV">
-    <title lang="ro">Baronii</title>
-  </programme>
-  <programme start="20200309124500 +0200" stop="20200309130000 +0200" channel="B1 TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309131500 +0200" channel="B1 TV">
-    <title lang="ro">Ştiri Naţional TV</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309133000 +0200" channel="B1 TV">
-    <title lang="ro">Vouă</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309140000 +0200" channel="B1 TV">
-    <title lang="ro">Baronii</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309141500 +0200" channel="B1 TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309141500 +0200" stop="20200309143000 +0200" channel="B1 TV">
     <title lang="ro">Vouă</title>
   </programme>
   <programme start="20200309143000 +0200" stop="20200309154500 +0200" channel="B1 TV">
@@ -5512,36 +5230,6 @@
   <programme start="20200314224500 +0200" stop="20200315010000 +0200" channel="Pro TV">
     <title lang="ro">Film "Malavita. O familie criminala"</title>
   </programme>
-  <programme start="20200309070000 +0200" stop="20200309090000 +0200" channel="Digi 24 HD">
-    <title lang="ro">Digimatinal</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309100000 +0200" channel="Digi 24 HD">
-    <title lang="ro">Știrile dimineții</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="Digi 24 HD">
-    <title lang="ro">Știrile dimineții</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309114500 +0200" channel="Digi 24 HD">
-    <title lang="ro">Știrile dimineții</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309120000 +0200" channel="Digi 24 HD">
-    <title lang="ro">Jurnal sport</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309130000 +0200" channel="Digi 24 HD">
-    <title lang="ro">Știrile amiezii</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309133000 +0200" channel="Digi 24 HD">
-    <title lang="ro">Știrile amiezii</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309140000 +0200" channel="Digi 24 HD">
-    <title lang="ro">Banii în mișcare</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309144000 +0200" channel="Digi 24 HD">
-    <title lang="ro">Știrile amiezii</title>
-  </programme>
-  <programme start="20200309144000 +0200" stop="20200309150000 +0200" channel="Digi 24 HD">
-    <title lang="ro">Știri sport</title>
-  </programme>
   <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="Digi 24 HD">
     <title lang="ro">Studio politic</title>
   </programme>
@@ -5968,6 +5656,180 @@
   <programme start="20200314233000 +0200" stop="20200315000000 +0200" channel="Digi 24 HD">
     <title lang="ro">Știrile serii</title>
   </programme>
+  <programme start="20200309060000 +0200" stop="20200309070000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Realitatea sportiva</title>
+  </programme>
+  <programme start="20200309070000 +0200" stop="20200309080000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Dimineata de stiri</title>
+  </programme>
+  <programme start="20200309080000 +0200" stop="20200309090000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Dimineata de stiri</title>
+  </programme>
+  <programme start="20200309090000 +0200" stop="20200309100000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Dimineata de stiri</title>
+  </programme>
+  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Realitatea Zilei</title>
+  </programme>
+  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Casa Poporului</title>
+  </programme>
+  <programme start="20200309120000 +0200" stop="20200309130000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Realitatea Zilei</title>
+  </programme>
+  <programme start="20200309130000 +0200" stop="20200309140000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Casa Poporului</title>
+  </programme>
+  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lumea, minut cu minut&amp;sol; Editie Speciala</title>
+  </programme>
+  <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Newsroom</title>
+  </programme>
+  <programme start="20200309160000 +0200" stop="20200309170000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Realitatea de la 16</title>
+  </programme>
+  <programme start="20200309170000 +0200" stop="20200309180000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lupta pentru Romania</title>
+  </programme>
+  <programme start="20200309180000 +0200" stop="20200309190000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Prime Time News</title>
+  </programme>
+  <programme start="20200309190000 +0200" stop="20200309200000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lupta pentru Romania</title>
+  </programme>
+  <programme start="20200309200000 +0200" stop="20200309230000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Legile Puterii</title>
+  </programme>
+  <programme start="20200309230000 +0200" stop="20200310000000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Decodor</title>
+  </programme>
+  <programme start="20200310000000 +0200" stop="20200310010000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Legile Puterii</title>
+  </programme>
+  <programme start="20200310010000 +0200" stop="20200310030000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Legile Puterii</title>
+  </programme>
+  <programme start="20200310030000 +0200" stop="20200310040000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lupta pentru Romania</title>
+  </programme>
+  <programme start="20200310040000 +0200" stop="20200310050000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Prime Time News</title>
+  </programme>
+  <programme start="20200310050000 +0200" stop="20200310060000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lupta pentru Romania</title>
+  </programme>
+  <programme start="20200310060000 +0200" stop="20200310070000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Decodor</title>
+  </programme>
+  <programme start="20200310070000 +0200" stop="20200310080000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Dimineata de stiri</title>
+  </programme>
+  <programme start="20200310080000 +0200" stop="20200310090000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Dimineata de stiri</title>
+  </programme>
+  <programme start="20200310090000 +0200" stop="20200310100000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Dimineata de stiri</title>
+  </programme>
+  <programme start="20200310100000 +0200" stop="20200310110000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Realitatea Zilei</title>
+  </programme>
+  <programme start="20200310110000 +0200" stop="20200310120000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Casa Poporului</title>
+  </programme>
+  <programme start="20200310120000 +0200" stop="20200310130000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Realitatea Zilei</title>
+  </programme>
+  <programme start="20200310130000 +0200" stop="20200310140000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Casa Poporului</title>
+  </programme>
+  <programme start="20200310140000 +0200" stop="20200310150000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lumea, minut cu minut&amp;sol; Editie Speciala</title>
+  </programme>
+  <programme start="20200310150000 +0200" stop="20200310160000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Newsroom</title>
+  </programme>
+  <programme start="20200310160000 +0200" stop="20200310170000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Realitatea de la 16</title>
+  </programme>
+  <programme start="20200310170000 +0200" stop="20200310180000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lupta pentru Romania</title>
+  </programme>
+  <programme start="20200310180000 +0200" stop="20200310190000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Prime Time News</title>
+  </programme>
+  <programme start="20200310190000 +0200" stop="20200310200000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lupta pentru Romania</title>
+  </programme>
+  <programme start="20200310200000 +0200" stop="20200310230000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Legile Puterii</title>
+  </programme>
+  <programme start="20200310230000 +0200" stop="20200311000000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Decodor</title>
+  </programme>
+  <programme start="20200311000000 +0200" stop="20200311010000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Legile Puterii</title>
+  </programme>
+  <programme start="20200311010000 +0200" stop="20200311030000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Legile Puterii</title>
+  </programme>
+  <programme start="20200311030000 +0200" stop="20200311040000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lupta pentru Romania</title>
+  </programme>
+  <programme start="20200311040000 +0200" stop="20200311050000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Prime Time News</title>
+  </programme>
+  <programme start="20200311050000 +0200" stop="20200311060000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lupta pentru Romania</title>
+  </programme>
+  <programme start="20200311060000 +0200" stop="20200311070000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Decodor</title>
+  </programme>
+  <programme start="20200311070000 +0200" stop="20200311080000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Dimineata de stiri</title>
+  </programme>
+  <programme start="20200311080000 +0200" stop="20200311090000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Dimineata de stiri</title>
+  </programme>
+  <programme start="20200311090000 +0200" stop="20200311100000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Dimineata de stiri</title>
+  </programme>
+  <programme start="20200311100000 +0200" stop="20200311110000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Realitatea Zilei</title>
+  </programme>
+  <programme start="20200311110000 +0200" stop="20200311120000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Casa Poporului</title>
+  </programme>
+  <programme start="20200311120000 +0200" stop="20200311130000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Realitatea Zilei</title>
+  </programme>
+  <programme start="20200311130000 +0200" stop="20200311140000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Casa Poporului</title>
+  </programme>
+  <programme start="20200311140000 +0200" stop="20200311150000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lumea, minut cu minut&amp;sol; Editie Speciala</title>
+  </programme>
+  <programme start="20200311150000 +0200" stop="20200311160000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Newsroom</title>
+  </programme>
+  <programme start="20200311160000 +0200" stop="20200311170000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Realitatea de la 16</title>
+  </programme>
+  <programme start="20200311170000 +0200" stop="20200311180000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lupta pentru Romania</title>
+  </programme>
+  <programme start="20200311180000 +0200" stop="20200311190000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Prime Time News</title>
+  </programme>
+  <programme start="20200311190000 +0200" stop="20200311200000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Lupta pentru Romania</title>
+  </programme>
+  <programme start="20200311200000 +0200" stop="20200311230000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Legile Puterii</title>
+  </programme>
+  <programme start="20200311230000 +0200" stop="20200312000000 +0200" channel="REALITATEA TV">
+    <title lang="ro">Decodor</title>
+  </programme>
   <programme start="20200309070000 +0200" stop="20200309080000 +0200" channel="Realitatea Plus">
     <title lang="ro">DDS, cu Florentina Bălășoiu</title>
   </programme>
@@ -6186,27 +6048,6 @@
   </programme>
   <programme start="20200314230000 +0200" stop="20200315010000 +0200" channel="Realitatea Plus">
     <title lang="ro">Jocuri de Putere, cu Oreste Teodorescu</title>
-  </programme>
-  <programme start="20200309080000 +0200" stop="20200309090000 +0200" channel="România TV">
-    <title lang="ro">Ştirile România TV 8:00</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309100000 +0200" channel="România TV">
-    <title lang="ro">Ştirile România TV 9:00</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="România TV">
-    <title lang="ro">Ştirile România TV 10:00</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="România TV">
-    <title lang="ro">Ştirile România TV 11:00</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309130000 +0200" channel="România TV">
-    <title lang="ro">Ştirile România TV 12:00</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309140000 +0200" channel="România TV">
-    <title lang="ro">Ştirile România TV</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="România TV">
-    <title lang="ro">Ştirile România TV 14:00</title>
   </programme>
   <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="România TV">
     <title lang="ro">Ştirile România TV</title>
@@ -6595,17 +6436,83 @@
   <programme start="20200314230000 +0200" stop="20200315000000 +0200" channel="România TV">
     <title lang="ro">Ştirile România TV 23:00</title>
   </programme>
-  <programme start="20200309090000 +0200" stop="20200309104000 +0200" channel="Antena 3 HD">
-    <title lang="ro">Previziuni</title>
+  <programme start="20200309060000 +0200" stop="20200309104000 +0200" channel="Antena3">
+    <title lang="ro">Stirile diminetii</title>
   </programme>
-  <programme start="20200309104000 +0200" stop="20200309110000 +0200" channel="Antena 3 HD">
+  <programme start="20200309104000 +0200" stop="20200309120000 +0200" channel="Antena3">
     <title lang="ro">Pe cuvant</title>
   </programme>
-  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="Antena 3 HD">
-    <title lang="ro">Previziuni</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309140000 +0200" channel="Antena 3 HD">
+  <programme start="20200309120000 +0200" stop="20200309140000 +0200" channel="Antena3">
     <title lang="ro">Obiectiv</title>
+  </programme>
+  <programme start="20200309140000 +0200" stop="20200309160000 +0200" channel="Antena3">
+    <title lang="ro">Esential</title>
+  </programme>
+  <programme start="20200309160000 +0200" stop="20200309170000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200309170000 +0200" stop="20200310000000 +0200" channel="Antena3">
+    <title lang="ro">Editie speciala</title>
+  </programme>
+  <programme start="20200310000000 +0200" stop="20200310010000 +0200" channel="Antena3">
+    <title lang="ro">In gura presei</title>
+  </programme>
+  <programme start="20200310010000 +0200" stop="20200310040000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200310040000 +0200" stop="20200310045000 +0200" channel="Antena3">
+    <title lang="ro">In gura presei</title>
+  </programme>
+  <programme start="20200310045000 +0200" stop="20200310060000 +0200" channel="Antena3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200310060000 +0200" stop="20200310104000 +0200" channel="Antena3">
+    <title lang="ro">Stirile diminetii</title>
+  </programme>
+  <programme start="20200310104000 +0200" stop="20200310120000 +0200" channel="Antena3">
+    <title lang="ro">Pe cuvant</title>
+  </programme>
+  <programme start="20200310120000 +0200" stop="20200310140000 +0200" channel="Antena3">
+    <title lang="ro">Obiectiv</title>
+  </programme>
+  <programme start="20200310140000 +0200" stop="20200310160000 +0200" channel="Antena3">
+    <title lang="ro">Esential</title>
+  </programme>
+  <programme start="20200310160000 +0200" stop="20200310170000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200310170000 +0200" stop="20200311000000 +0200" channel="Antena3">
+    <title lang="ro">Editie speciala</title>
+  </programme>
+  <programme start="20200311000000 +0200" stop="20200311010000 +0200" channel="Antena3">
+    <title lang="ro">In gura presei</title>
+  </programme>
+  <programme start="20200311010000 +0200" stop="20200311040000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200311040000 +0200" stop="20200311045000 +0200" channel="Antena3">
+    <title lang="ro">In gura presei</title>
+  </programme>
+  <programme start="20200311045000 +0200" stop="20200311060000 +0200" channel="Antena3">
+    <title lang="ro">Teleshopping</title>
+  </programme>
+  <programme start="20200311060000 +0200" stop="20200311104000 +0200" channel="Antena3">
+    <title lang="ro">Stirile diminetii</title>
+  </programme>
+  <programme start="20200311104000 +0200" stop="20200311120000 +0200" channel="Antena3">
+    <title lang="ro">Pe cuvant</title>
+  </programme>
+  <programme start="20200311120000 +0200" stop="20200311140000 +0200" channel="Antena3">
+    <title lang="ro">Obiectiv</title>
+  </programme>
+  <programme start="20200311140000 +0200" stop="20200311160000 +0200" channel="Antena3">
+    <title lang="ro">Esential</title>
+  </programme>
+  <programme start="20200311160000 +0200" stop="20200311170000 +0200" channel="Antena3">
+    <title lang="ro">Stiri</title>
+  </programme>
+  <programme start="20200311170000 +0200" stop="20200312000000 +0200" channel="Antena3">
+    <title lang="ro">Editie speciala</title>
   </programme>
   <programme start="20200309140000 +0200" stop="20200309160000 +0200" channel="Antena 3 HD">
     <title lang="ro">Esențial</title>
@@ -6885,24 +6792,6 @@
   </programme>
   <programme start="20200314230000 +0200" stop="20200315000000 +0200" channel="Antena 3 HD">
     <title lang="ro">Descoperiti</title>
-  </programme>
-  <programme start="20200309080000 +0200" stop="20200309090000 +0200" channel="Profit.ro">
-    <title lang="ro">Back in Business</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309123000 +0200" channel="Profit.ro">
-    <title lang="ro">Profit News</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309133000 +0200" channel="Profit.ro">
-    <title lang="ro">Back in Business</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309140000 +0200" channel="Profit.ro">
-    <title lang="ro">Profit News</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="Profit.ro">
-    <title lang="ro">Decizii la Vârf</title>
-  </programme>
-  <programme start="20200309150000 +0200" stop="20200309153000 +0200" channel="Profit.ro">
-    <title lang="ro">Teleshopping</title>
   </programme>
   <programme start="20200309153000 +0200" stop="20200309163000 +0200" channel="Profit.ro">
     <title lang="ro">Inside Profit</title>
@@ -7389,57 +7278,6 @@
   </programme>
   <programme start="20200314230000 +0200" stop="20200314233000 +0200" channel="Profit.ro">
     <title lang="ro">Feel the Markets</title>
-  </programme>
-  <programme start="20200309074500 +0200" stop="20200309083000 +0200" channel="Agro TV">
-    <title lang="ro">ABC-ul consumatorului</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309084500 +0200" channel="Agro TV">
-    <title lang="ro">În gura lumii</title>
-  </programme>
-  <programme start="20200309084500 +0200" stop="20200309090000 +0200" channel="Agro TV">
-    <title lang="ro">România Frumoasă</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309093000 +0200" channel="Agro TV">
-    <title lang="ro">Agroturism</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309100000 +0200" channel="Agro TV">
-    <title lang="ro">Casa curte și o gradină</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309101500 +0200" channel="Agro TV">
-    <title lang="ro">Târguri și Expozitii</title>
-  </programme>
-  <programme start="20200309101500 +0200" stop="20200309102200 +0200" channel="Agro TV">
-    <title lang="ro">Dicționarul Vinului</title>
-  </programme>
-  <programme start="20200309102200 +0200" stop="20200309103000 +0200" channel="Agro TV">
-    <title lang="ro">Agropedia</title>
-  </programme>
-  <programme start="20200309103000 +0200" stop="20200309110000 +0200" channel="Agro TV">
-    <title lang="ro">Agenda cu evenimente</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309113000 +0200" channel="Agro TV">
-    <title lang="ro">Portret de fermier</title>
-  </programme>
-  <programme start="20200309113000 +0200" stop="20200309114500 +0200" channel="Agro TV">
-    <title lang="ro">Tehnologii și Utilaje</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309120000 +0200" channel="Agro TV">
-    <title lang="ro">Rețeta Zilei</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309130000 +0200" channel="Agro TV">
-    <title lang="ro">Interviul Agro TV</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309133000 +0200" channel="Agro TV">
-    <title lang="ro">Retrospectivă știri AGRO TV</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309140000 +0200" channel="Agro TV">
-    <title lang="ro">Tradiții și meșteșuguri</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="Agro TV">
-    <title lang="ro">Sinteza Agrostrategică</title>
-  </programme>
-  <programme start="20200309150000 +0200" stop="20200309153000 +0200" channel="Agro TV">
-    <title lang="ro">Realități Rurale</title>
   </programme>
   <programme start="20200309153000 +0200" stop="20200309154500 +0200" channel="Agro TV">
     <title lang="ro">România Frumoasă</title>
@@ -8008,33 +7846,6 @@
   <programme start="20200314234500 +0200" stop="20200315060000 +0200" channel="Agro TV">
     <title lang="ro">Film documentar Agro</title>
   </programme>
-  <programme start="20200309080000 +0200" stop="20200309090000 +0200" channel="Nasul TV">
-    <title lang="ro">Nasul Canada</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309110000 +0200" channel="Nasul TV">
-    <title lang="ro">Caravana Natiunii</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309114500 +0200" channel="Nasul TV">
-    <title lang="ro">Film documentar</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309120000 +0200" channel="Nasul TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309121500 +0200" channel="Nasul TV">
-    <title lang="ro">Film documentar</title>
-  </programme>
-  <programme start="20200309121500 +0200" stop="20200309123000 +0200" channel="Nasul TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309140000 +0200" channel="Nasul TV">
-    <title lang="ro">Slujba biblica, apostolica si profetica</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="Nasul TV">
-    <title lang="ro">Omul potrivit la locul potrivit</title>
-  </programme>
-  <programme start="20200309150000 +0200" stop="20200309151500 +0200" channel="Nasul TV">
-    <title lang="ro">Teleshopping</title>
-  </programme>
   <programme start="20200309151500 +0200" stop="20200309160000 +0200" channel="Nasul TV">
     <title lang="ro">Film documentar</title>
   </programme>
@@ -8262,51 +8073,6 @@
   </programme>
   <programme start="20200313060000 +0200" stop="20200313063000 +0200" channel="Nasul TV">
     <title lang="ro">Film documentar</title>
-  </programme>
-  <programme start="20200309080000 +0200" stop="20200309083000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309090000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309093000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309100000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309101500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309101500 +0200" stop="20200309110000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Live Digi Sport Matinal</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309111500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309111500 +0200" stop="20200309120000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Live Digi Sport Matinal</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309121500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309121500 +0200" stop="20200309130000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Fotbal Club</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309131500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309140000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Fotbal Club</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309141500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309141500 +0200" stop="20200309150000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Matinal</title>
-  </programme>
-  <programme start="20200309150000 +0200" stop="20200309151500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
   </programme>
   <programme start="20200309151500 +0200" stop="20200309160000 +0200" channel="Digi Sport 1">
     <title lang="ro">Digi Sport Matinal</title>
@@ -8881,51 +8647,6 @@
   <programme start="20200314234500 +0200" stop="20200315000000 +0200" channel="Digi Sport 1">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20200309080000 +0200" stop="20200309083000 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309090000 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309093000 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309100000 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309101500 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309101500 +0200" stop="20200309110000 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Live Digi Sport Matinal</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309111500 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309111500 +0200" stop="20200309120000 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Live Digi Sport Matinal</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309121500 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309121500 +0200" stop="20200309130000 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Fotbal Club</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309131500 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309140000 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Fotbal Club</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309141500 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309141500 +0200" stop="20200309150000 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Digi Sport Matinal</title>
-  </programme>
-  <programme start="20200309150000 +0200" stop="20200309151500 +0200" channel="Digi Sport 1 HD">
-    <title lang="ro">Live Stirile Digi Sport</title>
-  </programme>
   <programme start="20200309151500 +0200" stop="20200309160000 +0200" channel="Digi Sport 1 HD">
     <title lang="ro">Digi Sport Matinal</title>
   </programme>
@@ -9499,18 +9220,6 @@
   <programme start="20200314234500 +0200" stop="20200315000000 +0200" channel="Digi Sport 1 HD">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20200309070000 +0200" stop="20200309083000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Fotbal Club</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309103000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Tenis: WTA Lyon</title>
-  </programme>
-  <programme start="20200309103000 +0200" stop="20200309123000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Tenis: WTA Monterrey</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309141500 +0200" channel="Digi Sport 2">
-    <title lang="ro">Serie A: Bologna - Juventus Serie A</title>
-  </programme>
   <programme start="20200309141500 +0200" stop="20200309160000 +0200" channel="Digi Sport 2">
     <title lang="ro">La Liga: Betis - Real Madrid La Liga</title>
   </programme>
@@ -9520,8 +9229,14 @@
   <programme start="20200309170000 +0200" stop="20200309180000 +0200" channel="Digi Sport 2">
     <title lang="ro">Premiera Rezumat Spania La Liga</title>
   </programme>
-  <programme start="20200309180000 +0200" stop="20200309234500 +0200" channel="Digi Sport 2">
+  <programme start="20200309180000 +0200" stop="20200309193000 +0200" channel="Digi Sport 2">
     <title lang="ro">Premiera Rezumat Germania Bundesliga</title>
+  </programme>
+  <programme start="20200309193000 +0200" stop="20200309213000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Live Fotbal: Sassuolo - Brescia Serie A</title>
+  </programme>
+  <programme start="20200309213000 +0200" stop="20200309234500 +0200" channel="Digi Sport 2">
+    <title lang="ro">Fotbal: Rezumat Serie A Serie A</title>
   </programme>
   <programme start="20200309234500 +0200" stop="20200310013000 +0200" channel="Digi Sport 2">
     <title lang="ro">La Liga: Barcelona - Real Sociedad La Liga</title>
@@ -9664,14 +9379,11 @@
   <programme start="20200313070000 +0200" stop="20200313193000 +0200" channel="Digi Sport 2">
     <title lang="ro">Tenis: WTA Indian Wells</title>
   </programme>
-  <programme start="20200313193000 +0200" stop="20200313200000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200313200000 +0200" stop="20200313220000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Live Tenis: WTA Indian Wells</title>
+  <programme start="20200313193000 +0200" stop="20200313220000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Live Fotbal: Verona - Napoli Serie A</title>
   </programme>
   <programme start="20200313220000 +0200" stop="20200314000000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Live Tenis: WTA Indian Wells</title>
+    <title lang="ro">Live Fotbal: Real Madrid - Eibar La Liga</title>
   </programme>
   <programme start="20200314000000 +0200" stop="20200314020000 +0200" channel="Digi Sport 2">
     <title lang="ro">Live Tenis: WTA Indian Wells</title>
@@ -9703,26 +9415,11 @@
   <programme start="20200314190000 +0200" stop="20200314193000 +0200" channel="Digi Sport 2">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20200314193000 +0200" stop="20200314213000 +0200" channel="Digi Sport 2">
+  <programme start="20200314193000 +0200" stop="20200314220000 +0200" channel="Digi Sport 2">
     <title lang="ro">Live La Liga: Mallorca - Barcelona La Liga</title>
   </programme>
-  <programme start="20200314213000 +0200" stop="20200314233000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Live Tenis: WTA Indian Wells</title>
-  </programme>
-  <programme start="20200314233000 +0200" stop="20200315020000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Live Tenis: WTA Indian Wells</title>
-  </programme>
-  <programme start="20200309070000 +0200" stop="20200309083000 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Fotbal Club</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309103000 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Tenis: WTA Lyon</title>
-  </programme>
-  <programme start="20200309103000 +0200" stop="20200309123000 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Tenis: WTA Monterrey</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309141500 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Serie A: Bologna - Juventus Serie A</title>
+  <programme start="20200314220000 +0200" stop="20200315020000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Live Fotbal: Celta Vigo - Villarreal La Liga</title>
   </programme>
   <programme start="20200309141500 +0200" stop="20200309160000 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">La Liga: Betis - Real Madrid La Liga</title>
@@ -9733,14 +9430,14 @@
   <programme start="20200309170000 +0200" stop="20200309180000 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">Premiera Rezumat Spania La Liga</title>
   </programme>
-  <programme start="20200309180000 +0200" stop="20200309190000 +0200" channel="Digi Sport 2 HD">
+  <programme start="20200309180000 +0200" stop="20200309193000 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">Premiera Rezumat Germania Bundesliga</title>
   </programme>
-  <programme start="20200309190000 +0200" stop="20200309214500 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Live Kickboxing: Colosseum Tournament</title>
+  <programme start="20200309193000 +0200" stop="20200309213000 +0200" channel="Digi Sport 2 HD">
+    <title lang="ro">Live Fotbal: Sassuolo - Brescia Serie A</title>
   </programme>
-  <programme start="20200309214500 +0200" stop="20200309234500 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Live Serie A: Lecce - Milan Serie A</title>
+  <programme start="20200309213000 +0200" stop="20200309234500 +0200" channel="Digi Sport 2 HD">
+    <title lang="ro">Fotbal: Rezumat Serie A Serie A</title>
   </programme>
   <programme start="20200309234500 +0200" stop="20200310013000 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">La Liga: Barcelona - Real Sociedad La Liga</title>
@@ -9751,11 +9448,8 @@
   <programme start="20200310014500 +0200" stop="20200310033000 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">Serie A: Bologna - Juventus Serie A</title>
   </programme>
-  <programme start="20200310033000 +0200" stop="20200310051500 +0200" channel="Digi Sport 2 HD">
+  <programme start="20200310033000 +0200" stop="20200310070000 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">Bundesliga: Bayern Munchen - Augsburg Bundesliga</title>
-  </programme>
-  <programme start="20200310051500 +0200" stop="20200310070000 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Serie A: Lecce - Milan Serie A</title>
   </programme>
   <programme start="20200310070000 +0200" stop="20200310081500 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">Fotbal Club</title>
@@ -9886,14 +9580,11 @@
   <programme start="20200313070000 +0200" stop="20200313193000 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">Tenis: WTA Indian Wells</title>
   </programme>
-  <programme start="20200313193000 +0200" stop="20200313200000 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200313200000 +0200" stop="20200313220000 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Live Tenis: WTA Indian Wells</title>
+  <programme start="20200313193000 +0200" stop="20200313220000 +0200" channel="Digi Sport 2 HD">
+    <title lang="ro">Live Fotbal: Verona - Napoli Serie A</title>
   </programme>
   <programme start="20200313220000 +0200" stop="20200314000000 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Live Tenis: WTA Indian Wells</title>
+    <title lang="ro">Live Fotbal: Real Madrid - Eibar La Liga</title>
   </programme>
   <programme start="20200314000000 +0200" stop="20200314020000 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">Live Tenis: WTA Indian Wells</title>
@@ -9925,56 +9616,11 @@
   <programme start="20200314190000 +0200" stop="20200314193000 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20200314193000 +0200" stop="20200314213000 +0200" channel="Digi Sport 2 HD">
+  <programme start="20200314193000 +0200" stop="20200314220000 +0200" channel="Digi Sport 2 HD">
     <title lang="ro">Live La Liga: Mallorca - Barcelona La Liga</title>
   </programme>
-  <programme start="20200314213000 +0200" stop="20200314233000 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Live Tenis: WTA Indian Wells</title>
-  </programme>
-  <programme start="20200314233000 +0200" stop="20200315020000 +0200" channel="Digi Sport 2 HD">
-    <title lang="ro">Live Tenis: WTA Indian Wells</title>
-  </programme>
-  <programme start="20200309074500 +0200" stop="20200309083000 +0200" channel="Digi Sport 3">
-    <title lang="ro">Rezumate UEFA Champions League</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309091500 +0200" channel="Digi Sport 3">
-    <title lang="ro">Rezumate UEFA Europa League</title>
-  </programme>
-  <programme start="20200309091500 +0200" stop="20200309094500 +0200" channel="Digi Sport 3">
-    <title lang="ro">UCL Magazin</title>
-  </programme>
-  <programme start="20200309094500 +0200" stop="20200309101500 +0200" channel="Digi Sport 3">
-    <title lang="ro">UEL Magazin</title>
-  </programme>
-  <programme start="20200309101500 +0200" stop="20200309110000 +0200" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309111500 +0200" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20200309111500 +0200" stop="20200309120000 +0200" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309121500 +0200" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20200309121500 +0200" stop="20200309130000 +0200" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309131500 +0200" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309140000 +0200" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309141500 +0200" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20200309141500 +0200" stop="20200309150000 +0200" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309150000 +0200" stop="20200309151500 +0200" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
+  <programme start="20200314220000 +0200" stop="20200315020000 +0200" channel="Digi Sport 2 HD">
+    <title lang="ro">Live Fotbal: Celta Vigo - Villarreal La Liga</title>
   </programme>
   <programme start="20200309151500 +0200" stop="20200309160000 +0200" channel="Digi Sport 3">
     <title lang="ro">Stirile Digi Sport</title>
@@ -10588,53 +10234,11 @@
   <programme start="20200314193000 +0200" stop="20200314213000 +0200" channel="Digi Sport 3">
     <title lang="ro">Live Bundesliga: Union Berlin - Bayern Munchen Bundesliga</title>
   </programme>
-  <programme start="20200314213000 +0200" stop="20200314220000 +0200" channel="Digi Sport 3">
+  <programme start="20200314213000 +0200" stop="20200314214500 +0200" channel="Digi Sport 3">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20200314220000 +0200" stop="20200315000000 +0200" channel="Digi Sport 3">
-    <title lang="ro">Live La Liga: Celta Vigo - Villarreal La Liga</title>
-  </programme>
-  <programme start="20200309074500 +0200" stop="20200309083000 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Rezumate UEFA Champions League</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309091500 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Rezumate UEFA Europa League</title>
-  </programme>
-  <programme start="20200309091500 +0200" stop="20200309094500 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">UCL Magazin</title>
-  </programme>
-  <programme start="20200309094500 +0200" stop="20200309101500 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">UEL Magazin</title>
-  </programme>
-  <programme start="20200309101500 +0200" stop="20200309110000 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309111500 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20200309111500 +0200" stop="20200309120000 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309121500 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20200309121500 +0200" stop="20200309130000 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309131500 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309140000 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309141500 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Digi Sport Show</title>
-  </programme>
-  <programme start="20200309141500 +0200" stop="20200309150000 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200309150000 +0200" stop="20200309151500 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Digi Sport Show</title>
+  <programme start="20200314214500 +0200" stop="20200315000000 +0200" channel="Digi Sport 3">
+    <title lang="ro">Live Fotbal: Torino - Udinese Serie A</title>
   </programme>
   <programme start="20200309151500 +0200" stop="20200309160000 +0200" channel="Digi Sport 3 HD">
     <title lang="ro">Stirile Digi Sport</title>
@@ -11248,23 +10852,11 @@
   <programme start="20200314193000 +0200" stop="20200314213000 +0200" channel="Digi Sport 3 HD">
     <title lang="ro">Live Bundesliga: Union Berlin - Bayern Munchen Bundesliga</title>
   </programme>
-  <programme start="20200314213000 +0200" stop="20200314220000 +0200" channel="Digi Sport 3 HD">
+  <programme start="20200314213000 +0200" stop="20200314214500 +0200" channel="Digi Sport 3 HD">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20200314220000 +0200" stop="20200315000000 +0200" channel="Digi Sport 3 HD">
-    <title lang="ro">Live La Liga: Celta Vigo - Villarreal La Liga</title>
-  </programme>
-  <programme start="20200309070000 +0200" stop="20200309084500 +0200" channel="Digi Sport 4">
-    <title lang="ro">Ligue 1: Lille - Lyon Ligue 1</title>
-  </programme>
-  <programme start="20200309084500 +0200" stop="20200309103000 +0200" channel="Digi Sport 4">
-    <title lang="ro">Liga 1: FCSB - Universitatea Craiova Liga 1</title>
-  </programme>
-  <programme start="20200309103000 +0200" stop="20200309121500 +0200" channel="Digi Sport 4">
-    <title lang="ro">Serie A: Inter - Sassuolo Serie A</title>
-  </programme>
-  <programme start="20200309121500 +0200" stop="20200309140000 +0200" channel="Digi Sport 4">
-    <title lang="ro">La Liga: Atletico Madrid - Sevilla La Liga</title>
+  <programme start="20200314214500 +0200" stop="20200315000000 +0200" channel="Digi Sport 3 HD">
+    <title lang="ro">Live Fotbal: Torino - Udinese Serie A</title>
   </programme>
   <programme start="20200309140000 +0200" stop="20200309154500 +0200" channel="Digi Sport 4">
     <title lang="ro">Bundesliga: Bayern Munchen - Augsburg Bundesliga</title>
@@ -11428,14 +11020,14 @@
   <programme start="20200312190000 +0200" stop="20200312194500 +0200" channel="Digi Sport 4">
     <title lang="ro">Rezumatele Etapei Liga 1</title>
   </programme>
-  <programme start="20200312194500 +0200" stop="20200312200000 +0200" channel="Digi Sport 4">
+  <programme start="20200312194500 +0200" stop="20200312195500 +0200" channel="Digi Sport 4">
     <title lang="ro">Stirile Digi Sport</title>
   </programme>
-  <programme start="20200312200000 +0200" stop="20200312220000 +0200" channel="Digi Sport 4">
-    <title lang="ro">Live Tenis: WTA Indian Wells</title>
+  <programme start="20200312195500 +0200" stop="20200312220000 +0200" channel="Digi Sport 4">
+    <title lang="ro">Live Fotbal: İstanbul Başakşehir - Copenhaga Europa League</title>
   </programme>
   <programme start="20200312220000 +0200" stop="20200313000000 +0200" channel="Digi Sport 4">
-    <title lang="ro">Live Tenis: WTA Indian Wells</title>
+    <title lang="ro">Live Fotbal: Olympiakos - Wolverhampton Europa League</title>
   </programme>
   <programme start="20200313000000 +0200" stop="20200313014500 +0200" channel="Digi Sport 4">
     <title lang="ro">UEL: Sevilla - Roma UEFA Europa League</title>
@@ -11474,7 +11066,7 @@
     <title lang="ro">Live Baschet M: CSM CSU Oradea - SCM Timisoara Liga Nationala</title>
   </programme>
   <programme start="20200313193000 +0200" stop="20200313213000 +0200" channel="Digi Sport 4">
-    <title lang="ro">Live Fotbal: Verona - Napoli Serie A</title>
+    <title lang="ro">Live Baschet: Steaua - BC CSU Sibiu Liga Nationala</title>
   </programme>
   <programme start="20200313213000 +0200" stop="20200313214500 +0200" channel="Digi Sport 4">
     <title lang="ro">Stirile Digi Sport</title>
@@ -11527,29 +11119,11 @@
   <programme start="20200314190000 +0200" stop="20200314210000 +0200" channel="Digi Sport 4">
     <title lang="ro">Live Fotbal: Genoa - Parma Serie A</title>
   </programme>
-  <programme start="20200314210000 +0200" stop="20200314211500 +0200" channel="Digi Sport 4">
-    <title lang="ro">Stirile Digi Sport</title>
-  </programme>
-  <programme start="20200314211500 +0200" stop="20200314214500 +0200" channel="Digi Sport 4">
-    <title lang="ro">UEL Magazin</title>
-  </programme>
-  <programme start="20200314214500 +0200" stop="20200314234500 +0200" channel="Digi Sport 4">
-    <title lang="ro">Live Fotbal: Torino - Udinese Serie A</title>
+  <programme start="20200314210000 +0200" stop="20200314234500 +0200" channel="Digi Sport 4">
+    <title lang="ro">Live Fotbal: Brest - Lille Ligue 1</title>
   </programme>
   <programme start="20200314234500 +0200" stop="20200315013000 +0200" channel="Digi Sport 4">
     <title lang="ro">Liga a 2-a: UTA Arad - Universitatea Cluj Liga a 2-a</title>
-  </programme>
-  <programme start="20200309073000 +0200" stop="20200309083000 +0200" channel="Telekom Sport 1 HD">
-    <title lang="ro">Fotbal Liga I: Poli Iasi - Dinamo</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309103000 +0200" channel="Telekom Sport 1 HD">
-    <title lang="ro">Fotbal Liga I: Fcsb - Csu Craiova</title>
-  </programme>
-  <programme start="20200309103000 +0200" stop="20200309123000 +0200" channel="Telekom Sport 1 HD">
-    <title lang="ro">Fotbal Italia: Bologna - Juventus</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309143000 +0200" channel="Telekom Sport 1 HD">
-    <title lang="ro">Fotbal Germania: Wolfsburg - Leipzig</title>
   </programme>
   <programme start="20200309143000 +0200" stop="20200309170000 +0200" channel="Telekom Sport 1 HD">
     <title lang="ro">Nba: La Clippers - La Lakers</title>
@@ -11803,18 +11377,6 @@
   <programme start="20200314230000 +0200" stop="20200315000000 +0200" channel="Telekom Sport 1 HD">
     <title lang="ro">Formula 1 Australia: Calificari</title>
   </programme>
-  <programme start="20200309070000 +0200" stop="20200309090000 +0200" channel="Telekom Sport 2">
-    <title lang="ro">Fotbal Spania: Getafe - Celta Vigo</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309110000 +0200" channel="Telekom Sport 2">
-    <title lang="ro">Fotbal Liga 2: Mioveni - Gloria Buzau</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309130000 +0200" channel="Telekom Sport 2">
-    <title lang="ro">Fotbal Liga I: Poli Iasi - Dinamo</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309150000 +0200" channel="Telekom Sport 2">
-    <title lang="ro">Fotbal Germania: Gladbach - Dortmund</title>
-  </programme>
   <programme start="20200309150000 +0200" stop="20200309170000 +0200" channel="Telekom Sport 2">
     <title lang="ro">Fotbal Italia</title>
   </programme>
@@ -12030,24 +11592,6 @@
   </programme>
   <programme start="20200314233000 +0200" stop="20200315000000 +0200" channel="Telekom Sport 2">
     <title lang="ro">Magazin Uefa Champions League</title>
-  </programme>
-  <programme start="20200309080000 +0200" stop="20200309090000 +0200" channel="Telekom Sport 3">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309110000 +0200" channel="Telekom Sport 3">
-    <title lang="ro">Fotbal Germania: Paderborn - Fc Koln</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309113000 +0200" channel="Telekom Sport 3">
-    <title lang="ro">Magazin Uefa Champions League</title>
-  </programme>
-  <programme start="20200309113000 +0200" stop="20200309123000 +0200" channel="Telekom Sport 3">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309140000 +0200" channel="Telekom Sport 3">
-    <title lang="ro">Handbal Liga Campionilor F: Gyor - Rm Valcea</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="Telekom Sport 3">
-    <title lang="ro">Teleshopping</title>
   </programme>
   <programme start="20200309150000 +0200" stop="20200309170000 +0200" channel="Telekom Sport 3">
     <title lang="ro">Fotbal Liga I: Chindia - Sepsi Sf Gheorghe</title>
@@ -12322,24 +11866,6 @@
   <programme start="20200314220000 +0200" stop="20200315000000 +0200" channel="Telekom Sport 3">
     <title lang="ro">Rugby 6 Natiuni: Franta - Irlanda</title>
   </programme>
-  <programme start="20200309080000 +0200" stop="20200309090000 +0200" channel="Telekom Sport 4">
-    <title lang="ro">Rezumate Uefa Europa League</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309100000 +0200" channel="Telekom Sport 4">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309120000 +0200" channel="Telekom Sport 4">
-    <title lang="ro">Fotbal Spania: Osasuna - Espanyol</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309123000 +0200" channel="Telekom Sport 4">
-    <title lang="ro">Nba Action</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309133000 +0200" channel="Telekom Sport 4">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309153000 +0200" channel="Telekom Sport 4">
-    <title lang="ro">Fotbal Cupa Romaniei: Clinceni - Dinamo</title>
-  </programme>
   <programme start="20200309153000 +0200" stop="20200309163000 +0200" channel="Telekom Sport 4">
     <title lang="ro">Teleshopping</title>
   </programme>
@@ -12585,30 +12111,6 @@
   </programme>
   <programme start="20200314220000 +0200" stop="20200315000000 +0200" channel="Telekom Sport 4">
     <title lang="ro">Spania: Celta Vigo - Real Madrid</title>
-  </programme>
-  <programme start="20200309080000 +0200" stop="20200309083000 +0200" channel="Eurosport 1">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309093000 +0200" channel="Eurosport 1">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309100000 +0200" channel="Eurosport 1">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309120000 +0200" channel="Eurosport 1">
-    <title lang="ro">Schi fond: Cupa Mondială, la Oslo, în  Norvegia</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309124500 +0200" channel="Eurosport 1">
-    <title lang="ro">Schi alpin: Cupa Mondială, la Kvitfjell, în Norvegia</title>
-  </programme>
-  <programme start="20200309124500 +0200" stop="20200309133000 +0200" channel="Eurosport 1">
-    <title lang="ro">Schi alpin: Cupa Mondială, la Ofterschwang, în Germania</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309143000 +0200" channel="Eurosport 1">
-    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
-  </programme>
-  <programme start="20200309143000 +0200" stop="20200309150000 +0200" channel="Eurosport 1">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
   </programme>
   <programme start="20200309150000 +0200" stop="20200309154000 +0200" channel="Eurosport 1">
     <title lang="ro">Ciclism: Circuitul Mondial - Paris-Nisa, în Franţa</title>
@@ -13009,30 +12511,6 @@
   <programme start="20200314223000 +0200" stop="20200315001500 +0200" channel="Eurosport 1">
     <title lang="ro">Ciclism pe pistă: Seria Celor Şase Zile, la Manchester, în  Regatul Unit</title>
   </programme>
-  <programme start="20200309080000 +0200" stop="20200309083000 +0200" channel="Eurosport HD">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309093000 +0200" channel="Eurosport HD">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309100000 +0200" channel="Eurosport HD">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309120000 +0200" channel="Eurosport HD">
-    <title lang="ro">Schi fond: Cupa Mondială, la Oslo, în  Norvegia</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309124500 +0200" channel="Eurosport HD">
-    <title lang="ro">Schi alpin: Cupa Mondială, la Kvitfjell, în Norvegia</title>
-  </programme>
-  <programme start="20200309124500 +0200" stop="20200309133000 +0200" channel="Eurosport HD">
-    <title lang="ro">Schi alpin: Cupa Mondială, la Ofterschwang, în Germania</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309143000 +0200" channel="Eurosport HD">
-    <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
-  </programme>
-  <programme start="20200309143000 +0200" stop="20200309150000 +0200" channel="Eurosport HD">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
   <programme start="20200309150000 +0200" stop="20200309154000 +0200" channel="Eurosport HD">
     <title lang="ro">Ciclism: Circuitul Mondial - Paris-Nisa, în Franţa</title>
   </programme>
@@ -13432,30 +12910,6 @@
   <programme start="20200314223000 +0200" stop="20200315001500 +0200" channel="Eurosport HD">
     <title lang="ro">Ciclism pe pistă: Seria Celor Şase Zile, la Manchester, în  Regatul Unit</title>
   </programme>
-  <programme start="20200309070000 +0200" stop="20200309090000 +0200" channel="Eurosport 2">
-    <title lang="ro">Schi fond: Cupa Mondială, la Oslo, în  Norvegia</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309100000 +0200" channel="Eurosport 2">
-    <title lang="ro">Schi fond: Cupa Mondială, la Oslo, în  Norvegia</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="Eurosport 2">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309113000 +0200" channel="Eurosport 2">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309113000 +0200" stop="20200309123000 +0200" channel="Eurosport 2">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309130000 +0200" channel="Eurosport 2">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309140000 +0200" channel="Eurosport 2">
-    <title lang="ro">Ciclism: Circuitul Mondial - Strade Bianche, în Italia</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="Eurosport 2">
-    <title lang="ro">Ciclism: Circuitul Mondial - Paris-Nisa, în Franţa</title>
-  </programme>
   <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="Eurosport 2">
     <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
   </programme>
@@ -13851,30 +13305,6 @@
   </programme>
   <programme start="20200314220000 +0200" stop="20200315000000 +0200" channel="Eurosport 2">
     <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Indian Wells, în  Statele Unite</title>
-  </programme>
-  <programme start="20200309070000 +0200" stop="20200309090000 +0200" channel="Eurosport 2 HD">
-    <title lang="ro">Schi fond: Cupa Mondială, la Oslo, în  Norvegia</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309100000 +0200" channel="Eurosport 2 HD">
-    <title lang="ro">Schi fond: Cupa Mondială, la Oslo, în  Norvegia</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="Eurosport 2 HD">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309113000 +0200" channel="Eurosport 2 HD">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309113000 +0200" stop="20200309123000 +0200" channel="Eurosport 2 HD">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309130000 +0200" channel="Eurosport 2 HD">
-    <title lang="ro">Biatlon: Cupa Mondială, la Nove Mesto, în  Cehia</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309140000 +0200" channel="Eurosport 2 HD">
-    <title lang="ro">Ciclism: Circuitul Mondial - Strade Bianche, în Italia</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="Eurosport 2 HD">
-    <title lang="ro">Ciclism: Circuitul Mondial - Paris-Nisa, în Franţa</title>
   </programme>
   <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="Eurosport 2 HD">
     <title lang="ro">Sărituri cu schiurile: Cupa Mondială, la Oslo, în  Norvegia</title>
@@ -14272,27 +13702,6 @@
   <programme start="20200314220000 +0200" stop="20200315000000 +0200" channel="Eurosport 2 HD">
     <title lang="ro">Tenis: Circuitul Mondial ATP 1000, la Indian Wells, în  Statele Unite</title>
   </programme>
-  <programme start="20200309073000 +0200" stop="20200309093000 +0200" channel="LOOK SPORT">
-    <title lang="ro">Fotbal Campionatul Cehiei: Sparta Praga – Slavia Praga</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309100000 +0200" channel="LOOK SPORT">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309120000 +0200" channel="LOOK SPORT">
-    <title lang="ro">MECI FOTBAL CAMPIONATUL SCOȚIEI: Ross County – Glasgow Rangers</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309130000 +0200" channel="LOOK SPORT">
-    <title lang="ro">Matching Champions</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309133000 +0200" channel="LOOK SPORT">
-    <title lang="ro">Magazin UEFA Champions League</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309143000 +0200" channel="LOOK SPORT">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309143000 +0200" stop="20200309150000 +0200" channel="LOOK SPORT">
-    <title lang="ro">Footbal Stars</title>
-  </programme>
   <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="LOOK SPORT">
     <title lang="ro">Teleshopping</title>
   </programme>
@@ -14509,18 +13918,6 @@
   <programme start="20200313040000 +0200" stop="20200313060000 +0200" channel="LOOK SPORT">
     <title lang="ro">Fotbal UEFA Champions League: Liverpool – Atletico Madrid</title>
   </programme>
-  <programme start="20200309072500 +0200" stop="20200309092500 +0200" channel="LOOK SPORT 2">
-    <title lang="ro">Fotbal Liga 1: Chindia Târgoviște – ACS Sepsi OSK Sf.Gheorghe</title>
-  </programme>
-  <programme start="20200309092500 +0200" stop="20200309112500 +0200" channel="LOOK SPORT 2">
-    <title lang="ro">Fotbal Liga 1: Academica Clinceni – FC Viitorul</title>
-  </programme>
-  <programme start="20200309112500 +0200" stop="20200309132500 +0200" channel="LOOK SPORT 2">
-    <title lang="ro">Fotbal Liga 1: CSM Poli Iași – FC Dinamo București</title>
-  </programme>
-  <programme start="20200309132500 +0200" stop="20200309152000 +0200" channel="LOOK SPORT 2">
-    <title lang="ro">Fotbal Bundesliga: Bayer Leverkusen – Frankfurt</title>
-  </programme>
   <programme start="20200309152000 +0200" stop="20200309171500 +0200" channel="LOOK SPORT 2">
     <title lang="ro">Fotbal Serie A: Parma – SPAL</title>
   </programme>
@@ -14599,17 +13996,125 @@
   <programme start="20200311053000 +0200" stop="20200311063000 +0200" channel="LOOK SPORT 2">
     <title lang="ro">Matching Champions</title>
   </programme>
-  <programme start="20200309074000 +0200" stop="20200309093500 +0200" channel="LOOK SPORT 3">
-    <title lang="ro">Fotbal Liga 2: Farul Constanța – Turris Oltul Turnu Măgurele</title>
+  <programme start="20200311063000 +0200" stop="20200311070000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumate Handbal Liga Campionilor</title>
   </programme>
-  <programme start="20200309093500 +0200" stop="20200309113000 +0200" channel="LOOK SPORT 3">
-    <title lang="ro">Fotbal Liga 2: CS Mioveni – Gloria Buzău</title>
+  <programme start="20200311070000 +0200" stop="20200311073000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Ligii 1</title>
   </programme>
-  <programme start="20200309113000 +0200" stop="20200309132500 +0200" channel="LOOK SPORT 3">
-    <title lang="ro">Fotbal Liga 2: Csikszereda – Petrolul Ploiești</title>
+  <programme start="20200311073000 +0200" stop="20200311090000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Liga Campionilor Handbal Feminin: CSM București – Kristiandstadt</title>
   </programme>
-  <programme start="20200309132500 +0200" stop="20200309152000 +0200" channel="LOOK SPORT 3">
-    <title lang="ro">Fotbal Liga 1: AFC Astra Giurgiu – FC Botoșani</title>
+  <programme start="20200311090000 +0200" stop="20200311100000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Super Lig</title>
+  </programme>
+  <programme start="20200311100000 +0200" stop="20200311110000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Bundesliga</title>
+  </programme>
+  <programme start="20200311110000 +0200" stop="20200311113000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumate Handbal Liga Campionilor</title>
+  </programme>
+  <programme start="20200311113000 +0200" stop="20200311133000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal la Liga: Barcelona – Real Sociedad</title>
+  </programme>
+  <programme start="20200311133000 +0200" stop="20200311153000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal la Liga: Betis Sevilla – Real Madrid</title>
+  </programme>
+  <programme start="20200311153000 +0200" stop="20200311173000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Eredivisie: Heerenveen – Ajax</title>
+  </programme>
+  <programme start="20200311173000 +0200" stop="20200311193000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal All Inclusive: Cu Radu Banciu</title>
+  </programme>
+  <programme start="20200311193000 +0200" stop="20200311213000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Uefa Champions League: Valencia – Atalanta</title>
+  </programme>
+  <programme start="20200311213000 +0200" stop="20200311220000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumate Handbal Liga Campionilor</title>
+  </programme>
+  <programme start="20200311220000 +0200" stop="20200312000000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Super Lig: Gaziantep – Trabzonspor</title>
+  </programme>
+  <programme start="20200312000000 +0200" stop="20200312003000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">La Liga World: Magazin La Liga</title>
+  </programme>
+  <programme start="20200312003000 +0200" stop="20200312010000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Serie A Full Impact: Magazin Serie A</title>
+  </programme>
+  <programme start="20200312010000 +0200" stop="20200312020000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Bundesliga</title>
+  </programme>
+  <programme start="20200312020000 +0200" stop="20200312030000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumate La Liga: Rezumatele etapei La Liga</title>
+  </programme>
+  <programme start="20200312030000 +0200" stop="20200312040000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Serie A Highlights Show: Rezumatele etapei Serie A</title>
+  </programme>
+  <programme start="20200312040000 +0200" stop="20200312060000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Fotbal Cupa Turciei: Alanyaspor – Antalyaspor</title>
+  </programme>
+  <programme start="20200312060000 +0200" stop="20200312070000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Super Lig</title>
+  </programme>
+  <programme start="20200312070000 +0200" stop="20200312080000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Protestul Etapei cu Dragoș Pătraru</title>
+  </programme>
+  <programme start="20200312080000 +0200" stop="20200312090000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Super Lig</title>
+  </programme>
+  <programme start="20200312090000 +0200" stop="20200312103000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Liga Campionilor Handbal Feminin: CSM București – Kristianstadt</title>
+  </programme>
+  <programme start="20200312103000 +0200" stop="20200312110000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumate Handbal Liga Campionilor</title>
+  </programme>
+  <programme start="20200312110000 +0200" stop="20200312113000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Magazin Uefa Europa League</title>
+  </programme>
+  <programme start="20200312113000 +0200" stop="20200312120000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">The art of flight</title>
+  </programme>
+  <programme start="20200312120000 +0200" stop="20200312130000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Bundesliga</title>
+  </programme>
+  <programme start="20200312130000 +0200" stop="20200312140000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Serie A Highlights Show: Rezumatele etapei Serie A</title>
+  </programme>
+  <programme start="20200312140000 +0200" stop="20200312150000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumate La Liga: Rezumatele etapei La Liga</title>
+  </programme>
+  <programme start="20200312150000 +0200" stop="20200312160000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Matching Champions</title>
+  </programme>
+  <programme start="20200312160000 +0200" stop="20200312170000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Ligue 1</title>
+  </programme>
+  <programme start="20200312170000 +0200" stop="20200312173000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">La Liga World: Magazin La Liga</title>
+  </programme>
+  <programme start="20200312173000 +0200" stop="20200312180000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Serie A Full Impact: Magazin Serie A</title>
+  </programme>
+  <programme start="20200312180000 +0200" stop="20200312190000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Super Lig</title>
+  </programme>
+  <programme start="20200312190000 +0200" stop="20200312195500 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Rezumatele Etapei Bundesliga</title>
+  </programme>
+  <programme start="20200312195500 +0200" stop="20200312220000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Uefa Europa League: Frankfurt – Basel</title>
+  </programme>
+  <programme start="20200312220000 +0200" stop="20200313000000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Uefa Europa League: Wolfsburg – Sahtior</title>
+  </programme>
+  <programme start="20200313000000 +0200" stop="20200313020000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Uefa Europa League: Basaksehir – Copenhaga</title>
+  </programme>
+  <programme start="20200313020000 +0200" stop="20200313040000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Uefa Europa League: Glasgow Rangers – Bayer Leberkusen</title>
+  </programme>
+  <programme start="20200313040000 +0200" stop="20200313060000 +0200" channel="LOOK SPORT 2">
+    <title lang="ro">Uefa Champions League: Leipzig – Tottenham</title>
   </programme>
   <programme start="20200309152000 +0200" stop="20200309171500 +0200" channel="LOOK SPORT 3">
     <title lang="ro">Fotbal Liga 2: Petrolul Ploiești – Farul Constanța</title>
@@ -14692,35 +14197,89 @@
   <programme start="20200311040000 +0200" stop="20200311060000 +0200" channel="LOOK SPORT 3">
     <title lang="ro">Fotbal Liga 1: FCSB – CS U Craiova</title>
   </programme>
-  <programme start="20200309080000 +0200" stop="20200309090000 +0200" channel="LOOK PLUS">
-    <title lang="ro">Protestul etapei</title>
+  <programme start="20200311060000 +0200" stop="20200311070000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Rezumatele Etapei Super Lig</title>
   </programme>
-  <programme start="20200309090000 +0200" stop="20200309091500 +0200" channel="LOOK PLUS">
-    <title lang="ro">Teleshopping</title>
+  <programme start="20200311070000 +0200" stop="20200311085500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Bundesliga: Bayer Leverkusen – Frankfurt</title>
   </programme>
-  <programme start="20200309091500 +0200" stop="20200309093000 +0200" channel="LOOK PLUS">
-    <title lang="ro">Știrile Look Plus</title>
+  <programme start="20200311085500 +0200" stop="20200311105000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Bundesliga: Atletico Madrid – Sevilla</title>
   </programme>
-  <programme start="20200309093000 +0200" stop="20200309100000 +0200" channel="LOOK PLUS">
-    <title lang="ro">Magazin UEFA Champions League</title>
+  <programme start="20200311105000 +0200" stop="20200311124500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Premiership: Ross County – Glasgow Rangers</title>
   </programme>
-  <programme start="20200309100000 +0200" stop="20200309103000 +0200" channel="LOOK PLUS">
-    <title lang="ro">Lumea pescuitului</title>
+  <programme start="20200311124500 +0200" stop="20200311144500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Liga 2: FC Voluntari – FC Hermannstadt</title>
   </programme>
-  <programme start="20200309103000 +0200" stop="20200309110000 +0200" channel="LOOK PLUS">
-    <title lang="ro">Teleshopping</title>
+  <programme start="20200311144500 +0200" stop="20200311171500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Tenis de masă: Campionatul Național</title>
   </programme>
-  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="LOOK PLUS">
-    <title lang="ro">Matching Champions</title>
+  <programme start="20200311171500 +0200" stop="20200311203000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Tenis de masă: Campionatul Național</title>
   </programme>
-  <programme start="20200309120000 +0200" stop="20200309133000 +0200" channel="LOOK PLUS">
-    <title lang="ro">Teleshopping</title>
+  <programme start="20200311203000 +0200" stop="20200312000000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Tenis de masă: Campionatul Național</title>
   </programme>
-  <programme start="20200309133000 +0200" stop="20200309150000 +0200" channel="LOOK PLUS">
-    <title lang="ro">Handbal feminin, Liga Campionilor: CSM Bucure;ti - Kristianstadt</title>
+  <programme start="20200312000000 +0200" stop="20200312023000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Tenis de masă: Campionatul Național</title>
   </programme>
-  <programme start="20200309150000 +0200" stop="20200309153000 +0200" channel="LOOK PLUS">
-    <title lang="ro">Teleshopping</title>
+  <programme start="20200312023000 +0200" stop="20200312033000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Rezumatele Etapei Super Lig</title>
+  </programme>
+  <programme start="20200312033000 +0200" stop="20200312043000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Rezumatele Etapei Ligue 1</title>
+  </programme>
+  <programme start="20200312043000 +0200" stop="20200312050000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Magazin Uefa Europa League</title>
+  </programme>
+  <programme start="20200312050000 +0200" stop="20200312070000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Uefa Champions League: Liverpool – Atletico Madrid</title>
+  </programme>
+  <programme start="20200312070000 +0200" stop="20200312073000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">La Liga World: Magazin La Liga</title>
+  </programme>
+  <programme start="20200312073000 +0200" stop="20200312080000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Serie A Full Impact: Magazin Serie A</title>
+  </programme>
+  <programme start="20200312080000 +0200" stop="20200312090000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Rezumatele Etapei Ligue 1</title>
+  </programme>
+  <programme start="20200312090000 +0200" stop="20200312100000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Serie A Highlights Show: Rezumatele etapei Serie A</title>
+  </programme>
+  <programme start="20200312100000 +0200" stop="20200312110000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Rezumate La Liga: Rezumatele etapei La Liga</title>
+  </programme>
+  <programme start="20200312110000 +0200" stop="20200312120000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Rezumatele Etapei Super Lig</title>
+  </programme>
+  <programme start="20200312120000 +0200" stop="20200312140000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Liga 1: AFC Astra Giurgiu – FC Botoșani</title>
+  </programme>
+  <programme start="20200312140000 +0200" stop="20200312160000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Liga 1: CSM Poli Iași – FC Dinamo București</title>
+  </programme>
+  <programme start="20200312160000 +0200" stop="20200312180000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Liga 1: CS Gaz Metan Mediaș – FC CFR Cluj</title>
+  </programme>
+  <programme start="20200312180000 +0200" stop="20200312195500 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Fotbal Liga 1: FCSB – CS U Craiova</title>
+  </programme>
+  <programme start="20200312195500 +0200" stop="20200312220000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Uefa Europa League: Basaksehir – Copenhaga</title>
+  </programme>
+  <programme start="20200312220000 +0200" stop="20200313000000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Uefa Europa League: Olympiacos - Wolves</title>
+  </programme>
+  <programme start="20200313000000 +0200" stop="20200313020000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Uefa Europa League: Sevilla – AS Roma</title>
+  </programme>
+  <programme start="20200313020000 +0200" stop="20200313040000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Uefa Europa League: Wolfsburg – Sahtior</title>
+  </programme>
+  <programme start="20200313040000 +0200" stop="20200313060000 +0200" channel="LOOK SPORT 3">
+    <title lang="ro">Uefa Champions League: Valencia – Atalanta</title>
   </programme>
   <programme start="20200309153000 +0200" stop="20200309173000 +0200" channel="LOOK PLUS">
     <title lang="ro">Fotbal Liga 1: FCSB  - CS U Craiova</title>
@@ -14995,36 +14554,6 @@
   <programme start="20200313060000 +0200" stop="20200313063000 +0200" channel="LOOK PLUS">
     <title lang="ro">Serie Full Impact</title>
   </programme>
-  <programme start="20200309080000 +0200" stop="20200309090000 +0200" channel="LOOK PLUS HD">
-    <title lang="ro">Protestul etapei</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309091500 +0200" channel="LOOK PLUS HD">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309091500 +0200" stop="20200309093000 +0200" channel="LOOK PLUS HD">
-    <title lang="ro">Știrile Look Plus</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309100000 +0200" channel="LOOK PLUS HD">
-    <title lang="ro">Magazin UEFA Champions League</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309103000 +0200" channel="LOOK PLUS HD">
-    <title lang="ro">Lumea pescuitului</title>
-  </programme>
-  <programme start="20200309103000 +0200" stop="20200309110000 +0200" channel="LOOK PLUS HD">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="LOOK PLUS HD">
-    <title lang="ro">Matching Champions</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309133000 +0200" channel="LOOK PLUS HD">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309150000 +0200" channel="LOOK PLUS HD">
-    <title lang="ro">Handbal feminin, Liga Campionilor: CSM Bucure;ti - Kristianstadt</title>
-  </programme>
-  <programme start="20200309150000 +0200" stop="20200309153000 +0200" channel="LOOK PLUS HD">
-    <title lang="ro">Teleshopping</title>
-  </programme>
   <programme start="20200309153000 +0200" stop="20200309173000 +0200" channel="LOOK PLUS HD">
     <title lang="ro">Fotbal Liga 1: FCSB  - CS U Craiova</title>
   </programme>
@@ -15298,15 +14827,6 @@
   <programme start="20200313060000 +0200" stop="20200313063000 +0200" channel="LOOK PLUS HD">
     <title lang="ro">Serie Full Impact</title>
   </programme>
-  <programme start="20200309080500 +0200" stop="20200309095000 +0200" channel="HBO">
-    <title lang="ro">Cenușăreasa</title>
-  </programme>
-  <programme start="20200309095000 +0200" stop="20200309114500 +0200" channel="HBO">
-    <title lang="ro">Bărbați în Negru Internațional</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309134500 +0200" channel="HBO">
-    <title lang="ro">Regele Leu</title>
-  </programme>
   <programme start="20200309134500 +0200" stop="20200309154000 +0200" channel="HBO">
     <title lang="ro">Incredibilii</title>
   </programme>
@@ -15513,18 +15033,6 @@
   </programme>
   <programme start="20200314060000 +0200" stop="20200314074500 +0200" channel="HBO">
     <title lang="ro">O altă joacă de-a spionii</title>
-  </programme>
-  <programme start="20200309081500 +0200" stop="20200309101000 +0200" channel="HBO 2">
-    <title lang="ro">Echipa Sfarmă-Tot</title>
-  </programme>
-  <programme start="20200309101000 +0200" stop="20200309122000 +0200" channel="HBO 2">
-    <title lang="ro">Omul care l-a ucis pe Don Quijote</title>
-  </programme>
-  <programme start="20200309122000 +0200" stop="20200309132000 +0200" channel="HBO 2">
-    <title lang="ro">Prințesa spaniolă</title>
-  </programme>
-  <programme start="20200309132000 +0200" stop="20200309135000 +0200" channel="HBO 2">
-    <title lang="ro">Silicon Valley</title>
   </programme>
   <programme start="20200309135000 +0200" stop="20200309155000 +0200" channel="HBO 2">
     <title lang="ro">În inima pădurii</title>
@@ -15784,18 +15292,6 @@
   <programme start="20200314051500 +0200" stop="20200314070000 +0200" channel="HBO 2">
     <title lang="ro">Șefi de coșmar 2</title>
   </programme>
-  <programme start="20200309081500 +0200" stop="20200309101000 +0200" channel="HBO 2 HD">
-    <title lang="ro">Echipa Sfarmă-Tot</title>
-  </programme>
-  <programme start="20200309101000 +0200" stop="20200309122000 +0200" channel="HBO 2 HD">
-    <title lang="ro">Omul care l-a ucis pe Don Quijote</title>
-  </programme>
-  <programme start="20200309122000 +0200" stop="20200309132000 +0200" channel="HBO 2 HD">
-    <title lang="ro">Prințesa spaniolă</title>
-  </programme>
-  <programme start="20200309132000 +0200" stop="20200309135000 +0200" channel="HBO 2 HD">
-    <title lang="ro">Silicon Valley</title>
-  </programme>
   <programme start="20200309135000 +0200" stop="20200309155000 +0200" channel="HBO 2 HD">
     <title lang="ro">În inima pădurii</title>
   </programme>
@@ -16053,21 +15549,6 @@
   </programme>
   <programme start="20200314051500 +0200" stop="20200314070000 +0200" channel="HBO 2 HD">
     <title lang="ro">Șefi de coșmar 2</title>
-  </programme>
-  <programme start="20200309075500 +0200" stop="20200309093000 +0200" channel="HBO 3">
-    <title lang="ro">Break - puterea dansului</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309110000 +0200" channel="HBO 3">
-    <title lang="ro">Cursă fără frâne</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="HBO 3">
-    <title lang="ro">Westworld</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309133000 +0200" channel="HBO 3">
-    <title lang="ro">Westworld</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309140500 +0200" channel="HBO 3">
-    <title lang="ro">Știrile săptămânii cu John Oliver</title>
   </programme>
   <programme start="20200309140500 +0200" stop="20200309161000 +0200" channel="HBO 3">
     <title lang="ro">Corbul alb</title>
@@ -16339,21 +15820,6 @@
   <programme start="20200314060000 +0200" stop="20200314073500 +0200" channel="HBO 3">
     <title lang="ro">Camera lui Marvin</title>
   </programme>
-  <programme start="20200309075500 +0200" stop="20200309093000 +0200" channel="HBO 3 HD">
-    <title lang="ro">Break - puterea dansului</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309110000 +0200" channel="HBO 3 HD">
-    <title lang="ro">Cursă fără frâne</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="HBO 3 HD">
-    <title lang="ro">Westworld</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309133000 +0200" channel="HBO 3 HD">
-    <title lang="ro">Westworld</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309140500 +0200" channel="HBO 3 HD">
-    <title lang="ro">Știrile săptămânii cu John Oliver</title>
-  </programme>
   <programme start="20200309140500 +0200" stop="20200309161000 +0200" channel="HBO 3 HD">
     <title lang="ro">Corbul alb</title>
   </programme>
@@ -16624,15 +16090,6 @@
   <programme start="20200314060000 +0200" stop="20200314073500 +0200" channel="HBO 3 HD">
     <title lang="ro">Camera lui Marvin</title>
   </programme>
-  <programme start="20200309080500 +0200" stop="20200309095000 +0200" channel="HBO HD">
-    <title lang="ro">Cenușăreasa</title>
-  </programme>
-  <programme start="20200309095000 +0200" stop="20200309114500 +0200" channel="HBO HD">
-    <title lang="ro">Bărbați în Negru Internațional</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309134500 +0200" channel="HBO HD">
-    <title lang="ro">Regele Leu</title>
-  </programme>
   <programme start="20200309134500 +0200" stop="20200309154000 +0200" channel="HBO HD">
     <title lang="ro">Incredibilii</title>
   </programme>
@@ -16839,33 +16296,6 @@
   </programme>
   <programme start="20200314060000 +0200" stop="20200314074500 +0200" channel="HBO HD">
     <title lang="ro">O altă joacă de-a spionii</title>
-  </programme>
-  <programme start="20200309075000 +0200" stop="20200309084000 +0200" channel="TDC">
-    <title lang="ro">Eşarfa roşie</title>
-  </programme>
-  <programme start="20200309084000 +0200" stop="20200309093500 +0200" channel="TDC">
-    <title lang="ro">Eşarfa roşie</title>
-  </programme>
-  <programme start="20200309093500 +0200" stop="20200309102000 +0200" channel="TDC">
-    <title lang="ro">Cinci fraţi</title>
-  </programme>
-  <programme start="20200309102000 +0200" stop="20200309111500 +0200" channel="TDC">
-    <title lang="ro">Cinci fraţi</title>
-  </programme>
-  <programme start="20200309111500 +0200" stop="20200309120500 +0200" channel="TDC">
-    <title lang="ro">Cinci fraţi</title>
-  </programme>
-  <programme start="20200309120500 +0200" stop="20200309125500 +0200" channel="TDC">
-    <title lang="ro">Cinci fraţi</title>
-  </programme>
-  <programme start="20200309125500 +0200" stop="20200309134500 +0200" channel="TDC">
-    <title lang="ro">Cinci fraţi</title>
-  </programme>
-  <programme start="20200309134500 +0200" stop="20200309143500 +0200" channel="TDC">
-    <title lang="ro">Unchiul Kara</title>
-  </programme>
-  <programme start="20200309143500 +0200" stop="20200309153000 +0200" channel="TDC">
-    <title lang="ro">Unchiul Kara</title>
   </programme>
   <programme start="20200309153000 +0200" stop="20200309163000 +0200" channel="TDC">
     <title lang="ro">Unchiul Kara</title>
@@ -17341,18 +16771,6 @@
   <programme start="20200314233000 +0200" stop="20200315001500 +0200" channel="TDC">
     <title lang="ro">Cinci fraţi</title>
   </programme>
-  <programme start="20200309081000 +0200" stop="20200309094500 +0200" channel="Film Now">
-    <title lang="ro">Îngerii lui Charlie</title>
-  </programme>
-  <programme start="20200309094500 +0200" stop="20200309112500 +0200" channel="Film Now">
-    <title lang="ro">Cod roșu la Londra</title>
-  </programme>
-  <programme start="20200309112500 +0200" stop="20200309131500 +0200" channel="Film Now">
-    <title lang="ro">Jack</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309143500 +0200" channel="Film Now">
-    <title lang="ro">Prima lovitură a lui Jackie Chan</title>
-  </programme>
   <programme start="20200309143500 +0200" stop="20200309160500 +0200" channel="Film Now">
     <title lang="ro">Parisul poate aştepta</title>
   </programme>
@@ -17575,18 +16993,6 @@
   <programme start="20200314215000 +0200" stop="20200315000000 +0200" channel="Film Now">
     <title lang="ro">Cercul de foc</title>
   </programme>
-  <programme start="20200309081000 +0200" stop="20200309094500 +0200" channel="Film Now HD">
-    <title lang="ro">Îngerii lui Charlie</title>
-  </programme>
-  <programme start="20200309094500 +0200" stop="20200309112500 +0200" channel="Film Now HD">
-    <title lang="ro">Cod roșu la Londra</title>
-  </programme>
-  <programme start="20200309112500 +0200" stop="20200309131500 +0200" channel="Film Now HD">
-    <title lang="ro">Jack</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309143500 +0200" channel="Film Now HD">
-    <title lang="ro">Prima lovitură a lui Jackie Chan</title>
-  </programme>
   <programme start="20200309143500 +0200" stop="20200309160500 +0200" channel="Film Now HD">
     <title lang="ro">Parisul poate aştepta</title>
   </programme>
@@ -17808,51 +17214,6 @@
   </programme>
   <programme start="20200314215000 +0200" stop="20200315000000 +0200" channel="Film Now HD">
     <title lang="ro">Cercul de foc</title>
-  </programme>
-  <programme start="20200309080000 +0200" stop="20200309083000 +0200" channel="Comedy Central">
-    <title lang="ro">Teoria Big Bang</title>
-  </programme>
-  <programme start="20200309083000 +0200" stop="20200309090000 +0200" channel="Comedy Central">
-    <title lang="ro">Doi bărbați și jumătate</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309093000 +0200" channel="Comedy Central">
-    <title lang="ro">Doi bărbați și jumătate</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309100000 +0200" channel="Comedy Central">
-    <title lang="ro">Doi bărbați și jumătate</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309103000 +0200" channel="Comedy Central">
-    <title lang="ro">Prinţul din Bel Air</title>
-  </programme>
-  <programme start="20200309103000 +0200" stop="20200309110000 +0200" channel="Comedy Central">
-    <title lang="ro">Prinţul din Bel Air</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309113000 +0200" channel="Comedy Central">
-    <title lang="ro">Prietenii tăi</title>
-  </programme>
-  <programme start="20200309113000 +0200" stop="20200309120000 +0200" channel="Comedy Central">
-    <title lang="ro">Prietenii tăi</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309123000 +0200" channel="Comedy Central">
-    <title lang="ro">Mike și Molly</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309130000 +0200" channel="Comedy Central">
-    <title lang="ro">Mike și Molly</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309133000 +0200" channel="Comedy Central">
-    <title lang="ro">Familia Heck</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309140000 +0200" channel="Comedy Central">
-    <title lang="ro">Trăsniţii din Queens</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309143000 +0200" channel="Comedy Central">
-    <title lang="ro">Trăsniţii din Queens</title>
-  </programme>
-  <programme start="20200309143000 +0200" stop="20200309150000 +0200" channel="Comedy Central">
-    <title lang="ro">Iubirea bat-o vina</title>
-  </programme>
-  <programme start="20200309150000 +0200" stop="20200309153000 +0200" channel="Comedy Central">
-    <title lang="ro">Iubirea bat-o vina</title>
   </programme>
   <programme start="20200309153000 +0200" stop="20200309160000 +0200" channel="Comedy Central">
     <title lang="ro">Iubirea bat-o vina</title>
@@ -18625,30 +17986,6 @@
   <programme start="20200314233000 +0200" stop="20200315000000 +0200" channel="Comedy Central">
     <title lang="ro">Comedy Club</title>
   </programme>
-  <programme start="20200309075000 +0200" stop="20200309084500 +0200" channel="AXN">
-    <title lang="ro">Lege și dreptate</title>
-  </programme>
-  <programme start="20200309084500 +0200" stop="20200309095000 +0200" channel="AXN">
-    <title lang="ro">Lege și dreptate</title>
-  </programme>
-  <programme start="20200309095000 +0200" stop="20200309104000 +0200" channel="AXN">
-    <title lang="ro">Minți criminale: Comportament suspect</title>
-  </programme>
-  <programme start="20200309104000 +0200" stop="20200309114500 +0200" channel="AXN">
-    <title lang="ro">Crime pe Coasta de Azur</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309124000 +0200" channel="AXN">
-    <title lang="ro">Cititorii de oase</title>
-  </programme>
-  <programme start="20200309124000 +0200" stop="20200309133000 +0200" channel="AXN">
-    <title lang="ro">Minți criminale</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309142500 +0200" channel="AXN">
-    <title lang="ro">Sherlock Holmes și Dr. Watson</title>
-  </programme>
-  <programme start="20200309142500 +0200" stop="20200309152000 +0200" channel="AXN">
-    <title lang="ro">MacGyver</title>
-  </programme>
   <programme start="20200309152000 +0200" stop="20200309162500 +0200" channel="AXN">
     <title lang="ro">Crime pe Coasta de Azur</title>
   </programme>
@@ -18979,30 +18316,6 @@
   <programme start="20200314233000 +0200" stop="20200315014000 +0200" channel="AXN">
     <title lang="ro">Nuntași de închiriat</title>
   </programme>
-  <programme start="20200309075000 +0200" stop="20200309084500 +0200" channel="AXN HD">
-    <title lang="ro">Lege și dreptate</title>
-  </programme>
-  <programme start="20200309084500 +0200" stop="20200309095000 +0200" channel="AXN HD">
-    <title lang="ro">Lege și dreptate</title>
-  </programme>
-  <programme start="20200309095000 +0200" stop="20200309104000 +0200" channel="AXN HD">
-    <title lang="ro">Minți criminale: Comportament suspect</title>
-  </programme>
-  <programme start="20200309104000 +0200" stop="20200309114500 +0200" channel="AXN HD">
-    <title lang="ro">Crime pe Coasta de Azur</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309124000 +0200" channel="AXN HD">
-    <title lang="ro">Cititorii de oase</title>
-  </programme>
-  <programme start="20200309124000 +0200" stop="20200309133000 +0200" channel="AXN HD">
-    <title lang="ro">Minți criminale</title>
-  </programme>
-  <programme start="20200309133000 +0200" stop="20200309142500 +0200" channel="AXN HD">
-    <title lang="ro">Sherlock Holmes și Dr. Watson</title>
-  </programme>
-  <programme start="20200309142500 +0200" stop="20200309152000 +0200" channel="AXN HD">
-    <title lang="ro">MacGyver</title>
-  </programme>
   <programme start="20200309152000 +0200" stop="20200309162500 +0200" channel="AXN HD">
     <title lang="ro">Crime pe Coasta de Azur</title>
   </programme>
@@ -19332,27 +18645,6 @@
   </programme>
   <programme start="20200314233000 +0200" stop="20200315014000 +0200" channel="AXN HD">
     <title lang="ro">Nuntași de închiriat</title>
-  </programme>
-  <programme start="20200309070000 +0200" stop="20200309100000 +0200" channel="AXN Black">
-    <title lang="ro">Teleshop</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="AXN Black">
-    <title lang="ro">Ultraviolet</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309113000 +0200" channel="AXN Black">
-    <title lang="ro">Totalcar</title>
-  </programme>
-  <programme start="20200309113000 +0200" stop="20200309120000 +0200" channel="AXN Black">
-    <title lang="ro">AXN Insider - Hannibal</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309140000 +0200" channel="AXN Black">
-    <title lang="ro">Teleshop</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309141000 +0200" channel="AXN Black">
-    <title lang="ro">Hannibal Post Mortem</title>
-  </programme>
-  <programme start="20200309141000 +0200" stop="20200309145000 +0200" channel="AXN Black">
-    <title lang="ro">Totalcar</title>
   </programme>
   <programme start="20200309145000 +0200" stop="20200309155000 +0200" channel="AXN Black">
     <title lang="ro">Vânătoarea de comori</title>
@@ -19747,24 +19039,6 @@
   <programme start="20200314232000 +0200" stop="20200315001500 +0200" channel="AXN Black">
     <title lang="ro">Ultraviolet</title>
   </programme>
-  <programme start="20200309103500 +0200" stop="20200309112000 +0200" channel="AXN Spin">
-    <title lang="ro">Călători din viitor</title>
-  </programme>
-  <programme start="20200309112000 +0200" stop="20200309120500 +0200" channel="AXN Spin">
-    <title lang="ro">Squad</title>
-  </programme>
-  <programme start="20200309120500 +0200" stop="20200309125500 +0200" channel="AXN Spin">
-    <title lang="ro">Squad</title>
-  </programme>
-  <programme start="20200309125500 +0200" stop="20200309134500 +0200" channel="AXN Spin">
-    <title lang="ro">Ofițeri începători</title>
-  </programme>
-  <programme start="20200309134500 +0200" stop="20200309143000 +0200" channel="AXN Spin">
-    <title lang="ro">Ofițeri începători</title>
-  </programme>
-  <programme start="20200309143000 +0200" stop="20200309153000 +0200" channel="AXN Spin">
-    <title lang="ro">Dinastia Tudorilor</title>
-  </programme>
   <programme start="20200309153000 +0200" stop="20200309162500 +0200" channel="AXN Spin">
     <title lang="ro">Dinastia Tudorilor</title>
   </programme>
@@ -20113,21 +19387,6 @@
   <programme start="20200314230000 +0200" stop="20200315000000 +0200" channel="AXN Spin">
     <title lang="ro">Candice Renoir</title>
   </programme>
-  <programme start="20200309070000 +0200" stop="20200309120000 +0200" channel="AXN White">
-    <title lang="ro">Teleshop</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309130000 +0200" channel="AXN White">
-    <title lang="ro">Dragoste la urgență</title>
-  </programme>
-  <programme start="20200309130000 +0200" stop="20200309131500 +0200" channel="AXN White">
-    <title lang="ro">Teleshop</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309141500 +0200" channel="AXN White">
-    <title lang="ro">Dragoste la urgență</title>
-  </programme>
-  <programme start="20200309141500 +0200" stop="20200309151500 +0200" channel="AXN White">
-    <title lang="ro">Admiratoarea</title>
-  </programme>
   <programme start="20200309151500 +0200" stop="20200309162000 +0200" channel="AXN White">
     <title lang="ro">Candice Renoir</title>
   </programme>
@@ -20440,21 +19699,6 @@
   <programme start="20200314233500 +0200" stop="20200315012500 +0200" channel="AXN White">
     <title lang="ro">La amiază</title>
   </programme>
-  <programme start="20200309070000 +0200" stop="20200309085000 +0200" channel="CineMAX">
-    <title lang="ro">Vulcanul</title>
-  </programme>
-  <programme start="20200309085000 +0200" stop="20200309103500 +0200" channel="CineMAX">
-    <title lang="ro">Ray și Liz</title>
-  </programme>
-  <programme start="20200309103500 +0200" stop="20200309105500 +0200" channel="CineMAX">
-    <title lang="ro">Alpii magici</title>
-  </programme>
-  <programme start="20200309105500 +0200" stop="20200309122500 +0200" channel="CineMAX">
-    <title lang="ro">Cum vi se pare Adolf?</title>
-  </programme>
-  <programme start="20200309122500 +0200" stop="20200309141000 +0200" channel="CineMAX">
-    <title lang="ro">Mirai</title>
-  </programme>
   <programme start="20200309141000 +0200" stop="20200309154000 +0200" channel="CineMAX">
     <title lang="ro">Functionarii</title>
   </programme>
@@ -20659,21 +19903,6 @@
   <programme start="20200314054000 +0200" stop="20200314070000 +0200" channel="CineMAX">
     <title lang="ro">Sharon 1, 2, 3</title>
   </programme>
-  <programme start="20200309070000 +0200" stop="20200309084500 +0200" channel="Cinemax 2">
-    <title lang="ro">Soții moderne</title>
-  </programme>
-  <programme start="20200309084500 +0200" stop="20200309090500 +0200" channel="Cinemax 2">
-    <title lang="ro">Susoteala</title>
-  </programme>
-  <programme start="20200309090500 +0200" stop="20200309105500 +0200" channel="Cinemax 2">
-    <title lang="ro">Fără urmă</title>
-  </programme>
-  <programme start="20200309105500 +0200" stop="20200309122500 +0200" channel="Cinemax 2">
-    <title lang="ro">Sutienul</title>
-  </programme>
-  <programme start="20200309122500 +0200" stop="20200309141500 +0200" channel="Cinemax 2">
-    <title lang="ro">Rafael</title>
-  </programme>
   <programme start="20200309141500 +0200" stop="20200309155000 +0200" channel="Cinemax 2">
     <title lang="ro">Alergătorul de la miezul nopții</title>
   </programme>
@@ -20871,24 +20100,6 @@
   </programme>
   <programme start="20200314053000 +0200" stop="20200314070000 +0200" channel="Cinemax 2">
     <title lang="ro">Dacă viața îți dă lămâi</title>
-  </programme>
-  <programme start="20200309080000 +0200" stop="20200309090000 +0200" channel="Diva">
-    <title lang="ro">Anatomia lui Grey</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309100000 +0200" channel="Diva">
-    <title lang="ro">Monk</title>
-  </programme>
-  <programme start="20200309100000 +0200" stop="20200309110000 +0200" channel="Diva">
-    <title lang="ro">În mintea criminalului</title>
-  </programme>
-  <programme start="20200309110000 +0200" stop="20200309120000 +0200" channel="Diva">
-    <title lang="ro">În mintea criminalului</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309140000 +0200" channel="Diva">
-    <title lang="ro">Crimele din Midsomer</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="Diva">
-    <title lang="ro">Castle</title>
   </programme>
   <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="Diva">
     <title lang="ro">Castle</title>
@@ -21211,15 +20422,6 @@
   <programme start="20200314230000 +0200" stop="20200315000000 +0200" channel="Diva">
     <title lang="ro">În mintea criminalului</title>
   </programme>
-  <programme start="20200309093000 +0200" stop="20200309120000 +0200" channel="Paramount Channel">
-    <title lang="ro">Irreconcilable Differences</title>
-  </programme>
-  <programme start="20200309120000 +0200" stop="20200309142000 +0200" channel="Paramount Channel">
-    <title lang="ro">Punct și de la capăt</title>
-  </programme>
-  <programme start="20200309142000 +0200" stop="20200309161500 +0200" channel="Paramount Channel">
-    <title lang="ro">Viața bate filmul</title>
-  </programme>
   <programme start="20200309161500 +0200" stop="20200309181500 +0200" channel="Paramount Channel">
     <title lang="ro">Lassie</title>
   </programme>
@@ -21379,15 +20581,6 @@
   <programme start="20200314220000 +0200" stop="20200315014000 +0200" channel="Paramount Channel">
     <title lang="ro">Salvați soldatul Ryan</title>
   </programme>
-  <programme start="20200309085500 +0200" stop="20200309105500 +0200" channel="TV1000">
-    <title lang="ro">Azi 13 mâine 30</title>
-  </programme>
-  <programme start="20200309105500 +0200" stop="20200309124500 +0200" channel="TV1000">
-    <title lang="ro">Contract de căsătorie</title>
-  </programme>
-  <programme start="20200309124500 +0200" stop="20200309151500 +0200" channel="TV1000">
-    <title lang="ro">Fălci</title>
-  </programme>
   <programme start="20200309151500 +0200" stop="20200309171000 +0200" channel="TV1000">
     <title lang="ro">Băiatul în pijama vărgată</title>
   </programme>
@@ -21543,15 +20736,6 @@
   </programme>
   <programme start="20200314220000 +0200" stop="20200315000500 +0200" channel="TV1000">
     <title lang="ro">Dragoste și moarte în Idaho</title>
-  </programme>
-  <programme start="20200309084000 +0200" stop="20200309111500 +0200" channel="AMC">
-    <title lang="ro">Legături periculoase</title>
-  </programme>
-  <programme start="20200309111500 +0200" stop="20200309132000 +0200" channel="AMC">
-    <title lang="ro">Fălci 3</title>
-  </programme>
-  <programme start="20200309132000 +0200" stop="20200309152500 +0200" channel="AMC">
-    <title lang="ro">Masca</title>
   </programme>
   <programme start="20200309152500 +0200" stop="20200309200500 +0200" channel="AMC">
     <title lang="ro">Speed: Cursa infernală</title>
@@ -21775,18 +20959,6 @@
   <programme start="20200314235000 +0200" stop="20200315015000 +0200" channel="AMC">
     <title lang="ro">Pumnul de fier</title>
   </programme>
-  <programme start="20200309073500 +0200" stop="20200309091500 +0200" channel="TNT">
-    <title lang="ro">Animalul</title>
-  </programme>
-  <programme start="20200309091500 +0200" stop="20200309112000 +0200" channel="TNT">
-    <title lang="ro">Provocarea</title>
-  </programme>
-  <programme start="20200309112000 +0200" stop="20200309132000 +0200" channel="TNT">
-    <title lang="ro">Viceversa</title>
-  </programme>
-  <programme start="20200309132000 +0200" stop="20200309151500 +0200" channel="TNT">
-    <title lang="ro">In sanatatea lui Ned</title>
-  </programme>
   <programme start="20200309151500 +0200" stop="20200309171500 +0200" channel="TNT">
     <title lang="ro">Academia de Poliție</title>
   </programme>
@@ -21978,12 +21150,6 @@
   </programme>
   <programme start="20200314210000 +0200" stop="20200315011500 +0200" channel="TNT">
     <title lang="ro">Jumper: Oriunde, oricând</title>
-  </programme>
-  <programme start="20200309084500 +0200" stop="20200309104000 +0200" channel="FILMCAFE">
-    <title lang="ro">Belphegor, Fantoma de la Luvru</title>
-  </programme>
-  <programme start="20200309104000 +0200" stop="20200309124500 +0200" channel="FILMCAFE">
-    <title lang="ro">Schimbul</title>
   </programme>
   <programme start="20200309124500 +0200" stop="20200309171000 +0200" channel="FILMCAFE">
     <title lang="ro">Creaturi fioroase</title>
@@ -22215,30 +21381,6 @@
   </programme>
   <programme start="20200314220000 +0200" stop="20200315000500 +0200" channel="FILMCAFE">
     <title lang="ro">Râuri de Purpură 2: Îngerii Apocalipsei</title>
-  </programme>
-  <programme start="20200309075500 +0200" stop="20200309085000 +0200" channel="Epic Drama">
-    <title lang="ro">Cazurile lui Miss Fisher</title>
-  </programme>
-  <programme start="20200309085000 +0200" stop="20200309095000 +0200" channel="Epic Drama">
-    <title lang="ro">Cazurile lui Miss Fisher</title>
-  </programme>
-  <programme start="20200309095000 +0200" stop="20200309104000 +0200" channel="Epic Drama">
-    <title lang="ro">Cazurile lui Miss Fisher</title>
-  </programme>
-  <programme start="20200309104000 +0200" stop="20200309113500 +0200" channel="Epic Drama">
-    <title lang="ro">Cazurile lui Miss Fisher</title>
-  </programme>
-  <programme start="20200309113500 +0200" stop="20200309123000 +0200" channel="Epic Drama">
-    <title lang="ro">Cazurile lui Miss Fisher</title>
-  </programme>
-  <programme start="20200309123000 +0200" stop="20200309131500 +0200" channel="Epic Drama">
-    <title lang="ro">Detectivul Murdoch</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309140500 +0200" channel="Epic Drama">
-    <title lang="ro">Detectivul Murdoch</title>
-  </programme>
-  <programme start="20200309140500 +0200" stop="20200309145000 +0200" channel="Epic Drama">
-    <title lang="ro">Detectivul Murdoch</title>
   </programme>
   <programme start="20200309145000 +0200" stop="20200309154000 +0200" channel="Epic Drama">
     <title lang="ro">Detectivul Murdoch</title>
@@ -22693,21 +21835,6 @@
   <programme start="20200314234500 +0200" stop="20200315003000 +0200" channel="Epic Drama">
     <title lang="ro">Frankie Drake Mysteries</title>
   </programme>
-  <programme start="20200309074000 +0200" stop="20200309091000 +0200" channel="Filmbox">
-    <title lang="ro">Scafandru la apă</title>
-  </programme>
-  <programme start="20200309091000 +0200" stop="20200309104500 +0200" channel="Filmbox">
-    <title lang="ro">Totul pentru Zucker</title>
-  </programme>
-  <programme start="20200309104500 +0200" stop="20200309121000 +0200" channel="Filmbox">
-    <title lang="ro">Campioana</title>
-  </programme>
-  <programme start="20200309121000 +0200" stop="20200309131500 +0200" channel="Filmbox">
-    <title lang="ro">Gașca din Sugar Creek: Necazuri cu profesorul</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309143000 +0200" channel="Filmbox">
-    <title lang="ro">Aventuri la Sugar Creek: Legenda marelui pește</title>
-  </programme>
   <programme start="20200309143000 +0200" stop="20200309155500 +0200" channel="Filmbox">
     <title lang="ro">Gașca Big Foot</title>
   </programme>
@@ -22959,21 +22086,6 @@
   </programme>
   <programme start="20200314225500 +0200" stop="20200315000000 +0200" channel="Filmbox">
     <title lang="ro">Mafia ucide doar vara</title>
-  </programme>
-  <programme start="20200309070500 +0200" stop="20200309083500 +0200" channel="FilmBox Extra HD">
-    <title lang="ro">Pista</title>
-  </programme>
-  <programme start="20200309083500 +0200" stop="20200309095500 +0200" channel="FilmBox Extra HD">
-    <title lang="ro">Banda Olsen și condeiul</title>
-  </programme>
-  <programme start="20200309095500 +0200" stop="20200309112000 +0200" channel="FilmBox Extra HD">
-    <title lang="ro">Robotul incredibil</title>
-  </programme>
-  <programme start="20200309112000 +0200" stop="20200309124500 +0200" channel="FilmBox Extra HD">
-    <title lang="ro">Cercetașii aventurieri</title>
-  </programme>
-  <programme start="20200309124500 +0200" stop="20200309141500 +0200" channel="FilmBox Extra HD">
-    <title lang="ro">Aventurile lui Tadeo Jones</title>
   </programme>
   <programme start="20200309141500 +0200" stop="20200309160500 +0200" channel="FilmBox Extra HD">
     <title lang="ro">Ritmurile Bollywood-ului</title>
@@ -23229,18 +22341,6 @@
   </programme>
   <programme start="20200314220000 +0200" stop="20200315004000 +0200" channel="FilmBox Extra HD">
     <title lang="ro">Omul întunericului</title>
-  </programme>
-  <programme start="20200309080500 +0200" stop="20200309093000 +0200" channel="Filmbox Premium">
-    <title lang="ro">Bucătarul</title>
-  </programme>
-  <programme start="20200309093000 +0200" stop="20200309111500 +0200" channel="Filmbox Premium">
-    <title lang="ro">Comoara Tillamook</title>
-  </programme>
-  <programme start="20200309111500 +0200" stop="20200309125000 +0200" channel="Filmbox Premium">
-    <title lang="ro">Fugind către casă</title>
-  </programme>
-  <programme start="20200309125000 +0200" stop="20200309142000 +0200" channel="Filmbox Premium">
-    <title lang="ro">Înainte să zici "Da"</title>
   </programme>
   <programme start="20200309142000 +0200" stop="20200309161500 +0200" channel="Filmbox Premium">
     <title lang="ro">Îmblânzindu-l pe Tornado</title>
@@ -23500,15 +22600,6 @@
   <programme start="20200314224500 +0200" stop="20200315001500 +0200" channel="Filmbox Premium">
     <title lang="ro">Cele două chipuri ale dragostei</title>
   </programme>
-  <programme start="20200309080000 +0200" stop="20200309094500 +0200" channel="PRO CINEMA">
-    <title lang="ro">Dl. Peabody și Sherman</title>
-  </programme>
-  <programme start="20200309094500 +0200" stop="20200309121500 +0200" channel="PRO CINEMA">
-    <title lang="ro">La bloc</title>
-  </programme>
-  <programme start="20200309121500 +0200" stop="20200309141500 +0200" channel="PRO CINEMA">
-    <title lang="ro">Aventurile extraordinare ale Adelei</title>
-  </programme>
   <programme start="20200309141500 +0200" stop="20200309161500 +0200" channel="PRO CINEMA">
     <title lang="ro">Miracol pe munte</title>
   </programme>
@@ -23700,30 +22791,6 @@
   </programme>
   <programme start="20200314223000 +0200" stop="20200315003000 +0200" channel="PRO CINEMA">
     <title lang="ro">Calvarul</title>
-  </programme>
-  <programme start="20200309074500 +0200" stop="20200309090000 +0200" channel="PRO 2">
-    <title lang="ro">Lacrimi de iubire</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309091500 +0200" channel="PRO 2">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309091500 +0200" stop="20200309101500 +0200" channel="PRO 2">
-    <title lang="ro">Fiicele doamnei Fazilet</title>
-  </programme>
-  <programme start="20200309101500 +0200" stop="20200309111500 +0200" channel="PRO 2">
-    <title lang="ro">Vieti la rascruce</title>
-  </programme>
-  <programme start="20200309111500 +0200" stop="20200309114500 +0200" channel="PRO 2">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309134500 +0200" channel="PRO 2">
-    <title lang="ro">Un celibatar invins</title>
-  </programme>
-  <programme start="20200309134500 +0200" stop="20200309140000 +0200" channel="PRO 2">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="PRO 2">
-    <title lang="ro">Blind Date</title>
   </programme>
   <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="PRO 2">
     <title lang="ro">Vieti la rascruce</title>
@@ -24109,30 +23176,6 @@
   <programme start="20200314230000 +0200" stop="20200315000000 +0200" channel="PRO 2">
     <title lang="ro">Lacrimi de iubire</title>
   </programme>
-  <programme start="20200309074500 +0200" stop="20200309090000 +0200" channel="PRO 2 HD">
-    <title lang="ro">Lacrimi de iubire</title>
-  </programme>
-  <programme start="20200309090000 +0200" stop="20200309091500 +0200" channel="PRO 2 HD">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309091500 +0200" stop="20200309101500 +0200" channel="PRO 2 HD">
-    <title lang="ro">Fiicele doamnei Fazilet</title>
-  </programme>
-  <programme start="20200309101500 +0200" stop="20200309111500 +0200" channel="PRO 2 HD">
-    <title lang="ro">Vieti la rascruce</title>
-  </programme>
-  <programme start="20200309111500 +0200" stop="20200309114500 +0200" channel="PRO 2 HD">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309134500 +0200" channel="PRO 2 HD">
-    <title lang="ro">Un celibatar invins</title>
-  </programme>
-  <programme start="20200309134500 +0200" stop="20200309140000 +0200" channel="PRO 2 HD">
-    <title lang="ro">Teleshopping</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309150000 +0200" channel="PRO 2 HD">
-    <title lang="ro">Blind Date</title>
-  </programme>
   <programme start="20200309150000 +0200" stop="20200309160000 +0200" channel="PRO 2 HD">
     <title lang="ro">Vieti la rascruce</title>
   </programme>
@@ -24517,21 +23560,6 @@
   <programme start="20200314230000 +0200" stop="20200315000000 +0200" channel="PRO 2 HD">
     <title lang="ro">Lacrimi de iubire</title>
   </programme>
-  <programme start="20200309073000 +0200" stop="20200309101500 +0200" channel="PRO GOLD">
-    <title lang="ro">Vorbeşte lumea</title>
-  </programme>
-  <programme start="20200309101500 +0200" stop="20200309114500 +0200" channel="PRO GOLD">
-    <title lang="ro">Parola: Te iubesc</title>
-  </programme>
-  <programme start="20200309114500 +0200" stop="20200309131500 +0200" channel="PRO GOLD">
-    <title lang="ro">Într-o altă viaţă</title>
-  </programme>
-  <programme start="20200309131500 +0200" stop="20200309143000 +0200" channel="PRO GOLD">
-    <title lang="ro">Cum m-am indragostit</title>
-  </programme>
-  <programme start="20200309143000 +0200" stop="20200309153000 +0200" channel="PRO GOLD">
-    <title lang="ro">Parola: Te iubesc</title>
-  </programme>
   <programme start="20200309153000 +0200" stop="20200309163000 +0200" channel="PRO GOLD">
     <title lang="ro">In numele fericirii</title>
   </programme>
@@ -24828,27 +23856,6 @@
   </programme>
   <programme start="20200314233000 +0200" stop="20200315003000 +0200" channel="PRO GOLD">
     <title lang="ro">In numele fericirii</title>
-  </programme>
-  <programme start="20200309074000 +0200" stop="20200309103500 +0200" channel="Bollywood TV">
-    <title lang="ro">Grandoare</title>
-  </programme>
-  <programme start="20200309103500 +0200" stop="20200309112500 +0200" channel="Bollywood TV">
-    <title lang="ro">Clipuri</title>
-  </programme>
-  <programme start="20200309112500 +0200" stop="20200309132500 +0200" channel="Bollywood TV">
-    <title lang="ro">Viața începe la 40?</title>
-  </programme>
-  <programme start="20200309132500 +0200" stop="20200309140000 +0200" channel="Bollywood TV">
-    <title lang="ro">Clipuri</title>
-  </programme>
-  <programme start="20200309140000 +0200" stop="20200309143000 +0200" channel="Bollywood TV">
-    <title lang="ro">Jyoti</title>
-  </programme>
-  <programme start="20200309143000 +0200" stop="20200309150000 +0200" channel="Bollywood TV">
-    <title lang="ro">Jyoti</title>
-  </programme>
-  <programme start="20200309150000 +0200" stop="20200309153000 +0200" channel="Bollywood TV">
-    <title lang="ro">Jyoti</title>
   </programme>
   <programme start="20200309153000 +0200" stop="20200309160000 +0200" channel="Bollywood TV">
     <title lang="ro">Jyoti</title>
@@ -25218,12 +24225,6 @@
   </programme>
   <programme start="20200314231500 +0200" stop="20200315014000 +0200" channel="Bollywood TV">
     <title lang="ro">Viață de polițist</title>
-  </programme>
-  <programme start="20200309075500 +0200" stop="20200309112000 +0200" channel="Bollywood Classics">
-    <title lang="ro">O iubire interzisă</title>
-  </programme>
-  <programme start="20200309112000 +0200" stop="20200309140000 +0200" channel="Bollywood Classics">
-    <title lang="ro">Victoria</title>
   </programme>
   <programme start="20200309140000 +0200" stop="20200309164000 +0200" channel="Bollywood Classics">
     <title lang="ro">Nu vorbi singur</title>
